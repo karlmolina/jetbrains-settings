@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".coveragerc" type="Ini" />
+      <mapping pattern=".pylintrc" type="Ini" />
       <mapping pattern=".flake8" type="Ini" />
       <mapping pattern=".pydocstyle" type="Ini" />
       <removed_mapping pattern=".coveragerc" approved="true" type="PLAIN_TEXT" />
