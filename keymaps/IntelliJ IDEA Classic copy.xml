@@ -1,13 +1,11 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
   <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift meta z" />
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="shift u" />
   </action>
   <action id="ChooseRunConfiguration" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="shift u" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="FindInPath">
