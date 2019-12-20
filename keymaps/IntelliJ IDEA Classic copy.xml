@@ -2,7 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift u" />
   </action>
-  <action id="ChooseRunConfiguration" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift u" />
@@ -27,4 +29,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
