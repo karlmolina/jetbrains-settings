@@ -18,7 +18,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
