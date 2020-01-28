@@ -22,8 +22,9 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="RecentFiles" />
   <action id="RenameElement">
