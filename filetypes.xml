@@ -4,11 +4,20 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".coveragerc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".coveragerc" type="Ini" />
-      <mapping pattern=".pylintrc" type="Ini" />
       <mapping pattern=".flake8" type="Ini" />
       <mapping pattern=".pydocstyle" type="Ini" />
-      <removed_mapping pattern=".coveragerc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="Ini" />
     </extensionMap>
   </component>
 </application>
