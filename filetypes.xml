@@ -4,6 +4,12 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern=".coveragerc" type="Ini" />
+      <mapping pattern=".pylintrc" type="Ini" />
+      <mapping pattern=".flake8" type="Ini" />
+      <mapping pattern=".pydocstyle" type="Ini" />
+      <mapping ext="jinja" type="Jinja2" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -14,10 +20,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".coveragerc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern=".coveragerc" type="Ini" />
-      <mapping pattern=".flake8" type="Ini" />
-      <mapping pattern=".pydocstyle" type="Ini" />
-      <mapping pattern=".pylintrc" type="Ini" />
     </extensionMap>
   </component>
 </application>
