@@ -6,17 +6,7 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="CompareTwoFiles" />
-  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.DeleteRows" />
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="Diff.ShowDiff" />
-  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift u" />
   </action>
@@ -27,10 +17,9 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="meta k" />
     <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -60,12 +49,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="SendEOF" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
-  <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="openAssertEqualsDiff" />
 </keymap>
