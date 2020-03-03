@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="runlog" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
