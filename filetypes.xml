@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="micro" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern="Micro" type="Shell Script" />
     </extensionMap>
   </component>
