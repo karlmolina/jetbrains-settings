@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/hub/bulk-update-roles.js'" />
-    <option name="defaultScopeName" value="File '.../tests/hub/bulk-update-roles.js'" />
+    <option name="customScope" value="Directory '.../tests'" />
+    <option name="defaultScopeName" value="Directory '.../tests'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/hub/bulk-update-roles.js'" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../tests'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
