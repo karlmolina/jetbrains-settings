@@ -7,7 +7,6 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
-  <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
@@ -52,6 +51,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -75,6 +75,6 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
 </keymap>
