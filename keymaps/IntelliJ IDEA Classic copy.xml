@@ -6,6 +6,10 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
