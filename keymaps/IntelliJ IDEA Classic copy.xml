@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
@@ -35,6 +36,7 @@
   <action id="ExternalSystem.EditRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
