@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="ExternalSystem.EditRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -55,6 +58,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -77,4 +81,7 @@
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
 </keymap>
