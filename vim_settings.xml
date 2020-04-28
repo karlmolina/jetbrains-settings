@@ -52,11 +52,6 @@
       <file name="/a.dummy" timestamp="1587668571900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/historical.js" timestamp="1587668509685">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/first-alert.js" timestamp="1587668813868">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="38" column="0" />
@@ -73,6 +68,11 @@
         <mark key="]" line="57" column="33" />
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="94" column="5" />
+        <mark key="." line="91" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/alert-detail-check-elements.js" timestamp="1587668528594">
         <mark key="[" line="13" column="0" />
@@ -101,7 +101,18 @@
         <mark key="]" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1588109938843">
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1587675325199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1588109743899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,7 +146,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -144,7 +155,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcnVsZXNDb21wb25lbnRzVmlldyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2NsaWVudGFwcC92aWV3cy9ydWxlcy1jb21wb25lbnRzJykK</text>
+        <text encoding="base64">ICAgIGlmIChncnVudC5vcHRpb24oJ3RhZ3MnKSkgewogICAgICAgIGNvbnN0IHRhZ3MgPSBncnVudC5vcHRpb24oJ3RhZ3MnKTsKICAgICAgICBtb2NoYU9wdGlvbnMuZ3JlcCA9IGdldFJlZ2V4KHRhZ3MpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -175,31 +186,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gYWxlcnRzUGFuZWxWaWV3ID0gcmVxdWlyZSgiLi4vLi4vY2xpZW50YXBwL3ZpZXdzL2FsZXJ0cy1wYW5lbCIpLAo=</text>
+        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKICAgIGNvbnN0IERyaXZlck1hbmFnZXIgPSByZXF1aXJlKCcuL0RyaXZlck1hbmFnZXInKTsKICAgIGNvbnN0IHRlc3QgPSByZXF1aXJlKCdzZWxlbml1bS13ZWJkcml2ZXIvdGVzdGluZycpOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gYWxlcnRzUGFuZWxWaWV3ID0gcmVxdWlyZSgiLi4vLi4vY2xpZW50YXBwL3ZpZXdzL2FsZXJ0cy1wYW5lbCIpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpLnByb21pc2VzOwoKY29uc3QgcmVjdXJzaXZlID0gcmVxdWlyZSgncmVjdXJzaXZlLXJlYWRkaXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0JyksCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKICAgIGNvbnN0IERyaXZlck1hbmFnZXIgPSByZXF1aXJlKCcuL0RyaXZlck1hbmFnZXInKTsKICAgIGNvbnN0IHRlc3QgPSByZXF1aXJlKCdzZWxlbml1bS13ZWJkcml2ZXIvdGVzdGluZycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
