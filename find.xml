@@ -1,25 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../tag_proxy'" />
-    <option name="defaultScopeName" value="Directory '.../tag_proxy'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../tag_proxy'" />
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.sht</mask>
-    <mask>*.ng</mask>
-    <mask>*.html</mask>
-    <mask>*.ats</mask>
-    <mask>*.ts</mask>
-    <mask>*.cjs</mask>
-    <mask>*.js</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
