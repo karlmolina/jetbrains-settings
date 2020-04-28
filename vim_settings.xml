@@ -49,41 +49,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587668571900">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/first-alert.js" timestamp="1587668813868">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1588108424721">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/match-link/facebook.js" timestamp="1588108280293">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1588113955402">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="94" column="5" />
         <mark key="." line="91" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/alert-detail-check-elements.js" timestamp="1587668528594">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1588106356337">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="3" />
-        <mark key="^" line="263" column="18" />
-        <mark key="." line="263" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/manual-alerts/z-email-check.js" timestamp="1588106600097">
         <mark key="[" line="20" column="15" />
@@ -91,21 +66,17 @@
         <mark key="^" line="20" column="65" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/streams/z-email-check.js" timestamp="1588106633931">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1588110345471">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/freelancer-editorial-high.js" timestamp="1588108382434">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1588109938843">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="53" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1588113892743">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1587675325199">
         <mark key="[" line="0" column="0" />
@@ -117,11 +88,45 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/tests/ghost/verify-streams.js" timestamp="1587668537295">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1588108424721">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1588113898626">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/match-link/facebook.js" timestamp="1588108280293">
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1588110144211">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="89" />
+        <mark key="^" line="29" column="89" />
+        <mark key="." line="29" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1588106356337">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="3" />
+        <mark key="^" line="263" column="18" />
+        <mark key="." line="263" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/streams/z-email-check.js" timestamp="1588106633931">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/freelancer-editorial-high.js" timestamp="1588108382434">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/2-email-track-alert-captions.js" timestamp="1588108312833">
         <mark key="[" line="32" column="7" />
@@ -146,7 +151,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -155,7 +160,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChncnVudC5vcHRpb24oJ3RhZ3MnKSkgewogICAgICAgIGNvbnN0IHRhZ3MgPSBncnVudC5vcHRpb24oJ3RhZ3MnKTsKICAgICAgICBtb2NoYU9wdGlvbnMuZ3JlcCA9IGdldFJlZ2V4KHRhZ3MpOwogICAgfQo=</text>
+        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
       </register>
       <register name="q" type="4">
         <keys>
