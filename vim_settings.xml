@@ -55,16 +55,21 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/copy/keyword.js" timestamp="1588176095109">
-        <mark key="[" line="5" column="74" />
-        <mark key="]" line="5" column="72" />
-        <mark key="^" line="5" column="72" />
-        <mark key="." line="5" column="71" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/copy/keyword.js" timestamp="1588177602593">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="94" column="5" />
         <mark key="." line="91" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" timestamp="1588178398940">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1588174790313" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1588113892743">
@@ -79,7 +84,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1588116233624" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1588176224345" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1588177594786">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="8" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="42" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1588108424721">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="32" column="3" />
@@ -92,34 +102,23 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/1-endorse.js" timestamp="1588175938870">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="74" />
-        <mark key="^" line="11" column="74" />
-        <mark key="." line="11" column="73" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/test-imports.js" timestamp="1588177863072">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/match-link/facebook.js" timestamp="1588108280293">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/1-endorse.js" timestamp="1588177915616">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="80" />
+        <mark key="^" line="11" column="80" />
+        <mark key="." line="11" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1588119435724">
         <mark key="[" line="29" column="89" />
         <mark key="]" line="29" column="66" />
         <mark key="^" line="29" column="66" />
         <mark key="." line="29" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/freelancer-editorial-high.js" timestamp="1588108382434">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/2-email-track-alert-captions.js" timestamp="1588108312833">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -178,31 +177,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
+        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
+        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gYWxlcnRzUGFuZWxWaWV3ID0gcmVxdWlyZSgiLi4vLi4vY2xpZW50YXBwL3ZpZXdzL2FsZXJ0cy1wYW5lbCIpLAo=</text>
+        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
