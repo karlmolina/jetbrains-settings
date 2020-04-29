@@ -10,6 +10,7 @@
       <history-cmd>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
