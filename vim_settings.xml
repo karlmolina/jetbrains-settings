@@ -60,6 +60,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/admin-testing/Gruntfile.js" timestamp="1588179557527">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="94" column="5" />
@@ -89,12 +95,6 @@
         <mark key="]" line="42" column="8" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1588108424721">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1588113898626">
         <mark key="[" line="1" column="13" />
