@@ -89,7 +89,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1588116233624" />
+      <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1588185204591">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1588177594786">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="8" />
@@ -137,13 +142,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>tags</text>
+        <text>eslint</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text>eslint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
@@ -204,7 +209,7 @@
         <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
