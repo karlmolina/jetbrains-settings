@@ -50,110 +50,114 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/modals/edit-verified-status.js" timestamp="1588271147146">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/record.js" timestamp="1588272989633">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="97" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-map.js" timestamp="1588271170344">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/modals/clone-stencil.js" timestamp="1588271056328">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/checks.js" timestamp="1588271052143">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/datatypes/date.js" timestamp="1588271132081">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/troubleshooting.js" timestamp="1588272979313">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/data.js" timestamp="1588271118354">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/windows.js" timestamp="1588272929117">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="14" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" timestamp="1588271163478">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="206" column="33" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/graph.js" timestamp="1588272468058">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="264" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/shared/alert-row.js" timestamp="1588270930868">
-        <mark key="[" line="166" column="21" />
-        <mark key="]" line="166" column="24" />
-        <mark key="." line="166" column="23" />
-        <mark key="^" line="166" column="24" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/search-manager.js" timestamp="1588272554505">
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/alert.js" timestamp="1588270948701">
-        <mark key="[" line="228" column="103" />
-        <mark key="]" line="228" column="103" />
-        <mark key="." line="228" column="103" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-alerts-panel.js" timestamp="1588272670622">
+        <mark key="[" line="152" column="12" />
+        <mark key="]" line="1065" column="29" />
+        <mark key="." line="1065" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/data.js" timestamp="1588271113466">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/home-tab.js" timestamp="1588272481712">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/modals/edit-contract-type.js" timestamp="1588271143710">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/DriverManager.js" timestamp="1588271139960">
-        <mark key="[" line="81" column="36" />
-        <mark key="]" line="81" column="36" />
-        <mark key="." line="81" column="35" />
-        <mark key="^" line="81" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/modals/bulk-move-users.js" timestamp="1588271034144">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-dashboard.js" timestamp="1588272680751">
+        <mark key="[" line="187" column="12" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/modals/bulk-generate-password.js" timestamp="1588271026586">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/user-mgmt.js" timestamp="1588272655925">
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="51" />
+        <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/admin/views/shared/domain-policy.js" timestamp="1588271134938">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/date-scrubber.js" timestamp="1588272441364">
+        <mark key="[" line="257" column="24" />
+        <mark key="]" line="257" column="30" />
+        <mark key="." line="257" column="29" />
+        <mark key="^" line="257" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/custom-rule-generator.js" timestamp="1588271106793">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="11" />
-        <mark key="." line="154" column="10" />
-        <mark key="^" line="154" column="11" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/main.js" timestamp="1588272501808">
+        <mark key="[" line="770" column="22" />
+        <mark key="]" line="770" column="20" />
+        <mark key="." line="770" column="19" />
+        <mark key="^" line="770" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/controls/controls.js" timestamp="1588271067557">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/checks.js" timestamp="1588273088396">
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="^" line="406" column="42" />
+        <mark key="." line="405" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/shared-views/calendar.js" timestamp="1588271037800">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1588273003937">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/settings/database-handles.js" timestamp="1588271123266">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/shared-views/v2-languages.js" timestamp="1588272690333">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/content.js" timestamp="1588271060580">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-map-filters.js" timestamp="1588272914071">
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="^" line="204" column="10" />
+        <mark key="." line="357" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-topics-list.js" timestamp="1588272512540">
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="." line="353" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1588272487421">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/sidebar.js" timestamp="1588272607272">
+        <mark key="[" line="247" column="21" />
+        <mark key="]" line="821" column="14" />
+        <mark key="." line="821" column="13" />
+        <mark key="^" line="821" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/datatypes/string.js" timestamp="1588273042494">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/reference-terms.js" timestamp="1588272517793">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -173,13 +177,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdmVydGljYWwgPSBvcHRpb25zLnZlcnQ7CmNvbnN0IHsgYmFzZVVybCB9ID0gb3B0aW9uczsKbGV0IGVudjsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpc0FscmVhZHlFbGVtZW50IHtib29sZWFufSBvcHRpb25hbCAtIHRydWUgaWYgZWwgaGFzIGFscmVhZHkgYmVjb21lIGFuIGVsZW1lbnQuIEZhbHNlIGlmIGl0J3MgYW4gYXJyYXkgbG9jYXRvcgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>isAlreadyElement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
@@ -213,31 +217,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdmVydGljYWwgPSBvcHRpb25zLnZlcnQ7CmNvbnN0IHsgYmFzZVVybCB9ID0gb3B0aW9uczsKbGV0IGVudjsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpc0FscmVhZHlFbGVtZW50IHtib29sZWFufSBvcHRpb25hbCAtIHRydWUgaWYgZWwgaGFzIGFscmVhZHkgYmVjb21lIGFuIGVsZW1lbnQuIEZhbHNlIGlmIGl0J3MgYW4gYXJyYXkgbG9jYXRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgaW5mbyA9IHJlcXVpcmUoJy4uLy4uL2RhdGEvYXBwLWluZm8nKTsK</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uLy4uL2NsaWVudGFwcC9vcHRpb25zJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnkgPSB3ZWJkcml2ZXIuQnk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uLy4uL2NsaWVudGFwcC9vcHRpb25zJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjYiAtIGNhbGxiYWNrIGZ1bmN0aW9uIHRvIHJldHVybiBkYXRhIGFzIEpTT04gb2JqZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcGVybWlzc2lvbiA9IG9wdGlvbnMucGVybTsK</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uL2NsaWVudGFwcC9vcHRpb25zJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGVybWlzc2lvbiA9IG9wdGlvbnMucGVybTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyID0gRHJpdmVyTWFuYWdlci5nZXRFeGlzdGluZ0RyaXZlcigpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGVybWlzc2lvbiA9IG9wdGlvbnMucGVybTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdmVydGljYWwgPSBvcHRpb25zLnZlcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyID0gRHJpdmVyTWFuYWdlci5nZXRFeGlzdGluZ0RyaXZlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
