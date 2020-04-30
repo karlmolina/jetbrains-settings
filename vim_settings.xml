@@ -62,17 +62,18 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/refactor-test-imports/remove-unused-imports.py" timestamp="1588267886332">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="57" />
-        <mark key="^" line="35" column="58" />
+      <file name="$USER_HOME$/Documents/repos/refactor-test-imports/remove-unused-imports.py" timestamp="1588270586562">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="48" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/copy/keyword.js" timestamp="1588177602593">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/refactor-test-imports/tests/hub/bulk-update-roles.js" timestamp="1588270028380" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1588177594786">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="8" />
@@ -91,6 +92,7 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/refactor-test-imports/tests/hub/add-single-user.js" timestamp="1588269860074" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1588113898626">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -109,11 +111,6 @@
         <mark key="^" line="11" column="80" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="94" column="5" />
-        <mark key="." line="91" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" timestamp="1588178398940">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="10" column="31" />
@@ -131,11 +128,6 @@
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1588109743899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/Gruntfile.js" timestamp="1588265337661">
         <mark key="[" line="122" column="5" />
@@ -160,13 +152,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltcG9ydF9zdGF0ZW1lbnRzKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eslint</text>
+        <text>j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
@@ -200,31 +192,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltcG9ydF9zdGF0ZW1lbnRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCh2YXIsIGNvbnRlbnRzX3dpdGhvdXRfaW1wb3J0cy5jb3VudCh2YXIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudCA9IGNvbnRlbnRzX3dpdGhvdXRfaW1wb3J0cy5jb3VudCh2YXIpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KSwKICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudHNfd2l0aG91dF9pbXBvcnRzID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGknKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
+        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
