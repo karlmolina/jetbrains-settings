@@ -154,8 +154,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eslint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dG1wLwo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -195,31 +195,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
+        <text encoding="base64">dG1wLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
+        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
+        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
