@@ -50,11 +50,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/enterprise-management/views/modals/move-group.js" timestamp="1588274057698">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-manager.js" timestamp="1588274301569">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -67,16 +62,28 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="164" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/users.js" timestamp="1588274102984">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="5" />
-        <mark key="^" line="20" column="6" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/enterprise-management/views/modals/move-administrator.js" timestamp="1588274061785">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="]" line="12" column="108" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1588282697244">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588282531650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-custom.js" timestamp="1588274400635">
         <mark key="^" line="7" column="30" />
@@ -86,12 +93,6 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="104" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/main.js" timestamp="1588274004588">
-        <mark key="[" line="1100" column="0" />
-        <mark key="]" line="1100" column="0" />
-        <mark key="." line="1100" column="0" />
-        <mark key="^" line="1101" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/search-bar.js" timestamp="1588274248651">
         <mark key="[" line="755" column="0" />
@@ -115,16 +116,6 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="99" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/enterprise-management/views/modals/move-user.js" timestamp="1588274049404">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/flows/endorsements.js" timestamp="1588274017718">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/main.js" timestamp="1588274820654">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="29" />
@@ -144,6 +135,12 @@
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/map.js" timestamp="1588274424442">
         <mark key="^" line="4" column="30" />
       </file>
@@ -152,6 +149,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
         <mark key="^" line="107" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283097991">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -166,18 +169,19 @@
       <jump line="146" column="12" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
       <jump line="678" column="0" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
       <jump line="34" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/admin/flows/new-user.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb29yZGluYXRlUmFuZ2UgLSBDb3JyZXNwb25kaW5nIGNvb3JkaW5hdGUgcmFuZ2UgdG8gY2hlY2sgbWFwIGRvdHMgd2l0aAo=</text>
+      <register name="&quot;" type="4">
+        <text>__filename</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>coordinateRange</text>
+        <text>__filename</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
@@ -211,31 +215,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb29yZGluYXRlUmFuZ2UgLSBDb3JyZXNwb25kaW5nIGNvb3JkaW5hdGUgcmFuZ2UgdG8gY2hlY2sgbWFwIGRvdHMgd2l0aAo=</text>
+        <text encoding="base64">Y29uc3QgeyBnZXREZXNjcmliZU5hbWUgfSA9IHJlcXVpcmUoJy4uLy4uL3ZlcmlmeVRlc3ROYW1lJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZWFyY2hUZXJtIHtTdHJpbmd9IC0gU2VhcmNoIHRlcm0gdG8gY2hlY2sgYWdhaW5zdCBleHBhbmRlZCBtYXAgd2luZG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbGlzdFR5cGUge1N0cmluZ30gLSBlbnRlciB0eXBlIG9mIGxpc3QK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgICBnZXREZXNjcmliZU5hbWUoKSB7CiAgICAgICAgY29uc3QgcGF0aCA9IF9nZXRDYWxsZXJGaWxlKCk7CiAgICAgICAgY29uc3Qgc3BsaXQgPSBwYXRoLnNwbGl0KCcvdGVzdHMvJyk7CiAgICAgICAgcmV0dXJuIGB0ZXN0cy8ke3NwbGl0WzFdfWA7CiAgICB9LAp9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbGlzdFR5cGUge1N0cmluZ30gLSBlbnRlciB0eXBlIG9mIGxpc3QK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vZHVsZS5maWxlbmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbGlzdFR5cGUge1N0cmluZ30gLSBlbnRlciB0eXBlIG9mIGxpc3QK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF9nZXRDYWxsZXJGaWxlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbGlzdFR5cGUge1N0cmluZ30gLSBlbnRlciB0eXBlIG9mIGxpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzaG91bGRCZURpc2FibGVkIHtCb29sZWFufQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgICAgY29uc3QgZXJyID0gbmV3IEVycm9yKCk7CiAgICAgICAgbGV0IGNhbGxlcmZpbGU7CgogICAgICAgIEVycm9yLnByZXBhcmVTdGFja1RyYWNlID0gZnVuY3Rpb24gKF9lcnIsIHN0YWNrKSB7CiAgICAgICAgICAgIHJldHVybiBzdGFjazsKICAgICAgICB9OwoKICAgICAgICBjb25zdCBjdXJyZW50ZmlsZSA9IGVyci5zdGFjay5zaGlmdCgpLmdldEZpbGVOYW1lKCk7CgogICAgICAgIHdoaWxlIChlcnIuc3RhY2subGVuZ3RoKSB7CiAgICAgICAgICAgIGNhbGxlcmZpbGUgPSBlcnIuc3RhY2suc2hpZnQoKS5nZXRGaWxlTmFtZSgpOwoKICAgICAgICAgICAgaWYgKGN1cnJlbnRmaWxlICE9PSBjYWxsZXJmaWxlKSByZXR1cm4gY2FsbGVyZmlsZTsKICAgICAgICB9CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAvLyBkbyBub3RoaW5nCiAgICB9CiAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzaG91bGRCZURpc2FibGVkIHtCb29sZWFufQo=</text>
+        <text encoding="base64">cmVxdWlyZURpcmVjdG9yeShtb2R1bGUsICd0ZXN0cycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY3VycmVudGZpbGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
