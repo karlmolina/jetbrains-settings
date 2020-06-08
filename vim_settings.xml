@@ -50,65 +50,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-manager.js" timestamp="1588274301569">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="90" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-alerts-panel.js" timestamp="1588274196154">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="164" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="108" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1588282697244">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-custom.js" timestamp="1588274400635">
         <mark key="^" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/search-bar.js" timestamp="1588274248651">
-        <mark key="[" line="755" column="0" />
-        <mark key="]" line="755" column="0" />
-        <mark key="." line="755" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/long-term-alerts.js" timestamp="1588274341018">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="214" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/shared-views/v2-languages.js" timestamp="1588274239164">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-topics-list.js" timestamp="1588274382825">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="99" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/main.js" timestamp="1588274820654">
         <mark key="[" line="7" column="25" />
@@ -116,18 +59,37 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/tag-library.js" timestamp="1588274201932">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-company.js" timestamp="1588274408215">
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-summary.js" timestamp="1588274285630">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/long-term-alerts.js" timestamp="1588274341018">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="214" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="108" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-manager.js" timestamp="1588274301569">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="90" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-topics-list.js" timestamp="1588274382825">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="99" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
         <mark key="[" line="20" column="1" />
@@ -144,11 +106,23 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="107" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1588282697244">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="17" />
       </file>
     </filemarks>
     <jumps>
