@@ -57,6 +57,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-text.js" timestamp="1591743131143">
+        <mark key="[" line="99" column="88" />
+        <mark key="]" line="100" column="29" />
+        <mark key="^" line="100" column="29" />
+        <mark key="." line="100" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/enterprise-management/views/modals/list-creation.js" timestamp="1591741883083" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1591738552587" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user.js" timestamp="1591742075890" />
@@ -78,9 +84,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/map.js" timestamp="1588274424442">
-        <mark key="^" line="4" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1591740653610">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="71" />
@@ -97,11 +100,11 @@
         <mark key="^" line="244" column="79" />
         <mark key="." line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591742048573">
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="85" column="23" />
-        <mark key="^" line="85" column="23" />
-        <mark key="." line="85" column="22" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591742978370">
+        <mark key="[" line="138" column="123" />
+        <mark key="]" line="139" column="27" />
+        <mark key="^" line="139" column="27" />
+        <mark key="." line="139" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
@@ -109,12 +112,12 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591741910260">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591743162457">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
         <mark key="[" line="14" column="31" />
@@ -144,13 +147,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmV3IG1haWxvc2F1ci5NYWlsb3NhdXJWaWV3KCdoaScpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IG0ub2soKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFByb3h5KCgpID0+IHByb3h5LCBoYW5kbGVyKTs=</text>
+        <text>mailosaurView</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgeyBNYWlsb3NhdXJWaWV3IH0gPSByZXF1aXJlKCdkbS12aWdpbC9leHRlcm5hbC92aWV3cy9tYWlsb3NhdXInKTsK</text>
@@ -184,28 +187,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV3IG1haWxvc2F1ci5NYWlsb3NhdXJWaWV3KCdoaScpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IG0ub2soKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IG0ub2soKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm94eSA9IG5ldyBQcm94eSgoKSA9PiBwcm94eSwgaGFuZGxlcik7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1haWxvc2F1clZpZXcub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7CiAgICAvLyBjb25zdCBmaWxlcyA9IGF3YWl0IHJlY3Vyc2l2ZSgnLi90ZXN0cycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1haWxvc2F1clZpZXcub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7CiAgICAvLyBjb25zdCBmaWxlcyA9IGF3YWl0IHJlY3Vyc2l2ZSgnLi90ZXN0cycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzID0gbmV3IFByb3h5KHt9KQo=</text>
+        <text encoding="base64">YXdhaXQgbS5vaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBNYWlsb3NhdXJWaWV3IH0gPSByZXF1aXJlKCdkbS12aWdpbC9tCg==</text>
+        <text encoding="base64">bmV3IG1haWxvc2F1ci5NYWlsb3NhdXJWaWV3KCdoaScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJveHkoe30sIGhhbmRsZXIpOwp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcm94eSA9IG5ldyBQcm94eSgoKSA9PiBwcm94eSwgaGFuZGxlcik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
