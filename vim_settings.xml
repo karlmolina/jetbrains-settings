@@ -53,13 +53,7 @@
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-custom.js" timestamp="1588274400635">
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/long-term-alerts.js" timestamp="1588274341018">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="214" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1591734593420" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1591736509381" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/main.js" timestamp="1588274820654">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="29" />
@@ -70,18 +64,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="108" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-manager.js" timestamp="1588274301569">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="90" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-topics-list.js" timestamp="1588274382825">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="99" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
         <mark key="[" line="20" column="1" />
@@ -98,27 +80,38 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="107" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1591734979490" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1591740653610">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1588282697244">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/controls/controls.js" timestamp="1591739397036">
+        <mark key="[" line="244" column="79" />
+        <mark key="]" line="244" column="79" />
+        <mark key="^" line="244" column="79" />
+        <mark key="." line="244" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-company.js" timestamp="1588274408215">
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1591738552587" />
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591734966219">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591741315852">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
         <mark key="[" line="14" column="31" />
@@ -132,6 +125,7 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1591736908679" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -146,21 +140,24 @@
       <jump line="678" column="0" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
       <jump line="34" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/admin/flows/new-user.js" />
       <jump line="14" column="23" filename="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzID0gbmV3IFByb3h5KHt9KQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>describe</text>
+        <text>obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">Y29uc3QgeyBNYWlsb3NhdXJWaWV3IH0gPSByZXF1aXJlKCdkbS12aWdpbC9leHRlcm5hbC92aWV3cy9tYWlsb3NhdXInKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -191,31 +188,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzID0gbmV3IFByb3h5KHt9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBNYWlsb3NhdXJWaWV3IH0gPSByZXF1aXJlKCdkbS12aWdpbC9tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWlyZURpcmVjdG9yeSA9IHJlcXVpcmUoJ3JlcXVpcmUtZGlyZWN0b3J5Jyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJveHkoe30sIGhhbmRsZXIpOwp9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdmlzaXRvcihvKSB7CiAgICBjb25zb2xlLmxvZyhvKTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ2xvYiA9IHJlcXVpcmUoJ2dsb2InKTsK</text>
+        <text encoding="base64">Ly8gdGhyb3cgMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBnZXREZXNjcmliZU5hbWUgfSA9IHJlcXVpcmUoJy4uLy4uL3ZlcmlmeVRlc3ROYW1lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coZHJpdmVyLmhpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
