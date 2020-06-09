@@ -59,11 +59,6 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="108" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/qa-badger/secrets.yml" timestamp="1591727891324">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="36" />
@@ -76,15 +71,37 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/qa-badger/get_gitlab_session.py" timestamp="1591728594954">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="18" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="25" column="17" />
+      <file name="$USER_HOME$/Documents/repos/qa-badger/get_gitlab_session.py" timestamp="1591730192084">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/qa-badger/badger.py" timestamp="1591716103372">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="35" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-company.js" timestamp="1588274408215">
+        <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/qa-badger/requirements.txt" timestamp="1591730315100">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="108" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/qa-badger/badger.py" timestamp="1591730914060">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
         <mark key="[" line="20" column="1" />
@@ -95,12 +112,6 @@
       <file name="$USER_HOME$/Documents/repos/python-selenium-test/requirements.txt" timestamp="1591713983787" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/map.js" timestamp="1588274424442">
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-sector.js" timestamp="1588274392736">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="107" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/qa-badger/driver.py" timestamp="1591714033076">
         <mark key="[" line="12" column="46" />
@@ -114,9 +125,6 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-company.js" timestamp="1588274408215">
-        <mark key="^" line="7" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -129,17 +137,11 @@
         <mark key="." line="26" column="55" />
         <mark key="^" line="26" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/qa-badger/requirements.txt" timestamp="1591727558036">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/qa-badger/ingest_poc.py" timestamp="1591728610374">
-        <mark key="[" line="28" column="71" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="28" column="70" />
-        <mark key="^" line="28" column="71" />
+      <file name="$USER_HOME$/Documents/repos/qa-badger/ingest_poc.py" timestamp="1591731399470">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
         <mark key="[" line="14" column="31" />
@@ -147,11 +149,11 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/Documents/repos/qa-badger/README.md" timestamp="1591730236502">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -172,13 +174,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXMgPSB7CiAgICAgICAgJ19naXRsYWJfc2Vzc2lvbic6ICdiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb25maWcucmVhZF9maWxlKFBhdGgoX19maWxlX18pLnBhcmVudC8gJ2NvbmZpZy55bWwnKQo=</text>
@@ -212,31 +214,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXMgPSB7CiAgICAgICAgJ19naXRsYWJfc2Vzc2lvbic6ICdiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci5zdGF0dXNfY29kZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvb2tpZXNbJ19naXRsYWJfc2Vzc2lvbiddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gYnJvd3Nlci5zdWJtaXRfc2VsZWN0ZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJyb3dzZXIuZ2V0X2N1cnJlbnRfcGFnZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZXMgPSBwcm9qZWN0LmJhZGdlcy5saXN0KGFzX2xpc3Q9RmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChraW5kKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVW5jb21tZW50IHRvIGxhdW5jaCBhIHJlYWwgd2ViIGJyb3dzZXIgb24gdGhlIGN1cnJlbnQgcGFnZS4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcm9qZWN0Lm5hbWVfd2l0aF9uYW1lc3BhY2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXJbImN1c3RuYW1lIl0gPSAiTWUiCiAgICBicm93c2VyWyJjdXN0dGVsIl0gPSAiMDAgMDAgMDAwMSIKICAgIGJyb3dzZXJbImN1c3RlbWFpbCJdID0gIm5vYm9keUBleGFtcGxlLmNvbSIKICAgIGJyb3dzZXJbInNpemUiXSA9ICJtZWRpdW0iCiAgICBicm93c2VyWyJ0b3BwaW5nIl0gPSAib25pb24iCiAgICBicm93c2VyWyJ0b3BwaW5nIl0gPSAoImJhY29uIiwgImNoZWVzZSIpCiAgICBicm93c2VyWyJjb21tZW50cyJdID0gIlRoaXMgcGl6emEgbG9va3MgcmVhbGx5IGdvb2QgOi0pIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIubGF1bmNoX2Jyb3dzZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
