@@ -53,12 +53,6 @@
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-custom.js" timestamp="1588274400635">
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/long-term-alerts.js" timestamp="1588274341018">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="214" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/main.js" timestamp="1588274820654">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="29" />
@@ -70,29 +64,18 @@
         <mark key="]" line="12" column="108" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/qa-badger/secrets.yml" timestamp="1591714599426" />
       <file name="$USER_HOME$/Documents/repos/python-selenium-test/driver.py" timestamp="1591712095465">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="45" />
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/qa-badger/get_gitlab_session.py" timestamp="1591713961816">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-manager.js" timestamp="1588274301569">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="90" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/notifications-topics-list.js" timestamp="1588274382825">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="99" column="30" />
+      <file name="$USER_HOME$/Documents/repos/qa-badger/get_gitlab_session.py" timestamp="1591714110415">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
         <mark key="[" line="20" column="1" />
@@ -110,6 +93,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="107" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/qa-badger/driver.py" timestamp="1591714033076">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1588282697244">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="7" />
@@ -124,6 +113,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/qa-badger/config.py" timestamp="1591714677489">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/repos/qa-badger/requirements.txt" timestamp="1591713980666">
         <mark key="[" line="3" column="11" />
@@ -168,7 +163,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBnaXRsYWJfdXJsID0gCg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -208,31 +203,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBnaXRsYWJfdXJsID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICMgZHJpdmVyID0gd2ViZHJpdmVyLkNocm9tZSgKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlX2FyZ3M9WyItLXZlcmJvc2UiLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tbG9nLXBhdGg9dGVzdC5sb2ciXSkKCiAgICAjIGRyaXZlciA9IHdlYmRyaXZlci5SZW1vdGUob3B0aW9ucz1vcHRpb25zKQogICAgIyBkcml2ZXIgPSB3ZWJkcml2ZXIuUmVtb3RlKAogICAgIyAgICAgb3B0aW9ucz1vcHRpb25zLAogICAgIyApCgogICAgIyBkcml2ZXIgPSB3ZWJkcml2ZXIuRmlyZWZveChleGVjdXRhYmxlX3BhdGg9Jy9Vc2Vycy9rbW9saW5hL0RvY3VtZW50cy9yZXBvcy9weXRob24tc2VsZW5pdW0tdGVzdC9nZWNrb2RyaXZlcicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICMgb3B0aW9ucy5hZGRfYXJndW1lbnQoIi0taW5jb2duaXRvIikKICAgICMgb3B0aW9ucy5iaW5hcnlfbG9jYXRpb24gPSAnL0FwcGxpY2F0aW9ucy9Hb29nbGUgQ2hyb21lIDIuYXBwL0NvbnRlbnRzL01hY09TL0dvb2dsZSBDaHJvbWUnCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb3B0aW9ucyA9IHdlYmRyaXZlci5DaHJvbWVPcHRpb25zKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
