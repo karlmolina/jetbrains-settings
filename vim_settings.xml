@@ -62,11 +62,11 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591825717394">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="39" column="21" />
-        <mark key="." line="39" column="20" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591827504620">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821562641">
         <mark key="[" line="12" column="8" />
@@ -117,11 +117,17 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="51" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1591827091726">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/test/run-mock-driver.js" timestamp="1591823189417">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="60" />
-        <mark key="^" line="42" column="35" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="60" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/execute-all-files.js" timestamp="1591821847955">
         <mark key="[" line="45" column="20" />
@@ -153,7 +159,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbGVzID0gYXdhaXQgcmVjdXJzaXZlKGAke3Byb2Nlc3MuY3dkKCl9L3Rlc3RzYCk7Cg==</text>
+        <text encoding="base64">cmVjb3JkID0gKCkgPT4gcHJveHk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -193,31 +199,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJtb2NoYSI6ICIiLAo=</text>
+        <text encoding="base64">cmVjb3JkID0gKCkgPT4gcHJveHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHByb3h5Owo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IHByb3h5Owo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlciA9IHsKICAgIGdldCgpIHsKICAgICAgICByZXR1cm4gcHJveHk7CiAgICB9LAp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlciA9IHsKICAgIGdldCgpIHsKICAgICAgICByZXR1cm4gcHJveHk7CiAgICB9LAp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJveHk7Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcGx5KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJveHk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcHJveHlIb2xkZXIgPSB7fTsK</text>
+        <text encoding="base64">ICAgIGFwcGx5KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
