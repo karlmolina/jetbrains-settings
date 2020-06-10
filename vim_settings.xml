@@ -66,13 +66,13 @@
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1591738552587" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user.js" timestamp="1591742075890" />
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" timestamp="1588282606837">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1591736908679" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/new/topic.js" timestamp="1591808257896">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="12" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/email/mailosaur.js" timestamp="1591804552417">
         <mark key="[" line="28" column="45" />
         <mark key="]" line="29" column="12" />
@@ -95,11 +95,11 @@
         <mark key="^" line="244" column="79" />
         <mark key="." line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591803695375">
-        <mark key="[" line="139" column="120" />
-        <mark key="]" line="139" column="36" />
-        <mark key="^" line="139" column="36" />
-        <mark key="." line="139" column="35" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591808162431">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="133" column="36" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
@@ -107,12 +107,12 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591807752957">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591808519754">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="27" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="48" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="40" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
         <mark key="[" line="14" column="31" />
@@ -144,8 +144,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -185,31 +185,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIG0ub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvcCA9PT0gJ3RoZW4nKSB7CiAgICAgICAgLy8gICAgIHJldHVybgogICAgICAgIC8vIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eUhvbGRlci5wcm94eS50aGVuID0gdW5kZWZpbmVkOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoaSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb21nJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIG0ub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbWFpbG9zYXVyLk1haWxvc2F1clZpZXcgPSBuZXcgUHJveHkobWFpbG9zYXVyLk1haWxvc2F1clZpZXcsIGhhbmRsZXIpOwovLwovLyBjb25zdCBtID0gbmV3IG1haWxvc2F1ci5NYWlsb3NhdXJWaWV3KCdoaScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvcCA9PT0gJ3RoZW4nKSB7CiAgICAgICAgLy8gICAgIHJldHVybgogICAgICAgIC8vIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBjYWxsYWJsZSA9ICgpID0+IHByb3h5OwogICAgICAgIC8vIE9iamVjdC5hc3NpZ24oY2FsbGFibGUsIHByb3h5KTsKICAgICAgICAvLyBPYmplY3Quc2V0UHJvdG90eXBlT2YoY2FsbGFibGUsIE9iamVjdC5nZXRQcm90b3R5cGVPZihwcm94eSkpOwogICAgICAgIC8vIHJldHVybiBjYWxsYWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm94eUhvbGRlci5wcm94eS50aGVuID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdCh0YXJnZXQsIGFyZ3MpIHsKICAgICAgICBjb25zb2xlLmxvZygnY29uc3RydWN0Jyk7CiAgICAgICAgcmV0dXJuIHByb3h5SG9sZGVyLnByb3h5OwogICAgfSwK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
