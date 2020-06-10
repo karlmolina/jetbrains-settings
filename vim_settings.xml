@@ -50,30 +50,77 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/execute-all-files.js" timestamp="1591813888043">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="18" />
-        <mark key="^" line="51" column="18" />
-        <mark key="." line="51" column="17" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/news/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821555177">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/3-link-alert.js" timestamp="1591812834211" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/topics_company_topics.json" timestamp="1591812653130">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/execute-all-files.js" timestamp="1591822973050">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/gov_tracked_alert_email.json" timestamp="1591812796824">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591822906841">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/candidatesLinked.json" timestamp="1591812686742">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821562641">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591812385167">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/alert-detail.js" timestamp="1591821359553">
+        <mark key="[" line="70" column="91" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/param_tests/rules/create-check.js" timestamp="1591821579926">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/finance/search-popup/alert-detail/original-message/email-export.js" timestamp="1591821573457">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/public-relations/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821528473">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1591822855353">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/admin-testing/package.json" timestamp="1591822530821">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/corporate/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821568071">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/test/run-mock-driver.js" timestamp="1591823013953">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/execute-all-files.js" timestamp="1591821847955">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -99,18 +146,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>{
-  
-}</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICIiLAo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>target, prop, receiver</text>
+        <text>vigil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpblZpZXcuYWxlcnRTdHJlYW1Nb2RhbCgpLlRvcGljcy5jaGVja1RvcGljRXhpc3RzKCdyaW90JywgZmFsc2UsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICI2LjIuMiIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -141,33 +186,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>{
-  
-}</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZpbGVzID0gWyd0ZXN0cy9lbmQtdG8tZW5kL2NyZWF0ZS1uZXctdXNlci10ZXh0LmpzJ107CiAgICAvLyBjb25zdCBmaWxlcyA9IFsndGVzdHMvdGVzdC5qcyddOwogICAgLy8gY29uc3QgZmlsZXMgPSBbJ3Rlc3RzL3NldHRpbmdzLWxpYnJhcnkvYWxlcnQtZmlsdGVycy9uZXcvdG9waWMuanMnXTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IHByb3h5Owo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlciA9IHsKICAgIGdldCgpIHsKICAgICAgICByZXR1cm4gcHJveHk7CiAgICB9LAp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWVzdC5nZXQgPSBhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QtcHJvbWlzZS1uYXRpdmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJveHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGFwcGx5KCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbmV3IFByb3h5KHt9LCBwcm9taXNlSGFuZGxlcik7Cg==</text>
+        <text encoding="base64">Y29uc3QgcHJveHlIb2xkZXIgPSB7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
