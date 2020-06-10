@@ -50,68 +50,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1591736509381" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-text.js" timestamp="1591811167514">
-        <mark key="[" line="98" column="30" />
-        <mark key="]" line="99" column="53" />
-        <mark key="^" line="99" column="53" />
-        <mark key="." line="99" column="52" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/execute-all-files.js" timestamp="1591813888043">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="18" />
+        <mark key="^" line="51" column="18" />
+        <mark key="." line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/enterprise-management/views/modals/list-creation.js" timestamp="1591741883083" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/test.js" timestamp="1591803451382">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="50" column="27" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/3-link-alert.js" timestamp="1591812834211" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/topics_company_topics.json" timestamp="1591812653130">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1591738552587" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user.js" timestamp="1591742075890" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" timestamp="1591812113500">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1591736908679" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/new/topic.js" timestamp="1591811468390">
-        <mark key="[" line="53" column="75" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="55" />
-        <mark key="^" line="54" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/email/mailosaur.js" timestamp="1591804552417">
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="29" column="12" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1591740653610">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/controls/controls.js" timestamp="1591739397036">
-        <mark key="[" line="244" column="79" />
-        <mark key="]" line="244" column="79" />
-        <mark key="^" line="244" column="79" />
-        <mark key="." line="244" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591808162431">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="133" column="36" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/gov_tracked_alert_email.json" timestamp="1591812796824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-settings/profiles/existing/topics/new-list.js" timestamp="1591811353238">
-        <mark key="[" line="132" column="41" />
-        <mark key="]" line="132" column="41" />
-        <mark key="^" line="132" column="41" />
-        <mark key="." line="132" column="40" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/endorsedAlerts/candidatesLinked.json" timestamp="1591812686742">
+        <mark key="[" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591812385167">
         <mark key="'" line="15" column="0" />
@@ -120,7 +75,6 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-html.js" timestamp="1591800943799" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -145,7 +99,9 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZpbGVzID0gWyd0ZXN0cy9lbmQtdG8tZW5kL2NyZWF0ZS1uZXctdXNlci10ZXh0LmpzJ107CiAgICAvLyBjb25zdCBmaWxlcyA9IFsndGVzdHMvdGVzdC5qcyddOwogICAgLy8gY29uc3QgZmlsZXMgPSBbJ3Rlc3RzL3NldHRpbmdzLWxpYnJhcnkvYWxlcnQtZmlsdGVycy9uZXcvdG9waWMuanMnXTsK</text>
+        <text>{
+  
+}</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -185,31 +141,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZpbGVzID0gWyd0ZXN0cy9lbmQtdG8tZW5kL2NyZWF0ZS1uZXctdXNlci10ZXh0LmpzJ107CiAgICAvLyBjb25zdCBmaWxlcyA9IFsndGVzdHMvdGVzdC5qcyddOwogICAgLy8gY29uc3QgZmlsZXMgPSBbJ3Rlc3RzL3NldHRpbmdzLWxpYnJhcnkvYWxlcnQtZmlsdGVycy9uZXcvdG9waWMuanMnXTsK</text>
+        <text>{
+  
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGZpbGVzID0gWyd0ZXN0cy9lbmQtdG8tZW5kL2NyZWF0ZS1uZXctdXNlci10ZXh0LmpzJ107CiAgICAvLyBjb25zdCBmaWxlcyA9IFsndGVzdHMvdGVzdC5qcyddOwogICAgLy8gY29uc3QgZmlsZXMgPSBbJ3Rlc3RzL3NldHRpbmdzLWxpYnJhcnkvYWxlcnQtZmlsdGVycy9uZXcvdG9waWMuanMnXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdC5nZXQgPSBhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QtcHJvbWlzZS1uYXRpdmUnKTsK</text>
+        <text encoding="base64">cmVxdWVzdC5nZXQgPSBhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3JlcXVlc3QtcHJvbWlzZS1uYXRpdmUnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbmV3IFByb3h5KHt9LCBwcm9taXNlSGFuZGxlcik7Cg==</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGdldCgpIHsKICAgIC8vICAgICByZXR1cm4ge307CiAgICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbmV3IFByb3h5KHt9LCBwcm9taXNlSGFuZGxlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
