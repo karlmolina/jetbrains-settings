@@ -62,16 +62,22 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591827504620">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="30" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591830409610">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="59" column="8" />
+        <mark key="^" line="59" column="8" />
+        <mark key="." line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821562641">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/flash-endorsing/vertical-none/v2-news-dashboard.js" timestamp="1591830457735">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/alert-detail.js" timestamp="1591821359553">
         <mark key="[" line="70" column="91" />
@@ -98,6 +104,18 @@
       <file name="$USER_HOME$/Documents/repos/admin-testing/package.json" timestamp="1591822530821">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/client-app/gov/3-check-email.js" timestamp="1591828440574">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/flash-endorsing/vertical-none/v2-gov-dashboard.js" timestamp="1591830419107">
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="21" column="65" />
+        <mark key="^" line="21" column="65" />
+        <mark key="." line="21" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/corporate/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821568071">
         <mark key="[" line="12" column="8" />
@@ -148,13 +166,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
+        <text encoding="base64">Ly8gY29uc3QgcmVjb3JkID0gcmVxdWlyZSgnLi4vdXRpbHMvcmVjb3JkJyk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>toPrimitive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb25maWcucmVhZF9maWxlKFBhdGgoX19maWxlX18pLnBhcmVudC8gJ2NvbmZpZy55bWwnKQo=</text>
@@ -188,31 +206,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
+        <text encoding="base64">Ly8gY29uc3QgcmVjb3JkID0gcmVxdWlyZSgnLi4vdXRpbHMvcmVjb3JkJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci5zdGF0dXNfY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N0cmluZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgaGlgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZXMgPSBwcm9qZWN0LmJhZGdlcy5saXN0KGFzX2xpc3Q9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChraW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9qZWN0Lm5hbWVfd2l0aF9uYW1lc3BhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci5zdGF0dXNfY29kZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
