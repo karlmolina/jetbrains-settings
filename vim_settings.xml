@@ -107,12 +107,12 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591808519754">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591810929582">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="48" />
-        <mark key="^" line="40" column="48" />
-        <mark key="." line="40" column="47" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="45" column="17" />
+        <mark key="^" line="45" column="17" />
+        <mark key="." line="45" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588283840385">
         <mark key="[" line="14" column="31" />
@@ -188,28 +188,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gYXNzZXJ0LmZhaWwgPSAobWVzc2FnZSkgPT4gY29uc29sZS5sb2cobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb21nJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIG0ub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvcCA9PT0gJ3RoZW4nKSB7CiAgICAgICAgLy8gICAgIHJldHVybgogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb21nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eUhvbGRlci5wcm94eS50aGVuID0gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgIC8vIG0ub3BlbkVtYWlsQnlUZXh0KCdXZWxjb21lIHRvIEZpcnN0IEFsZXJ0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAocHJvcCA9PT0gJ3RoZW4nKSB7CiAgICAgICAgLy8gICAgIHJldHVybgogICAgICAgIC8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
