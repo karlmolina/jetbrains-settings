@@ -51,12 +51,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1591736509381" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/hub/views/main.js" timestamp="1588274820654">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-text.js" timestamp="1591800155422">
         <mark key="[" line="99" column="26" />
         <mark key="]" line="99" column="32" />
@@ -73,11 +67,6 @@
         <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1591736908679" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1588280207006">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="108" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/describe-name.js" timestamp="1588282518955">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="21" column="0" />
@@ -125,6 +114,7 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-html.js" timestamp="1591800943799" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
