@@ -57,11 +57,11 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-text.js" timestamp="1591743131143">
-        <mark key="[" line="99" column="88" />
-        <mark key="]" line="100" column="29" />
-        <mark key="^" line="100" column="29" />
-        <mark key="." line="100" column="28" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/end-to-end/create-new-user-text.js" timestamp="1591800155422">
+        <mark key="[" line="99" column="26" />
+        <mark key="]" line="99" column="32" />
+        <mark key="^" line="99" column="32" />
+        <mark key="." line="99" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/enterprise-management/views/modals/list-creation.js" timestamp="1591741883083" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1591738552587" />
@@ -100,11 +100,11 @@
         <mark key="^" line="244" column="79" />
         <mark key="." line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591742978370">
-        <mark key="[" line="138" column="123" />
-        <mark key="]" line="139" column="27" />
-        <mark key="^" line="139" column="27" />
-        <mark key="." line="139" column="26" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1591800066399">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/verifyTestName.js" timestamp="1588283996744">
         <mark key="[" line="0" column="0" />
