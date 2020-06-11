@@ -45,6 +45,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -71,12 +74,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/crosspost-verified-user.js" timestamp="1591893838920">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="36" />
-        <mark key="^" line="53" column="34" />
-        <mark key="." line="53" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821562641">
         <mark key="[" line="12" column="8" />
@@ -141,11 +138,11 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591892127669">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="25" column="24" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="25" column="23" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591895628041">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="38" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/public-relations/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591821528473">
         <mark key="[" line="10" column="2" />
@@ -167,21 +164,23 @@
       <jump line="678" column="0" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
       <jump line="34" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/admin/flows/new-user.js" />
       <jump line="14" column="23" filename="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/repos/ghost-testing/tests/government/crosspost-verified-user.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWcucmVhZF9maWxlKFBhdGgoX19maWxlX18pLnBhcmVudC8gJ2NvbmZpZy55bWwnKQo=</text>
+        <text encoding="base64">bGV0IG1lZGlhVHdpdHRlciA9ICcxMjM0NTY3ODknOwpsZXQgbWVkaWFDcm9zc1Bvc3QgPSAnMTIzNDU2Nzg5JzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -212,31 +211,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvcCA9PT0gJ21lc3NhZ2UnKSB7CiAgICAgICAgICAgIHJldHVybiAnbWVzc2FnZSc7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGFwcGx5KHRhcmdldCwgdGhpc0FyZywgYXJnQXJyYXkpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHR5cGUge3JlYWRkaXJ9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvcCA9PT0gJ3RoZW4nKSB7CgogICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFpblZpZXcuY2xpY2tDaGVja01hcmsoMCwgMCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBsb2dpblZpZXcubG9naW4odXNlcnMuR0hPU1QuUFMuSEVBRExJTkVTKTsKICAgICAgICBtYWluVmlldy5kZWxldGVBbGxXaWRnZXRzKCk7CiAgICAgICAgZW5kb3JzZW1lbnRzRmxvdy5hZGRQb3dlcnN0cmVhbSgnVmVyaWZpZWQgRmFjZWJvb2sgQ3Jvc3Nwb3N0cycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
