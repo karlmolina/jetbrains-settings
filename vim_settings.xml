@@ -83,6 +83,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1591915202582">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/package.json" timestamp="1591914174781">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -111,9 +117,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/alert.js" timestamp="1591900542693">
-        <mark key="[" line="1159" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/1-endorse.js" timestamp="1591911823984">
         <mark key="[" line="15" column="0" />
