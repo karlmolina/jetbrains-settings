@@ -65,23 +65,11 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/nyc.config.js" timestamp="1591898226627">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1591913079271">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
         <mark key="^" line="40" column="13" />
         <mark key="." line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/runall.sh" timestamp="1591831443502">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1591903780060">
         <mark key="[" line="132" column="63" />
@@ -94,6 +82,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/package.json" timestamp="1591914174781">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test.js" timestamp="1591912960107">
         <mark key="[" line="19" column="0" />
@@ -113,33 +106,11 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/flash-endorsing/vertical-none/v2-news-dashboard.js" timestamp="1591830875284">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1591911620377" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" timestamp="1591900461299">
-        <mark key="[" line="955" column="18" />
-        <mark key="]" line="955" column="21" />
-        <mark key="^" line="955" column="21" />
-        <mark key="." line="955" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test2.js" timestamp="1591912972198">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/flash-endorsing/vertical-none/v2-gov-dashboard.js" timestamp="1591830812462">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="64" />
-        <mark key="^" line="21" column="65" />
-        <mark key="." line="21" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/corporate/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1591889010367">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/alert.js" timestamp="1591900542693">
         <mark key="[" line="1159" column="26" />
@@ -147,6 +118,11 @@
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/1-endorse.js" timestamp="1591911823984">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1591914320060">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -170,13 +146,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpblZpZXcubG9naW4odXNlcnMuR0hPU1QuUFMuR0hPU1RfQ0FQVElPTlMpOwo=</text>
@@ -210,13 +186,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
+        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLkhJU1RPUklDQUwsCg==</text>
+        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLlNFVFRJTkdTLAo=</text>
+        <text encoding="base64">Ly8gICAgInNlbGVuaXVtLXdlYmRyaXZlciI6ICJeMy42LjAiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
@@ -228,13 +204,13 @@
         <text encoding="base64">ICAgICAgICBUQUdTLlNFVFRJTkdTLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIFRBR1MgPSBhcHBJbmZvLlRBR1M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUQUdTLkhJU1RPUklDQUwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3QuZGVzY3JpYmUoJ0NIRUNLIEVNQUlMJywgZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnN0IGFycmF5ID0gcmVjb3JkLmdldEFsZXJ0c0Zyb21GaWxlKGRhdGEuRklMRVMuR09WX1RSQUNLRURfQUxFUlRfRU1BSUxfTElOS0VEKTsKCiAgICAgICAgdGVzdC5pdCgnQ2hlY2sgYWxlcnQgaXMgdHJhY2tlZCcsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY29uc3QgbWFpbG9zYXVyVmlldyA9IG5ldyBNYWlsb3NhdXJWaWV3KGNhcHRpb25Vc2VyKTsKICAgICAgICAgICAgbG9nLmluZm8oYEVNQUlMIENBUFRJT04gJHthcnJheVswXS5jYXB0aW9uVGV4dH1gKTsKICAgICAgICAgICAgY29uc3QgZW1haWwgPSBhd2FpdCBtYWlsb3NhdXJWaWV3Lm9wZW5FbWFpbEJ5VGV4dChhcnJheVswXS5jYXB0aW9uVGV4dCk7CiAgICAgICAgICAgIGVtYWlsLmNoZWNrRW1haWxIZWFkZXIoJ1RyYWNrZWQgQWxlcnQnKTsKICAgICAgICAgICAgZW1haWwuY2hlY2tCdXR0b25FeGlzdHNCeVRleHQoJ1N0b3AgVHJhY2tpbmcnKTsKICAgICAgICAgICAgbG9nLmluZm8oZW1haWwuZ2V0TGlua0J5VGV4dCgnT3BlbiBpbiBEYXRhbWlucicpKTsKICAgICAgICAgICAgdXRpbC5vcGVuV2luZG93QW5kU3dpdGNoKGVtYWlsLmdldExpbmtCeVRleHQoJ09wZW4gaW4gRGF0YW1pbnInKSk7CiAgICAgICAgICAgIGxvZ2luVmlldy5sb2dpbihjYXB0aW9uVXNlcik7CiAgICAgICAgfSk7CgogICAgICAgIHRlc3QuaXQoJ1ZlcmlmeSBpbiBjbGllbnQgYXBwJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkuc2xlZXAoMTAwMDApOwogICAgICAgICAgICBkYXNoYm9hcmRNb2R1bGUuY2hlY2tBbGVydERldGFpbERpYWxvZ0V4aXN0cygpOwogICAgICAgICAgICBkYXNoYm9hcmRNb2R1bGUuY2hlY2tUcmFja2VkU3RvcnlFeGlzdHMoKTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBUQUdTLlNFVFRJTkdTLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
