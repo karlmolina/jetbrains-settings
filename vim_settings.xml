@@ -122,10 +122,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1591914320060">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1591973698329">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="24" column="33" />
         <mark key="." line="24" column="33" />
+        <mark key="^" line="27" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -189,31 +190,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIiwK</text>
+        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgInNlbGVuaXVtLXdlYmRyaXZlciI6ICJeMy42LjAiCg==</text>
+        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
+        <text encoding="base64">Ly8gICAgInNlbGVuaXVtLXdlYmRyaXZlciI6ICJeMy42LjAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLkhJU1RPUklDQUwsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUQUdTLlNFVFRJTkdTLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBUQUdTLkhJU1RPUklDQUwsCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUQUdTLlNFVFRJTkdTLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUQUdTLlJVTEVTCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBUQUdTLkhJU1RPUklDQUwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
