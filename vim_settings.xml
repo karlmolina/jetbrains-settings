@@ -9,8 +9,8 @@
       <history-search />
       <history-cmd>
         <entry>m .+1</entry>
-        <entry>m .-2</entry>
         <entry>w</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -59,10 +59,11 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591992283203">
-        <mark key="[" line="101" column="31" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591994080732">
+        <mark key="[" line="109" column="30" />
+        <mark key="]" line="109" column="25" />
+        <mark key="." line="109" column="24" />
+        <mark key="^" line="109" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/test-objects.js" timestamp="1591977467383">
         <mark key="i" line="0" column="0" />
@@ -75,11 +76,11 @@
         <mark key="^" line="40" column="13" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1591992268234">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="36" column="10" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1591994283379">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1591992062232">
         <mark key="[" line="2" column="0" />
@@ -87,10 +88,10 @@
         <mark key="^" line="110" column="79" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591978881405">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591992598659">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1591977234144">
         <mark key="[" line="15" column="0" />
@@ -156,13 +157,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>entries</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpblZpZXcubG9naW4odXNlcnMuR0hPU1QuUFMuR0hPU1RfQ0FQVElPTlMpOwo=</text>
@@ -196,19 +197,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGVnIHRlc3Q6bG9jYWw6Y2hyb21lIC0tZmlsZXM9dGVzdC9uZXdzL2dlbmVyYWwuanMK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsR3J1bnRDb25maWcubW9jaGFUZXN0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgW2tleSwgdmFsdWVdIG9mIE9iamVjdC5lbnRyaWVzKG9wdGlvbnMubW9jaGFUZXN0VGFza3MpKSB7CiAgICAgICAgaW5pdGlhbEdydW50Q29uZmlnLm1vY2hhVGVzdFtrZXldID0gewogICAgICAgICAgICBvcHRpb25zOiBtb2NoYU9wdGlvbnMsCiAgICAgICAgICAgIHNyYzogW2B0ZXN0cy8ke3ZhbHVlfS8qKi8qLmpzYF0sCiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdydW50LmluaXRDb25maWcoZ3J1bnRDb25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -217,13 +218,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzOiB7CiAgICAgICAgICAgIG9wdGlvbnM6IG1vY2hhT3B0aW9ucywKICAgICAgICAgICAgc3JjOiBbJ3Rlc3RzL25ld3MvKiovKi5qcyddLAogICAgICAgIH0sCiAgICAgICAgZmluOiB7CiAgICAgICAgICAgIG9wdGlvbnM6IG1vY2hhT3B0aW9ucywKICAgICAgICAgICAgc3JjOiBbJ3Rlc3RzL2ZpbmFuY2UvKiovKi5qcyddLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbWU6IHsKICAgICAgICAgICAgYWRkOiB7CiAgICAgICAgICAgICAgICBjaHJvbWVEcml2ZXI6IHRydWUsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICBmZjogewogICAgICAgICAgICBhZGQ6IHsKICAgICAgICAgICAgICAgIGZmRHJpdmVyOiB0cnVlLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgaWU6IHsKICAgICAgICAgICAgYWRkOiB7CiAgICAgICAgICAgICAgICBpZURyaXZlcjogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXY6IHsKICAgICAgICAgICAgQkFTRV9VUkw6ICdodHRwczovL2VtZC1kZXYuZGF0YW1pbnIuY29tJywKICAgICAgICB9LAoKICAgICAgICB0ZXN0OiB7CiAgICAgICAgICAgIEJBU0VfVVJMOiAnaHR0cHM6Ly9lbWQtdGVzdC5kYXRhbWluci5jb20vbG9naW4nLAogICAgICAgIH0sCgogICAgICAgIGR5bmFtaWM6IHsKICAgICAgICAgICAgQkFTRV9VUkw6IHByb2Nlc3MuZW52LkRZTkFNSUNfVVJMLAogICAgICAgIH0sCgo=</text>
+        <text encoding="base64">ICAgIGFsbDogJycsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m .-2</text>
       </register>
     </registers>
   </component>
