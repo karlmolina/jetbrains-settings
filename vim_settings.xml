@@ -59,16 +59,17 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591984236898">
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="15" />
-        <mark key="^" line="89" column="16" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591985233928">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/test-objects.js" timestamp="1591977467383">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/admin-testing/Gruntfile.js" timestamp="1591984813784" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1591913079271">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
@@ -113,7 +114,6 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1591911620377" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test2.js" timestamp="1591912972198">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -155,14 +155,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gZ3J1bnQKICogQHBhcmFtIGJyb3dzZXJMaXN0CiAqIEBwYXJhbSBlbnZMaXN0CiAqIEBwYXJhbSB2ZXJ0aWNhbExpc3QKICogQHBhcmFtIHRlc3RUeXBlTGlzdAogKi8K</text>
+      <register name="&quot;" type="4">
+        <text>Options</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Options</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpblZpZXcubG9naW4odXNlcnMuR0hPU1QuUFMuR0hPU1RfQ0FQVElPTlMpOwo=</text>
@@ -196,41 +196,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gZ3J1bnQKICogQHBhcmFtIGJyb3dzZXJMaXN0CiAqIEBwYXJhbSBlbnZMaXN0CiAqIEBwYXJhbSB2ZXJ0aWNhbExpc3QKICogQHBhcmFtIHRlc3RUeXBlTGlzdAogKi8K</text>
+        <text encoding="base64">b3B0aW9ucy5icm93c2VyTGlzdCA9IHVuZGVmaW5lZGRkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3B0aW9ucy5icm93c2VyTGlzdCA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gZ3J1bnQKICogQHBhcmFtIGJyb3dzZXJMaXN0CiAqIEBwYXJhbSBlbnZMaXN0CiAqIEBwYXJhbSB2ZXJ0aWNhbExpc3QKICogQHBhcmFtIHRlc3RUeXBlTGlzdAogKi8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBnZXRSZWdleCB9ID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvbGFiZWxpbmcnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>const mochaOptions = {
-    ui: 'bdd',
-    timeout: 200000,
-    reporter: 'mocha-multi',
-    reporterOptions: {
-        xunit: {
-            stdout: 'tmp/results.xml',
-        },
-        spec: {
-            stdout: '-',
-        },
-    },
-    colors: true,
-};</text>
+        <text encoding="base64">Y29uc3QgeyBnZXRSZWdleCB9ID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvbGFiZWxpbmcnKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
