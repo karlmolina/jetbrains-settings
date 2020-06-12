@@ -59,11 +59,11 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591980885882">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="47" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1591981880093">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/test-objects.js" timestamp="1591977467383">
         <mark key="i" line="0" column="0" />
@@ -75,10 +75,16 @@
         <mark key="^" line="40" column="13" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1591980580648">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1591981566801">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1591980991378">
+        <mark key="[" line="119" column="63" />
+        <mark key="]" line="119" column="79" />
+        <mark key="." line="119" column="78" />
+        <mark key="^" line="119" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591978881405">
         <mark key="[" line="74" column="0" />
@@ -106,12 +112,6 @@
         <mark key="]" line="13" column="33" />
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/nyc.config.js" timestamp="1591911227345">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/4-email-tracked-alert-captions.js" timestamp="1591911620377" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test2.js" timestamp="1591912972198">
@@ -156,13 +156,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gZ3J1bnQKICogQHBhcmFtIGJyb3dzZXJMaXN0CiAqIEBwYXJhbSBlbnZMaXN0CiAqIEBwYXJhbSB2ZXJ0aWNhbExpc3QKICogQHBhcmFtIHRlc3RUeXBlTGlzdAogKi8K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpblZpZXcubG9naW4odXNlcnMuR0hPU1QuUFMuR0hPU1RfQ0FQVElPTlMpOwo=</text>
@@ -196,31 +196,44 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gZ3J1bnQKICogQHBhcmFtIGJyb3dzZXJMaXN0CiAqIEBwYXJhbSBlbnZMaXN0CiAqIEBwYXJhbSB2ZXJ0aWNhbExpc3QKICogQHBhcmFtIHRlc3RUeXBlTGlzdAogKi8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChncnVudC5vcHRpb24oJ3RhZ3MnKSkgewogICAgICAgIGNvbnN0IHRhZ3MgPSBncnVudC5vcHRpb24oJ3RhZ3MnKTsKICAgICAgICBtb2NoYU9wdGlvbnMuZ3JlcCA9IGdldFJlZ2V4KHRhZ3MpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNb2NrIGRyaXZlcicpOwo=</text>
+        <text encoding="base64">Y29uc3QgeyBnZXRSZWdleCB9ID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvbGFiZWxpbmcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVjdXJzaXZlID0gcmVxdWlyZSgncmVjdXJzaXZlLXJlYWRkaXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtb2NoYSI6ICI2LjIuMiIsCg==</text>
+        <text>const mochaOptions = {
+    ui: 'bdd',
+    timeout: 200000,
+    reporter: 'mocha-multi',
+    reporterOptions: {
+        xunit: {
+            stdout: 'tmp/results.xml',
+        },
+        spec: {
+            stdout: '-',
+        },
+    },
+    colors: true,
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicGVlckRlcGVuZGVuY2llcyI6IHsKICAgICJtb2NoYSI6ICI+PSA2IgogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
