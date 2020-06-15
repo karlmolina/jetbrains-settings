@@ -91,6 +91,7 @@
         <mark key="^" line="955" column="74" />
         <mark key="." line="955" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/topic-mapping.js" timestamp="1592241612544" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/mock-webdriver.js" timestamp="1592232134411">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -138,12 +139,6 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1592003427229">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/corporate/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1592232567115">
         <mark key="[" line="4" column="22" />
