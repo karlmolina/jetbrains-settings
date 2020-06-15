@@ -79,12 +79,18 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1592002322040" />
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1592232521726">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" timestamp="1592238094965">
+        <mark key="'" line="489" column="51" />
+        <mark key="[" line="955" column="74" />
+        <mark key="]" line="955" column="74" />
+        <mark key="^" line="955" column="74" />
+        <mark key="." line="955" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/mock-webdriver.js" timestamp="1592232134411">
         <mark key="[" line="10" column="0" />
@@ -108,11 +114,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1592237817810">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1592239211331">
         <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="8" column="34" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/finance/search-popup/alert-detail/original-message/email-export.js" timestamp="1592232547947">
         <mark key="[" line="0" column="11" />
@@ -173,18 +179,20 @@
       <jump line="57" column="0" filename="$USER_HOME$/Documents/repos/ghost-testing/tests/government/crosspost-verified-user.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" />
+      <jump line="326" column="27" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" />
+      <jump line="489" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>'</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNoYXJlZEdydW50V3JhcHBlcihncnVudCwgZ3J1bnRDb25maWcsIHsKICAgICAgICB2ZXJ0aWNhbExpc3QsCiAgICAgICAgZW52TGlzdCwKICAgICAgICBtb2NoYVRlc3RUYXNrcywKICAgIH0pOwo=</text>
