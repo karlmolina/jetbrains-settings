@@ -59,18 +59,12 @@
         <mark key="^" line="58" column="53" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1592324783598">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="0" column="75" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="55" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1592329574417">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
         <mark key="o" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/crosspost-verified-user.js" timestamp="1592256862712">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1592257097865">
         <mark key="[" line="4" column="31" />
@@ -78,11 +72,10 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/.gitlab-ci.yml" timestamp="1592254517648">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/grunt/shared-grunt-file.js" timestamp="1592330226873">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1592257204242">
         <mark key="[" line="3" column="41" />
@@ -91,19 +84,6 @@
         <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/copy-users/copy-no-profile-alert-stream.js" timestamp="1592261819005" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" timestamp="1592256607942">
-        <mark key="'" line="489" column="51" />
-        <mark key="[" line="955" column="18" />
-        <mark key="]" line="955" column="18" />
-        <mark key="^" line="955" column="74" />
-        <mark key="." line="955" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/ghost/views/alert.js" timestamp="1592256598081">
-        <mark key="[" line="1159" column="29" />
-        <mark key="]" line="1159" column="26" />
-        <mark key="^" line="1159" column="26" />
-        <mark key="." line="1159" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1592257059714">
         <mark key="[" line="29" column="66" />
         <mark key="]" line="29" column="78" />
@@ -118,16 +98,22 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/package.json" timestamp="1592254479590">
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="77" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1592329160295">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="29" />
+        <mark key="^" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/admin-testing/tests/end-to-end/corporate/stenciled-user/new-user.js" timestamp="1592326267246" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1592322796117">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/admin-testing/test-imports.js" timestamp="1592326298205">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/rules-components.js" timestamp="1592322014889" />
       <file name="$USER_HOME$/Documents/repos/admin-testing/package.json" timestamp="1592257162480">
@@ -136,21 +122,21 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/test-imports.js" timestamp="1592256768593">
-        <mark key="[" line="50" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1592256808228">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/options.js" timestamp="1592329784843">
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/v2-map-graph.js" timestamp="1592322075439" />
-      <file name="$USER_HOME$/Documents/repos/smoketest/Gruntfile.js" timestamp="1592254349904">
-        <mark key="[" line="20" column="68" />
-        <mark key="]" line="20" column="56" />
-        <mark key="." line="20" column="55" />
-        <mark key="^" line="20" column="56" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1592329877151">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/package.json" timestamp="1592328252431">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="77" />
       </file>
     </filemarks>
     <jumps>
@@ -176,7 +162,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -185,7 +171,7 @@
         <text>ssh-key-before-script</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBzaGFyZWRHcnVudFdyYXBwZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2dydW50L3NoYXJlZC1ncnVudC1maWxlJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9ja1dlYmRyaXZlciA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3Rlc3QvbW9jay13ZWJkcml2ZXInKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -216,31 +202,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE5NjczNTk3CiAgICBjb25zdCBwcmV2aW91c0ZvcmNlU3RhdGUgPSBncnVudC5vcHRpb24oJ2ZvcmNlJyk7CgogICAgZ3J1bnQucmVnaXN0ZXJUYXNrKCdmb3JjZScsIGZ1bmN0aW9uIChzZXQpIHsKICAgICAgICBpZiAoc2V0ID09PSAnb24nKSB7CiAgICAgICAgICAgIGdydW50Lm9wdGlvbignZm9yY2UnLCB0cnVlKTsKICAgICAgICB9IGVsc2UgaWYgKHNldCA9PT0gJ29mZicpIHsKICAgICAgICAgICAgZ3J1bnQub3B0aW9uKCdmb3JjZScsIGZhbHNlKTsKICAgICAgICB9IGVsc2UgaWYgKHNldCA9PT0gJ3Jlc3RvcmUnKSB7CiAgICAgICAgICAgIGdydW50Lm9wdGlvbignZm9yY2UnLCBwcmV2aW91c0ZvcmNlU3RhdGUpOwogICAgICAgIH0KICAgIH0pOwoKICAgIC8vIGVnIHRlc3Q6bG9jYWw6Y2hyb21lIC0tZmlsZXM9dGVzdC9uZXdzL2dlbmVyYWwuanMKICAgIGlmIChncnVudC5vcHRpb24oJ2ZpbGVzJykpIHsKICAgICAgICBjb25zdCBmaWxlc0xpc3QgPSBncnVudC5vcHRpb24oJ2ZpbGVzJykuc3BsaXQoJywnKTsKICAgICAgICBncnVudENvbmZpZy5tb2NoYVRlc3QuYWxsLnNyYyA9IGZpbGVzTGlzdDsKICAgIH0KCiAgICAvLyBvdXRwdXQgcmVzdWx0IFhNTCB0byBhIGRpZmZlcmVudCBsb2NhdGlvbgogICAgLy8gZS5nLiB0ZXN0OmNocm9tZTpzdGFnZSAuLi4gLS1vdXRwdXQgcmVzdWx0cy90ZXN0LnhtbAogICAgaWYgKGdydW50Lm9wdGlvbignb3V0cHV0JykpIHsKICAgICAgICBjb25zdCBvdXRwdXRGaWxlID0gZ3J1bnQub3B0aW9uKCdvdXRwdXQnKTsKICAgICAgICBtb2NoYU9wdGlvbnMucmVwb3J0ZXJPcHRpb25zLnh1bml0LnN0ZG91dCA9IG91dHB1dEZpbGU7CiAgICB9CgogICAgaWYgKGdydW50Lm9wdGlvbigndGFncycpKSB7CiAgICAgICAgY29uc3QgdGFncyA9IGdydW50Lm9wdGlvbigndGFncycpOwogICAgICAgIG1vY2hhT3B0aW9ucy5ncmVwID0gZ2V0UmVnZXgodGFncyk7CiAgICB9CgogICAgZ3J1bnQuaW5pdENvbmZpZyhncnVudENvbmZpZyk7CiAgICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWVudicpOwogICAgZ3J1bnQubG9hZE5wbVRhc2tzKCdncnVudC1tb2NoYS10ZXN0Jyk7CiAgICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbmN1cnJlbnQnKTsKCiAgICAvLyBEZWZhdWx0IHRhc2sgaXMgbG9jYWwgY2hyb21lIHRlc3QKICAgIGdydW50LnJlZ2lzdGVyVGFzaygnZGVmYXVsdCcsIFsnZW52OmNocm9tZScsICdtb2NoYVRlc3Q6YWxsJ10pOwoKICAgIC8vIEJyb3dzZXJzIC0gbG9jYWwKICAgIC8vIGVnIHRlc3Q6bG9jYWw6Y2hyb21lOmdvdgoKICAgIGNvbnN0IGJyb3dzZXJMaXN0ID0gWydjaHJvbWUnLCAnZmYnLCAnaWUnXTsKICAgIGNvbnN0IHZlcnRpY2FsTGlzdCA9IFsnZmluJywgJ25ld3MnXTsKICAgIGNvbnN0IGVudkxpc3QgPSBbJ2RldicsICd0ZXN0JywgJ2R5bmFtaWMnXTsKCiAgICBfLmVhY2goYnJvd3Nlckxpc3QsIGZ1bmN0aW9uIChicm93c2VyKSB7CiAgICAgICAgZ3J1bnQucmVnaXN0ZXJUYXNrKGB0ZXN0OiR7YnJvd3Nlcn1gLCBbYGVudjoke2Jyb3dzZXJ9YCwgJ21vY2hhVGVzdDphbGwnXSk7CgogICAgICAgIF8uZWFjaChlbnZMaXN0LCBmdW5jdGlvbiAoZW52KSB7CiAgICAgICAgICAgIGdydW50LnJlZ2lzdGVyVGFzayhgdGVzdDoke2Jyb3dzZXJ9OiR7ZW52fWAsIFtgZW52OiR7YnJvd3Nlcn1gLCBgZW52OiR7ZW52fWAsICdtb2NoYVRlc3Q6YWxsJ10pOwoKICAgICAgICAgICAgXy5lYWNoKHZlcnRpY2FsTGlzdCwgZnVuY3Rpb24gKHZlcnQpIHsKICAgICAgICAgICAgICAgIGdydW50LnJlZ2lzdGVyVGFzayhgdGVzdDoke2Jyb3dzZXJ9OiR7ZW52fToke3ZlcnR9YCwgW2BlbnY6JHticm93c2VyfWAsIGBlbnY6JHtlbnZ9YCwgYGVudjoke3ZlcnR9YCwgYG1vY2hhVGVzdDoke3ZlcnR9YF0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0pOwoK</text>
+        <text encoding="base64">Y29uc3QgbW9ja1dlYmRyaXZlciA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3Rlc3QvbW9jay13ZWJkcml2ZXInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGdydW50Q29uZmlnLCBudWxsLCA0KSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hpJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGluaXRpYWxHcnVudENvbmZpZywgbnVsbCwgNCkpOwo=</text>
+        <text encoding="base64">ICAgIG5ld1VzZXJGbG93LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2plY3Q6IHRlc3QtdGVhbS9kbS12aWdpbAoKICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwKCiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">Y29uc3QgbmV3VXNlckZsb3cgPSByZXF1aXJlKCdkbS12aWdpbC9hZG1pbi9mbG93cy9uZXctdXNlcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9lc2xpbnQtam9iLnltbAogICAgcHJvamVjdDogdGVzdC10ZWFtL2RtLXZpZ2lsCgogIC0gZmlsZTogLnNoYXJlZC1naXRsYWItY2kvZ2VuZXJhdGUtbGFiZWxzLnltbAogICAgcHJvamVjdDogdGVzdC10ZWFtL2RtLXZpZ2lsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9lc2xpbnQtam9iLnltbAogICAgcHJvamVjdDogdGVzdC10ZWFtL2RtLXZpZ2lsCg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9hLzE5NjczNTk3CiAgICBjb25zdCBwcmV2aW91c0ZvcmNlU3RhdGUgPSBncnVudC5vcHRpb24oJ2ZvcmNlJyk7CgogICAgZ3J1bnQucmVnaXN0ZXJUYXNrKCdmb3JjZScsIGZ1bmN0aW9uIChzZXQpIHsKICAgICAgICBpZiAoc2V0ID09PSAnb24nKSB7CiAgICAgICAgICAgIGdydW50Lm9wdGlvbignZm9yY2UnLCB0cnVlKTsKICAgICAgICB9IGVsc2UgaWYgKHNldCA9PT0gJ29mZicpIHsKICAgICAgICAgICAgZ3J1bnQub3B0aW9uKCdmb3JjZScsIGZhbHNlKTsKICAgICAgICB9IGVsc2UgaWYgKHNldCA9PT0gJ3Jlc3RvcmUnKSB7CiAgICAgICAgICAgIGdydW50Lm9wdGlvbignZm9yY2UnLCBwcmV2aW91c0ZvcmNlU3RhdGUpOwogICAgICAgIH0KICAgIH0pOwoKICAgIC8vIGVnIHRlc3Q6bG9jYWw6Y2hyb21lIC0tZmlsZXM9dGVzdC9uZXdzL2dlbmVyYWwuanMKICAgIGlmIChncnVudC5vcHRpb24oJ2ZpbGVzJykpIHsKICAgICAgICBjb25zdCBmaWxlc0xpc3QgPSBncnVudC5vcHRpb24oJ2ZpbGVzJykuc3BsaXQoJywnKTsKICAgICAgICBncnVudENvbmZpZy5tb2NoYVRlc3QuYWxsLnNyYyA9IGZpbGVzTGlzdDsKICAgIH0KCiAgICAvLyBvdXRwdXQgcmVzdWx0IFhNTCB0byBhIGRpZmZlcmVudCBsb2NhdGlvbgogICAgLy8gZS5nLiB0ZXN0OmNocm9tZTpzdGFnZSAuLi4gLS1vdXRwdXQgcmVzdWx0cy90ZXN0LnhtbAogICAgaWYgKGdydW50Lm9wdGlvbignb3V0cHV0JykpIHsKICAgICAgICBjb25zdCBvdXRwdXRGaWxlID0gZ3J1bnQub3B0aW9uKCdvdXRwdXQnKTsKICAgICAgICBtb2NoYU9wdGlvbnMucmVwb3J0ZXJPcHRpb25zLnh1bml0LnN0ZG91dCA9IG91dHB1dEZpbGU7CiAgICB9CgogICAgaWYgKGdydW50Lm9wdGlvbigndGFncycpKSB7CiAgICAgICAgY29uc3QgdGFncyA9IGdydW50Lm9wdGlvbigndGFncycpOwogICAgICAgIG1vY2hhT3B0aW9ucy5ncmVwID0gZ2V0UmVnZXgodGFncyk7CiAgICB9CgogICAgZ3J1bnQuaW5pdENvbmZpZyhncnVudENvbmZpZyk7CiAgICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWVudicpOwogICAgZ3J1bnQubG9hZE5wbVRhc2tzKCdncnVudC1tb2NoYS10ZXN0Jyk7CiAgICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbmN1cnJlbnQnKTsKCiAgICAvLyBEZWZhdWx0IHRhc2sgaXMgbG9jYWwgY2hyb21lIHRlc3QKICAgIGdydW50LnJlZ2lzdGVyVGFzaygnZGVmYXVsdCcsIFsnZW52OmNocm9tZScsICdtb2NoYVRlc3Q6YWxsJ10pOwoKICAgIC8vIEJyb3dzZXJzIC0gbG9jYWwKICAgIC8vIGVnIHRlc3Q6bG9jYWw6Y2hyb21lOmdvdgoKICAgIGNvbnN0IGJyb3dzZXJMaXN0ID0gWydjaHJvbWUnLCAnZmYnLCAnaWUnXTsKICAgIGNvbnN0IHZlcnRpY2FsTGlzdCA9IFsnZmluJywgJ25ld3MnXTsKICAgIGNvbnN0IGVudkxpc3QgPSBbJ2RldicsICd0ZXN0JywgJ2R5bmFtaWMnXTsKCiAgICBfLmVhY2goYnJvd3Nlckxpc3QsIGZ1bmN0aW9uIChicm93c2VyKSB7CiAgICAgICAgZ3J1bnQucmVnaXN0ZXJUYXNrKGB0ZXN0OiR7YnJvd3Nlcn1gLCBbYGVudjoke2Jyb3dzZXJ9YCwgJ21vY2hhVGVzdDphbGwnXSk7CgogICAgICAgIF8uZWFjaChlbnZMaXN0LCBmdW5jdGlvbiAoZW52KSB7CiAgICAgICAgICAgIGdydW50LnJlZ2lzdGVyVGFzayhgdGVzdDoke2Jyb3dzZXJ9OiR7ZW52fWAsIFtgZW52OiR7YnJvd3Nlcn1gLCBgZW52OiR7ZW52fWAsICdtb2NoYVRlc3Q6YWxsJ10pOwoKICAgICAgICAgICAgXy5lYWNoKHZlcnRpY2FsTGlzdCwgZnVuY3Rpb24gKHZlcnQpIHsKICAgICAgICAgICAgICAgIGdydW50LnJlZ2lzdGVyVGFzayhgdGVzdDoke2Jyb3dzZXJ9OiR7ZW52fToke3ZlcnR9YCwgW2BlbnY6JHticm93c2VyfWAsIGBlbnY6JHtlbnZ9YCwgYGVudjoke3ZlcnR9YCwgYG1vY2hhVGVzdDoke3ZlcnR9YF0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0pOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ3JhdGlvbjogewogICAgICAgICAgICBCQVNFX1VSTDogJ2h0dHBzOi8vaW50ZWdyYXRpb24uZGF0YW1pbnIuY29tJywKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGdydW50Q29uZmlnLCBudWxsLCA0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
