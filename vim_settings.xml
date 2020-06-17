@@ -56,11 +56,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/end-to-end/email/captions/corp-scan-national.js" timestamp="1592417170446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/government/ODS/manual-alerts/manual-alert-telegram.js" timestamp="1592417658634" />
       <file name="$USER_HOME$/Documents/repos/smoketest/test-imports.js" timestamp="1592417348961">
         <mark key="[" line="123" column="0" />
@@ -119,6 +114,12 @@
         <mark key="]" line="28" column="66" />
         <mark key="^" line="29" column="83" />
         <mark key="." line="28" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1592422414192">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/package.json" timestamp="1592422388516">
         <mark key="[" line="9" column="66" />
