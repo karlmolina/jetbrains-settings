@@ -68,12 +68,6 @@
         <mark key="." line="19" column="84" />
         <mark key="^" line="19" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1592420193829">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1592421085485">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="5" column="4" />
@@ -86,8 +80,6 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1592926205026" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1592926122737" />
       <file name="$USER_HOME$/Documents/repos/admin-testing/package.json" timestamp="1592422361529">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="66" />
@@ -142,7 +134,6 @@
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/test-utils/test-objects.js" timestamp="1592925677470" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1592422414192">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="66" />
