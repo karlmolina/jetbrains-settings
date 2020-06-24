@@ -68,18 +68,13 @@
         <mark key="." line="19" column="84" />
         <mark key="^" line="19" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1592421085485">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/add-remove-panes.js" timestamp="1592925841688">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="62" />
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1593035990732" />
       <file name="$USER_HOME$/Documents/repos/admin-testing/package.json" timestamp="1592422361529">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="66" />
@@ -91,6 +86,12 @@
         <mark key="]" line="24" column="50" />
         <mark key="^" line="24" column="50" />
         <mark key="." line="24" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/.gitlab-ci.yml" timestamp="1593035986573">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/news/login/forgot-password.js" timestamp="1592849215273">
         <mark key="[" line="8" column="69" />
@@ -116,12 +117,6 @@
         <mark key="^" line="29" column="83" />
         <mark key="." line="28" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1592421078878">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1592422394364">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -139,6 +134,12 @@
         <mark key="]" line="9" column="66" />
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/Gruntfile.js" timestamp="1593035967856">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="8" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -166,17 +167,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL3NzCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzZWxlbml1bS13ZWJkcml2ZXIiOiAiXjMuNi4wIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZTogewogICAgICAgICAgICBCQVNFX1VSTDogJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tJywKICAgICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -207,31 +208,171 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL3NzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aC1rZXktYmVmb3JlLXNjcmlwdC55bWwKICAgIHByb2plY3Q6IHRlc3QtdGVhbS9kbS12aWdpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbExpc3QsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gdGVhcmRvd24KdGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZG9yc2VtZW50c0Zsb3c6IGVuZG9yc2VtZW50c0Zsb3csCg==</text>
+        <text>const _ = require('lodash');
+const { getRegex } = require('dm-vigil/utils/labeling');
+
+const mochaOptions = {
+    ui: 'bdd',
+    timeout: 200000,
+    reporter: 'mocha-multi',
+    reporterOptions: {
+        xunit: {
+            stdout: 'tmp/results.xml',
+        },
+        spec: {
+            stdout: '-',
+        },
+    },
+    colors: true,
+};
+
+const gruntConfig = {
+    env: {
+        news: {
+            VERTICAL: 'news',
+        },
+        gov: {
+            VERTICAL: 'gov',
+        },
+        fin: {
+            VERTICAL: 'fin',
+        },
+        corp: {
+            VERTICAL: 'corp',
+        },
+        pr: {
+            VERTICAL: 'pr',
+        },
+        internal: {
+            VERTICAL: 'internal',
+        },
+        stage: {
+            BASE_URL: 'https://hub-test.dataminr.com/',
+        },
+        dynamic: {
+            BASE_URL: process.env.DYNAMIC_URL,
+        },
+        chrome: {
+            add: {
+                chromeDriver: true,
+            },
+        },
+        ff: {
+            NSPR_LOG_MODULES: 'timestamp,nsHttp:3',
+            NSPR_LOG_FILE: '/tmp/browser_log.txt',
+            add: {
+                ffDriver: true,
+            },
+        },
+        ie: {
+            add: {
+                ieDriver: true,
+            },
+        },
+    },
+    mochaTest: {
+        all: {
+            options: mochaOptions,
+            src: ['tests/**/*.js'],
+        },
+        news: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/news/**/*.js'],
+        },
+        fin: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/finance/**/*.js'],
+        },
+        gov: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/government/**/*.js'],
+        },
+        corp: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/corporate/**/*js'],
+        },
+        pr: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/public-relations/**/*js'],
+        },
+        internal: {
+            options: mochaOptions,
+            src: ['tests/0login.js', 'tests/internal/**/*.js'],
+        },
+    },
+};
+
+module.exports = function (grunt) {
+    // http://stackoverflow.com/a/19673597
+    const previousForceState = grunt.option('force');
+
+    grunt.registerTask('force', function (set) {
+        if (set === 'on') {
+            grunt.option('force', true);
+        } else if (set === 'off') {
+            grunt.option('force', false);
+        } else if (set === 'restore') {
+            grunt.option('force', previousForceState);
+        }
+    });
+
+    // eg test:local:chrome --files=test/news/dashboard.js
+    if (grunt.option('files')) {
+        const filesList = grunt.option('files').split(',');
+        gruntConfig.mochaTest.all.src = filesList;
+        gruntConfig.mochaTest.news.src = filesList;
+        gruntConfig.mochaTest.fin.src = filesList;
+        gruntConfig.mochaTest.gov.src = filesList;
+        gruntConfig.mochaTest.corp.src = filesList;
+        gruntConfig.mochaTest.pr.src = filesList;
+    }
+
+    if (grunt.option('output')) {
+        const outputFile = grunt.option('output');
+        mochaOptions.reporterOptions.xunit.stdout = outputFile;
+    }
+
+    if (grunt.option('tags')) {
+        const tags = grunt.option('tags');
+        mochaOptions.grep = getRegex(tags);
+    }
+
+    grunt.initConfig(gruntConfig);
+    grunt.loadNpmTasks('grunt-env');
+    grunt.loadNpmTasks('grunt-mocha-test');
+    grunt.loadNpmTasks('grunt-concurrent');
+
+    // Default task is local chrome test
+    grunt.registerTask('default', ['env:chrome', 'mochaTest:all']);
+
+    // Browsers - local
+    // eg test:local:chrome:gov
+
+};</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdCA9IHJlcXVpcmUoJ3NlbGVuaXVtLXdlYmRyaXZlci90ZXN0aW5nJyk7CmNvbnN0IG1haW5WaWV3ID0gcmVxdWlyZSgnZG0tdmlnaWwvZ2hvc3Qvdmlld3MvbWFpbicpOwpjb25zdCBlbmRvcnNlbWVudHMgPSByZXF1aXJlKCdkbS12aWdpbC9naG9zdC9mbG93cy9lbmRvcnNlbWVudHMnKTsKY29uc3QgbG9naW5WaWV3ID0gcmVxdWlyZSgnZG0tdmlnaWwvY2xpZW50YXBwL3ZpZXdzL2xvZ2luJyk7CmNvbnN0IHYyQWxlcnRzUGFuZWxWaWV3ID0gcmVxdWlyZSgnZG0tdmlnaWwvY2xpZW50YXBwL3ZpZXdzL3YyLWFsZXJ0cy1wYW5lbCcpOwpjb25zdCB1dGlsID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvYXBwL2luZGV4Jyk7CmNvbnN0IGRhdGEgPSByZXF1aXJlKCdkbS12aWdpbC9naG9zdC9kYXRhJyk7CmNvbnN0IHRvcGljTWFwcGluZyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2dob3N0L3RvcGljLW1hcHBpbmcnKTsKY29uc3QgdXNlcnMgPSByZXF1aXJlKCdkbS12aWdpbC9kYXRhL3VzZXJzJyk7CmNvbnN0IERyaXZlck1hbmFnZXIgPSByZXF1aXJlKCdkbS12aWdpbC91dGlscy9Ecml2ZXJNYW5hZ2VyJyk7CmNvbnN0IEdob3N0RHJpdmVyQ3JlYXRvciA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL0dob3N0RHJpdmVyQ3JlYXRvcicpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZlcnRpY2FsTGlzdCA9IFsnbmV3cycsICdmaW4nLCAnZ292JywgJ2NvcnAnLCAncHInLCAnaW50ZXJuYWwnXTsKICAgIGNvbnN0IGJyb3dzZXJMaXN0ID0gWydjaHJvbWUnLCAnZmYnLCAnaWUnXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZG9yc2VtZW50c0Zsb3csCg==</text>
+        <text encoding="base64">Y29uc3QgdmVydGljYWxMaXN0ID0gWyduZXdzJywgJ2dvdicsICdmaW4nLCAnY29ycCcsICdwciddOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdlYmRyaXZlciwK</text>
+        <text encoding="base64">Y29uc3QgZW52TGlzdCA9IFsnc3RhZ2UnLCAnZHluYW1pYyddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
