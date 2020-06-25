@@ -99,23 +99,23 @@
         <mark key="^" line="8" column="68" />
         <mark key="." line="8" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/tests/news/zendesk-connection.js" timestamp="1592421812666">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/package.json" timestamp="1592422388516">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="66" />
         <mark key="^" line="9" column="83" />
         <mark key="." line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593124159788">
-        <mark key="[" line="28" column="66" />
-        <mark key="]" line="28" column="92" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593124329085">
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="28" column="91" />
         <mark key="^" line="28" column="92" />
         <mark key="." line="28" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1593124339035">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1592422394364">
         <mark key="[" line="5" column="0" />
@@ -167,17 +167,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL3NzCg==</text>
+      <register name="&quot;" type="4">
+        <text>mockmock</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>mockmock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZTogewogICAgICAgICAgICBCQVNFX1VSTDogJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tJywKICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>mock-driver-junit-results</text>
       </register>
       <register name="q" type="4">
         <keys>
