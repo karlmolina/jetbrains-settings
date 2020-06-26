@@ -115,11 +115,8 @@
         <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tmp/results.xml" timestamp="1593208150197" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593210725760">
-        <mark key="[" line="186" column="62" />
-        <mark key="]" line="186" column="62" />
-        <mark key="." line="186" column="61" />
-        <mark key="^" line="186" column="62" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593211205605">
+        <mark key="[" line="44" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593209442369">
         <mark key="[" line="28" column="45" />
@@ -163,8 +160,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>MyReporter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -204,31 +201,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>mocha.utils.inherits(MyReporter, mocha.reporters.Spec);</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4dW5pdFJlcG9ydGVyT3B0aW9uczogewogICAgICAgICAgICBvdXRwdXQ6ICdoaS54bWwnLAogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29udmVydCAnZ2hvc3QtdGVzdGluZy90ZXN0cy9maW5hbmNlL2JyYW5kaW5nLmpzJyB0byAnZ2hvc3QudGVzdHMuZmluYW5jZS5icmFuZGluZycuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb252ZXJ0ICdnaG9zdC10ZXN0aW5nL3Rlc3RzL2ZpbmFuY2UvYnJhbmRpbmcnIHRvICdnaG9zdC50ZXN0cy5maW5hbmNlLmJyYW5kaW5nJy4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">bW9jaGEudXRpbHMuaW5oZXJpdHMoQ3VzdG9tWFVuaXRSZXBvcnRlciwgbW9jaGEucmVwb3J0ZXJzLkJhc2UpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text>mocha.utils.inherits(MyReporter, mocha.reporters.Spec);</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB4dW5pdFJlcG9ydGVyT3B0aW9uczogewogICAgICAgICAgICBvdXRwdXQ6ICdoaS54bWwnLAogICAgICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29udmVydCAnZ2hvc3QtdGVzdGluZy90ZXN0cy9maW5hbmNlL2JyYW5kaW5nLmpzJyB0byAnZ2hvc3QudGVzdHMuZmluYW5jZS5icmFuZGluZycuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb252ZXJ0ICdnaG9zdC10ZXN0aW5nL3Rlc3RzL2ZpbmFuY2UvYnJhbmRpbmcnIHRvICdnaG9zdC50ZXN0cy5maW5hbmNlLmJyYW5kaW5nJy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5jd2QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndyaXRlID0gdGhpcy53cml0ZS5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEZpbGUgPSB0aGlzLmFkZEZpbGUuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5jd2QoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
