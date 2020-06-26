@@ -8,9 +8,9 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>m .+1</entry>
         <entry>w</entry>
         <entry>m .-2</entry>
+        <entry>m .+1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -56,24 +56,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/add-remove-panes.js" timestamp="1592925841688">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="13" column="62" />
-        <mark key="^" line="13" column="62" />
-        <mark key="." line="13" column="61" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1593035990732" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593188487477">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="115" column="64" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593190876407">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="96" />
+      </file>
+      <file name="/a.dummy" timestamp="1593192906418">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/.gitlab-ci.yml" timestamp="1593035986573">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="37" />
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/dm-xunit-reporter.js" timestamp="1593189716672">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1593193604738">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="27" />
+        <mark key="^" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1593124339035">
         <mark key="[" line="5" column="12" />
@@ -87,11 +96,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593186696840">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="36" column="31" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593189619781">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1593124073412">
         <mark key="[" line="7" column="45" />
@@ -99,23 +108,17 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/realtime/dashboard/alert-detail/original-message/email-export.js" timestamp="1592925789474">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="49" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593193989296">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593188929342">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/package.json" timestamp="1592849246277">
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="85" />
-        <mark key="^" line="9" column="85" />
-        <mark key="." line="9" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" timestamp="1593183528008">
         <mark key="[" line="140" column="0" />
@@ -151,16 +154,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdEBnaXQuZGF0YW1pbnIuY29tOnRlc3QtdGVhbS9naG9zdC10ZXN0aW5nLmdpdCIKICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
+      <register name="0" type="4">
+        <text>DmXUnitReporter</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -191,34 +194,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdEBnaXQuZGF0YW1pbnIuY29tOnRlc3QtdGVhbS9naG9zdC10ZXN0aW5nLmdpdCIKICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTUiLAo=</text>
+        <text encoding="base64">ICAgIC8vIHJ1bm5lci5vbihjb25zdGFudHMuRVZFTlRfVEVTVF9GQUlMLCBmdW5jdGlvbiAodGVzdCwgZXJyKSB7CiAgICAvLyAgICAgY29uc29sZS5sb2coZXJyKQogICAgLy8gfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJncnVudCI6ICJeMS4wLjQiLAogICAgImdydW50LWVudiI6ICJeMS4wLjEiLAogICAgImdydW50LW1vY2hhLXRlc3QiOiAiXjAuMTMuMyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4LmR1cmF0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZXF1aXJlLWRpcmVjdG9yeSI6ICJeMi4xLjEiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4LnRpdGxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuY3dkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
+        <text encoding="base64">ICAgIHJ1bm5lci5vbihjb25zdGFudHMuRVZFTlRfU1VJVEVfQkVHSU4sIChzdWl0ZSkgPT4gewogICAgICAgIGlmICghZmlsZXMuaGFzT3duUHJvcGVydHkoc3VpdGUuZmlsZSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAc2xhY2svY2xpZW50IjogIl41LjAuMiIsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN1aXRlLmZpbGUpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>m .+1</text>
       </register>
     </registers>
   </component>
