@@ -87,9 +87,9 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593183941102">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="31" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593186041004">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="31" />
       </file>
@@ -191,18 +191,21 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3B0aW9ucycsIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3B0aW9ucycsIG9wdGlvbnMpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWdGaWxlOgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>xunit: {
             stdout: 'tmp/results.xml',
         },
@@ -210,17 +213,14 @@
             stdout: '-',
         },</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJtb2NoYSI6ICJeOC4wLjEiLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJtb2NoYS1tdWx0aSI6ICJeMS4xLjMiLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJzbGFjayI6ICIqIiwKICAgICJ4bWxodHRwcmVxdWVzdCI6ICIqIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJncnVudC1jb25jdXJyZW50IjogIl4zLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJzbGFjayI6ICIqIiwKICAgICJ4bWxodHRwcmVxdWVzdCI6ICIqIgo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
