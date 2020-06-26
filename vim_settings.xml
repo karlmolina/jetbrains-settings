@@ -63,11 +63,11 @@
         <mark key="." line="13" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1593035990732" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593183726061">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="10" column="54" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593186870525">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/.gitlab-ci.yml" timestamp="1593035986573">
         <mark key="[" line="3" column="38" />
@@ -87,10 +87,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593186041004">
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1593186696840">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1593124073412">
@@ -105,11 +105,10 @@
         <mark key="^" line="24" column="50" />
         <mark key="." line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593183959523">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="25" column="92" />
-        <mark key="." line="24" column="21" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593186760639">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/package.json" timestamp="1592849246277">
         <mark key="[" line="9" column="67" />
@@ -191,21 +190,27 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
+        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
+        <text encoding="base64">ICAgICJAc2xhY2svY2xpZW50IjogIl41LjAuMiIsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3B0aW9ucycsIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICJtb2NoYS1qdW5pdC1yZXBvcnRlciI6ICJeMi4wLjAiLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aS1yZXBvcnRlcnMiOiAiXjEuMS43Igo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb3B0aW9ucycsIG9wdGlvbnMpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWdGaWxlOgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>xunit: {
             stdout: 'tmp/results.xml',
         },
@@ -213,14 +218,8 @@
             stdout: '-',
         },</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJtb2NoYSI6ICJeOC4wLjEiLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJtb2NoYS1tdWx0aSI6ICJeMS4xLjMiLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzbGFjayI6ICIqIiwKICAgICJ4bWxodHRwcmVxdWVzdCI6ICIqIgo=</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICJeOC4wLjEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
