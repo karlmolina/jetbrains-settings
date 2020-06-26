@@ -9,8 +9,8 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
-        <entry>m .-2</entry>
         <entry>m .+1</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -57,13 +57,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1593035990732" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593190876407">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="96" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593200239744">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="66" column="86" />
+        <mark key="." line="66" column="85" />
+        <mark key="^" line="66" column="86" />
       </file>
-      <file name="/a.dummy" timestamp="1593192906418">
+      <file name="/a.dummy" timestamp="1593202962131">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/.gitlab-ci.yml" timestamp="1593035986573">
@@ -78,17 +78,22 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1593195781753">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="28" column="10" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1593204481541">
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/.gitlab-ci.yml" timestamp="1593124339035">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1593200281299">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/Gruntfile.js" timestamp="1593035967856">
         <mark key="[" line="8" column="35" />
@@ -108,11 +113,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593193989296">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593204510811">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="77" column="32" />
+        <mark key="." line="77" column="31" />
+        <mark key="^" line="77" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593188929342">
         <mark key="[" line="25" column="0" />
@@ -120,10 +125,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" timestamp="1593183528008">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" timestamp="1593199374506">
+        <mark key="[" line="170" column="59" />
+        <mark key="]" line="171" column="20" />
+        <mark key="." line="171" column="19" />
+        <mark key="^" line="171" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -149,21 +155,23 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" />
       <jump line="166" column="20" filename="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" />
       <jump line="140" column="30" filename="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
+      <jump line="44" column="28" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>2</text>
       </register>
       <register name="0" type="4">
-        <text>DmXUnitReporter</text>
+        <text>'./node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js'</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -194,34 +202,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjbG9zZSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHJ1bm5lci5vbihjb25zdGFudHMuRVZFTlRfVEVTVF9GQUlMLCBmdW5jdGlvbiAodGVzdCwgZXJyKSB7CiAgICAvLyAgICAgY29uc29sZS5sb2coZXJyKQogICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4LmR1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICogQHBhcmFtIGNsb3NlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4LnRpdGxlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IGNsb3NlID8gJy8+JyA6ICc+JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJ1bm5lci5vbihjb25zdGFudHMuRVZFTlRfU1VJVEVfQkVHSU4sIChzdWl0ZSkgPT4gewogICAgICAgIGlmICghZmlsZXMuaGFzT3duUHJvcGVydHkoc3VpdGUuZmlsZSkpIHsK</text>
+        <text encoding="base64">ICAgIGlmIChjb250ZW50KSB7CiAgICAgICAgY2xvc2UgPSBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGNsb3NlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN1aXRlLmZpbGUpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNsb3NlID0gISFjb250ZW50Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>m .+1</text>
+        <text>m .-2</text>
       </register>
     </registers>
   </component>
