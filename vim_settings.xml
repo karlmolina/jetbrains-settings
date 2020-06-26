@@ -113,11 +113,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593204510811">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="77" column="31" />
-        <mark key="^" line="77" column="32" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593205132090">
+        <mark key="[" line="23" column="55" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="48" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593188929342">
         <mark key="[" line="25" column="0" />
@@ -161,8 +161,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyh0aGlzLmZpbGVzKS5mb3JFYWNoKChbZmlsZW5hbWUsIHRlc3RdKSA9PiB7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -202,31 +202,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChjbG9zZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyh0aGlzLmZpbGVzKS5mb3JFYWNoKChbZmlsZW5hbWUsIHRlc3RdKSA9PiB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53cml0ZVRlc3QoZmlsZW5hbWUsIHRlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNsb3NlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IGNsb3NlID8gJy8+JyA6ICc+JzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmFtZSA9IGZpbGVuYW1lLnNwbGl0KCcvdGVzdHMvJylbMV0ucmVwbGFjZSgvXC8vZywgJy4nKS5yZXBsYWNlKCcuanMnLCAnJyk7CgogICAgICAgICAgICBjb25zdCBhdHRyaWJ1dGVzID0gewogICAgICAgICAgICAgICAgbmFtZTogW3RoaXMub3B0aW9ucy5zdWl0ZU5hbWUsICd0ZXN0cycsIG5hbWVdLmpvaW4oJy4nKSwKICAgICAgICAgICAgICAgIGNsYXNzbmFtZTogW3RoaXMub3B0aW9ucy5zdWl0ZU5hbWUsIG5hbWUuc3BsaXQoJy4nKVswXV0uam9pbignLicpLAogICAgICAgICAgICAgICAgdGltZTogdGVzdC5kdXJhdGlvbiAvIDEwMDAsCiAgICAgICAgICAgIH07CgogICAgICAgICAgICBsZXQgZmFpbHVyZTsKCiAgICAgICAgICAgIGlmICh0ZXN0LmZhaWxlZCkgewogICAgICAgICAgICAgICAgY29uc3QgZXJyID0gdGVzdC5lcnJvcjsKICAgICAgICAgICAgICAgIGZhaWx1cmUgPSB0YWcoJ2ZhaWx1cmUnLCB7fSwgZXJyLnN0YWNrKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdGhpcy53cml0ZSh0YWcoJ3Rlc3RjYXNlJywgYXR0cmlidXRlcywgZmFpbHVyZSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChjbG9zZSkgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChjb250ZW50KSB7CiAgICAgICAgY2xvc2UgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICogQHBhcmFtIGNsb3NlCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IGNsb3NlID8gJy8+JyA6ICc+JzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsb3NlID0gISFjb250ZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
