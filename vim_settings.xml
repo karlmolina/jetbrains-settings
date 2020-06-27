@@ -57,16 +57,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1593035990732" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593210170180">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593215600529">
         <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="32" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="/a.dummy" timestamp="1593202962131">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/mocha/lib/reporters/xunit.js" timestamp="1593211779809" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/mocha/lib/reporters/xunit.js" timestamp="1593213825151" />
       <file name="$USER_HOME$/Documents/repos/hub-testing/.gitlab-ci.yml" timestamp="1593035986573">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="37" />
@@ -115,12 +115,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tmp/results.xml" timestamp="1593208150197" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593211668361">
-        <mark key="[" line="34" column="54" />
-        <mark key="]" line="34" column="54" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="34" column="54" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593215492294">
+        <mark key="[" line="156" column="34" />
+        <mark key="]" line="157" column="7" />
+        <mark key="^" line="157" column="7" />
+        <mark key="." line="157" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1593209442369">
         <mark key="[" line="28" column="45" />
@@ -128,7 +127,7 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" timestamp="1593199374506">
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" timestamp="1593213969390">
         <mark key="[" line="170" column="59" />
         <mark key="]" line="171" column="20" />
         <mark key="." line="171" column="19" />
@@ -164,14 +163,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB4dW5pdFJlcG9ydGVyT3B0aW9uczogewogICAgICAgICAgICBvdXRwdXQ6ICd0bXAvcmVzdWx0cy54bWwnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>self</text>
       </register>
       <register name="0" type="4">
         <text>'./node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js'</text>
@@ -205,31 +204,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKTsK</text>
+        <text encoding="base64">ICAgICAgICB4dW5pdFJlcG9ydGVyT3B0aW9uczogewogICAgICAgICAgICBvdXRwdXQ6ICd0bXAvcmVzdWx0cy54bWwnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndyaXRlKCcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9jaGEudXRpbHMuaW5oZXJpdHMoQ3VzdG9tWFVuaXRSZXBvcnRlciwgbW9jaGEucmVwb3J0ZXJzLkJhc2UpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text>mocha.utils.inherits(MyReporter, mocha.reporters.Spec);</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4dW5pdFJlcG9ydGVyT3B0aW9uczogewogICAgICAgICAgICBvdXRwdXQ6ICdoaS54bWwnLAogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29udmVydCAnZ2hvc3QtdGVzdGluZy90ZXN0cy9maW5hbmNlL2JyYW5kaW5nLmpzJyB0byAnZ2hvc3QudGVzdHMuZmluYW5jZS5icmFuZGluZycuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb252ZXJ0ICdnaG9zdC10ZXN0aW5nL3Rlc3RzL2ZpbmFuY2UvYnJhbmRpbmcnIHRvICdnaG9zdC50ZXN0cy5maW5hbmNlLmJyYW5kaW5nJy4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmcy53cml0ZUZpbGVTeW5jKHRoaXMucmVwb3J0ZXJPcHRpb25zLm91dHB1dCwgdGhpcy5yZXBvcnQuam9pbignJykpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh0aGlzLmZpbGVTdHJlYW0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhsaW5lKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgKz0gdGVzdC5kdXJhdGlvbiB8fCAwOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgPSAwOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtb2NoYS5yZXBvcnRlcnMuQmFzZS5jYWxsKHRoaXMsIHJ1bm5lcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
