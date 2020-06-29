@@ -36,6 +36,14 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="meta k" />
