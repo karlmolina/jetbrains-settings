@@ -89,11 +89,11 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593449732237">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="157" column="7" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593451089263">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="25" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="42" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1593208154342">
         <mark key="[" line="50" column="20" />
@@ -162,13 +162,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mocha</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mocha</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="0" type="4">
         <text>'./node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js'</text>
