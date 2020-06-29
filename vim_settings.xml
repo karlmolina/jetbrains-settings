@@ -6,7 +6,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>addFile</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>m .-2</entry>
@@ -89,11 +91,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593451089263">
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="25" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="24" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593457166928">
+        <mark key="'" line="125" column="52" />
+        <mark key="[" line="138" column="20" />
+        <mark key="]" line="139" column="24" />
+        <mark key="^" line="139" column="24" />
+        <mark key="." line="139" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1593208154342">
         <mark key="[" line="50" column="20" />
@@ -157,18 +160,22 @@
       <jump line="140" column="30" filename="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
       <jump line="44" column="28" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
+      <jump line="125" column="52" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>(...</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>(...</text>
+      </register>
+      <register name="/" type="4">
+        <text>addFile</text>
       </register>
       <register name="0" type="4">
         <text>'./node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js'</text>
@@ -235,7 +242,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>addFile</last-search>
+      <last-offset />
+      <last-pattern>addFile</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
