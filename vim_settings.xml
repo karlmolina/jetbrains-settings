@@ -67,8 +67,11 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1593202962131">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/selenium-webdriver.js" timestamp="1593463786879">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/repos/admin-testing/Gruntfile.js" timestamp="1593461740029">
         <mark key="[" line="26" column="16" />
@@ -181,14 +184,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICIgIiwKICAiZGlyZWN0b3JpZXMiOiB7CiAgICAidGVzdCI6ICJ0ZXN0IgogIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>module</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dm</text>
+        <text>module</text>
       </register>
       <register name="/" type="4">
         <text>addFile</text>
