@@ -87,6 +87,12 @@
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/hi.xml" timestamp="1593528654145" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/mocha/lib/reporters/xunit.js" timestamp="1593529253198" />
+      <file name="$USER_HOME$/Documents/repos/smoketest/tests/government/first-alert.js" timestamp="1593539415082">
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="32" column="98" />
+        <mark key="^" line="32" column="98" />
+        <mark key="." line="32" column="97" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/admin/csm-news.js" timestamp="1593534952243">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="14" />
@@ -144,24 +150,18 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1593465373561">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="76" />
-        <mark key="^" line="0" column="76" />
-        <mark key="." line="0" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593529480600">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593540224043">
         <mark key="'" line="113" column="52" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="18" />
-        <mark key="." line="94" column="17" />
-        <mark key="^" line="94" column="18" />
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="50" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/smoketest/Gruntfile.js" timestamp="1593539215601">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="34" />
+      <file name="$USER_HOME$/Documents/repos/smoketest/Gruntfile.js" timestamp="1593539297929">
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="11" column="71" />
+        <mark key="." line="11" column="71" />
+        <mark key="^" line="11" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -197,13 +197,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>options</text>
+        <text>'</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>addFile</text>
@@ -240,31 +240,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7IC8vIHdlIG5lZWQgdG8gc29sdmUgZm9yIHByb2R1Y3Rpb24gTUZBCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy1zdGFnZS5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7IC8vIHdlIG5lZWQgdG8gc29sdmUgZm9yIHByb2R1Y3Rpb24gTUZBCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy1zdGFnZS5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZW1kLmRhdGFtaW5yLmNvbScpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIERyaXZlck1hbmFnZXIuY3JlYXRlRHJpdmVyKCdodHRwczovL2VtZC10ZXN0LmRhdGFtaW5yLmNvbS9sb2dpbicpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
