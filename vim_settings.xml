@@ -150,12 +150,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593540224043">
-        <mark key="'" line="113" column="52" />
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="50" />
-        <mark key="." line="61" column="49" />
-        <mark key="^" line="61" column="50" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593547185038">
+        <mark key="'" line="117" column="52" />
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="96" column="9" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/Gruntfile.js" timestamp="1593539297929">
         <mark key="[" line="11" column="71" />
@@ -197,13 +196,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>addFile</text>
