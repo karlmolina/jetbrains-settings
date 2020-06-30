@@ -133,7 +133,6 @@
         <mark key="." line="21" column="60" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tmp/results.xml" timestamp="1593528852540" />
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/emd/my-account-site.js" timestamp="1593535170732">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="24" column="20" />
@@ -150,11 +149,12 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593547185038">
-        <mark key="'" line="117" column="52" />
-        <mark key="[" line="89" column="35" />
-        <mark key="]" line="96" column="9" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593547307385">
+        <mark key="'" line="119" column="52" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="35" />
+        <mark key="^" line="89" column="8" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/Gruntfile.js" timestamp="1593539297929">
         <mark key="[" line="11" column="71" />
@@ -196,13 +196,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>finance&quot;</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>finance&quot;</text>
       </register>
       <register name="/" type="4">
         <text>addFile</text>
@@ -239,31 +239,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIGpvYiBuYW1lIGZyb20gamVua2lucyBpZiBpdCBleGlzdHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2Ugam9iIG5hbWUgZnJvbSBqZW5raW5zIGlmIGl0IGV4aXN0cy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIGpvYiBuYW1lIGZyb20gamVua2lucyBpZiBpdCBleGlzdHMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7IC8vIHdlIG5lZWQgdG8gc29sdmUgZm9yIHByb2R1Y3Rpb24gTUZBCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vZy1zdGFnZS5kYXRhbWluci5jb20vJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyBiYXNlVXJsIH0gPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFzZVVybCA9PT0gJ2h0dHBzOi8vYXBwLmRhdGFtaW5yLmNvbScpIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7IC8vIHdlIG5lZWQgdG8gc29sdmUgZm9yIHByb2R1Y3Rpb24gTUZBCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoJ2h0dHBzOi8vaHViLXRlc3QuZGF0YW1pbnIuY29tL2xvZ2luJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
