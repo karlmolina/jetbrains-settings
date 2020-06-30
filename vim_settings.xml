@@ -81,6 +81,7 @@
         <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/hi.xml" timestamp="1593528654145" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/mocha/lib/reporters/xunit.js" timestamp="1593529253198" />
       <file name="$USER_HOME$/Documents/repos/admin-testing/Gruntfile.js" timestamp="1593461740029">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="27" column="25" />
@@ -121,7 +122,7 @@
         <mark key="^" line="0" column="76" />
         <mark key="." line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593467791645">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593529480600">
         <mark key="'" line="113" column="52" />
         <mark key="[" line="94" column="18" />
         <mark key="]" line="94" column="18" />
@@ -133,11 +134,6 @@
         <mark key="]" line="27" column="29" />
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/package.json" timestamp="1593461149797">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/package.json" timestamp="1593461678860">
         <mark key="[" line="4" column="0" />
