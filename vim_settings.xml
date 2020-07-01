@@ -56,6 +56,12 @@
         <mark key="^" line="112" column="43" />
         <mark key="." line="112" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_label_editor.py" timestamp="1593641520735">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="27" />
+      </file>
       <file name="/Python Console" timestamp="1593637901022">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,6 +70,18 @@
         <mark key="]" line="67" column="28" />
         <mark key="^" line="65" column="12" />
         <mark key="." line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_job_builder.py" timestamp="1593641319436">
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="28" />
+        <mark key="^" line="58" column="12" />
+        <mark key="." line="60" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593642132936">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1593638879927">
         <mark key="[" line="60" column="47" />
@@ -83,11 +101,11 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="49" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config.py" timestamp="1593639230177">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config.py" timestamp="1593640989908">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" timestamp="1591827504620">
         <mark key="[" line="15" column="34" />
@@ -101,37 +119,30 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_create_app.py" timestamp="1593638844796">
-        <mark key="[" line="11" column="60" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_create_app.py" timestamp="1593641468698">
+        <mark key="[" line="12" column="74" />
         <mark key="]" line="12" column="61" />
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593639725604">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="23" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="22" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1593641245613">
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="101" column="63" />
+        <mark key="^" line="101" column="63" />
+        <mark key="." line="101" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593642359614">
+        <mark key="[" line="67" column="72" />
+        <mark key="]" line="67" column="33" />
+        <mark key="." line="67" column="32" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/config/config.yml" timestamp="1593637704781" />
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/execute-all-files.js" timestamp="1591823183814">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="60" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1591827091726">
         <mark key="[" line="28" column="11" />
         <mark key="]" line="27" column="23" />
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/test/run-mock-driver.js" timestamp="1591823189417">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="60" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -152,13 +163,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Config</text>
+        <text>example</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Config</text>
+        <text>example</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb25maWcucmVhZF9maWxlKFBhdGgoX19maWxlX18pLnBhcmVudC8gJ2NvbmZpZy55bWwnKQo=</text>
@@ -192,31 +203,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlbGxvOiBzdHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGFzYXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uZmlnOiBEaWN0W3N0ciwgQW55XSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2V0YXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRFU1QtVEVBTS9UQUctUFJPWFk6CiAgICBKT0JfTkFNRTogQVVUTy1SVU4gRU1EIEJZIExBQkVMUwogICAgRFlOQU1JQ19VUkxfUFJFRklYOiBEWU5BTUlDX1BSRUZJWF8KICAgIFRFU1RfT05fU1RBR0U6IFRSVUUKICAgIFBST0pFQ1RfTEFCRUxfUFJFRklYOiBDQV8KICAgIEZST05URU5ELVRFQU0vRU1EOgogICAgSk9CX05BTUU6IEFVVE8tUlVOIEVNRCBCWSBMQUJFTFMKICAgIERZTkFNSUNfVVJMX1BSRUZJWDogRU1ECiAgICBQUk9KRUNUX0xBQkVMX1BSRUZJWDogRU1EXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2plbmtpbnNfdXJsJzogJycK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci50ZXh0KQo=</text>
+        <text encoding="base64">Y29uZmlnOiBEaWN0W3N0ciwgQW55XSA9IHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoci5zdGF0dXNfY29kZSkK</text>
+        <text encoding="base64">ICAgIFRFU1QtVEVBTS9UQUctUFJPWFk6CiAgICBKT0JfTkFNRTogQVVUTy1SVU4gRU1EIEJZIExBQkVMUwogICAgRFlOQU1JQ19VUkxfUFJFRklYOiBEWU5BTUlDX1BSRUZJWF8KICAgIFRFU1RfT05fU1RBR0U6IFRSVUUKICAgIFBST0pFQ1RfTEFCRUxfUFJFRklYOiBDQV8KICAgIEZST05URU5ELVRFQU0vRU1EOgogICAgSk9CX05BTUU6IEFVVE8tUlVOIEVNRCBCWSBMQUJFTFMKICAgIERZTkFNSUNfVVJMX1BSRUZJWDogRU1ECiAgICBQUk9KRUNUX0xBQkVMX1BSRUZJWDogRU1EXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
