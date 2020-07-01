@@ -77,11 +77,11 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="60" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593642132936">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593643472056">
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+        <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1593638879927">
         <mark key="[" line="60" column="47" />
@@ -131,13 +131,18 @@
         <mark key="^" line="101" column="63" />
         <mark key="." line="101" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593642359614">
-        <mark key="[" line="67" column="72" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="32" />
-        <mark key="^" line="67" column="33" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593642602433">
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="71" column="19" />
+        <mark key="." line="71" column="18" />
+        <mark key="^" line="71" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/config.yml" timestamp="1593637704781" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/config.yml" timestamp="1593643195606">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/param_tests/crossposts_2.js" timestamp="1591827091726">
         <mark key="[" line="28" column="11" />
         <mark key="]" line="27" column="23" />
@@ -163,16 +168,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>example</text>
+        <text>config</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWcucmVhZF9maWxlKFBhdGgoX19maWxlX18pLnBhcmVudC8gJ2NvbmZpZy55bWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBDb25maWcudXBkYXRlKHRlc3RfZGlyIC8gJ2NvbmZpZy55bWwnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -203,31 +208,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlbGxvOiBzdHIK</text>
+        <text encoding="base64">ICAgICAgICBDb25maWcudXBkYXRlKFBhdGgoX19maWxlX18pLnBhcmVudC5wYXJlbnQgLyAnY29uZmlnLnltbCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGFzYXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2V0YXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
+        <text>hi: what</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2plbmtpbnNfdXJsJzogJycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Iga2V5IGluIGtleXM6CiAgICAgICAgICAgIGlmIGdldGF0dHIoY2xzLCBrZXkpIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlbGxvOiBzdHIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uZmlnOiBEaWN0W3N0ciwgQW55XSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGFzYXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRFU1QtVEVBTS9UQUctUFJPWFk6CiAgICBKT0JfTkFNRTogQVVUTy1SVU4gRU1EIEJZIExBQkVMUwogICAgRFlOQU1JQ19VUkxfUFJFRklYOiBEWU5BTUlDX1BSRUZJWF8KICAgIFRFU1RfT05fU1RBR0U6IFRSVUUKICAgIFBST0pFQ1RfTEFCRUxfUFJFRklYOiBDQV8KICAgIEZST05URU5ELVRFQU0vRU1EOgogICAgSk9CX05BTUU6IEFVVE8tUlVOIEVNRCBCWSBMQUJFTFMKICAgIERZTkFNSUNfVVJMX1BSRUZJWDogRU1ECiAgICBQUk9KRUNUX0xBQkVMX1BSRUZJWDogRU1EXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2V0YXR0cihjbHMsIGtleS51cHBlcigpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2plbmtpbnNfdXJsJzogJycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
