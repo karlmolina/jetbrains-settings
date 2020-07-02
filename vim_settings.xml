@@ -114,32 +114,24 @@
         <mark key="^" line="101" column="63" />
         <mark key="." line="101" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593727764745">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="56" column="71" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="11" />
-        <mark key="^" line="57" column="12" />
+      <file name="$USER_HOME$/Desktop/python-test/test2.py" timestamp="1593731029359">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593731164277">
+        <mark key="'" line="9" column="0" />
+        <mark key="^" line="102" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593728381005">
-        <mark key="'" line="42" column="11" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="21" column="42" />
+        <mark key="'" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1593723405795">
         <mark key="[" line="73" column="47" />
         <mark key="]" line="73" column="48" />
         <mark key="^" line="73" column="48" />
         <mark key="." line="73" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1593572461093">
-        <mark key="'" line="125" column="52" />
-        <mark key="[" line="121" column="75" />
-        <mark key="]" line="121" column="96" />
-        <mark key="^" line="121" column="96" />
-        <mark key="." line="121" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/__init__.py" timestamp="1593722873705">
         <mark key="[" line="21" column="21" />
@@ -167,6 +159,12 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593727014808" />
+      <file name="$USER_HOME$/Desktop/python-test/test.py" timestamp="1593731015203">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config.py" timestamp="1593640989908">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="37" />
@@ -207,8 +205,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -251,31 +249,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBLZXlzIG9mIHRoZSBjb25maWcgdGhhdCBhcmUgc2VjcmV0Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uZmlnID0gX0NvbmZpZy5wYXJzZV9maWxlKCdjb25maWcueW1sJywgY29udGVudF90eXBlPSd5YW1sJykK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY3JldHMgPSBbJ2dpdGxhYl9hcGlfdG9rZW4nLCAnamVua2luc19hcGlfdG9rZW4nXQo=</text>
+        <text encoding="base64">dGVzdC5oZWxsby5rCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnX3dpdGhvdXRfc2VjcmV0cyA9IHtrZXk6IHZhbHVlIGZvciBrZXksIHZhbHVlIGluCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgY29weS5kZWVwY29weShjb25maWcpLml0ZW1zKCkgaWYKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXkgbm90IGluIHNlY3JldHN9Cg==</text>
+        <text encoding="base64">cHJpbnQodGVzdC5oZWxsbykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhcihzZWxmKToKICAgICAgICBmb3Iga2V5IGluIHNlbGYua2V5czoKICAgICAgICAgICAgaWYgc2VsZi5oYXNfdmFsdWUoa2V5KToKICAgICAgICAgICAgICAgIGRlbGF0dHIoc2VsZiwga2V5KQo=</text>
+        <text encoding="base64">aGVsbG8gPSAic28gZ29vZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91cGRhdGVfdGVzdF9jb25maWcoKQo=</text>
+        <text>print(test.say())</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHJpbnQodGVzdC5oZWxsbykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlc3QyCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
