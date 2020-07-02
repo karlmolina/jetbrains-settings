@@ -69,12 +69,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593717382751">
-        <mark key="'" line="32" column="11" />
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593718964459">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/__init__.py" timestamp="1593637916558">
         <mark key="[" line="49" column="8" />
@@ -101,11 +101,12 @@
         <mark key="^" line="121" column="96" />
         <mark key="." line="121" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_health_check.py" timestamp="1593717212432">
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_health_check.py" timestamp="1593718637967">
         <mark key="'" line="196" column="0" />
-        <mark key="]" line="197" column="8" />
-        <mark key="^" line="197" column="8" />
-        <mark key="." line="197" column="7" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1593638719446">
         <mark key="[" line="112" column="42" />
@@ -158,11 +159,12 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593718423327">
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593719635931">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="90" column="69" />
+        <mark key="]" line="90" column="74" />
+        <mark key="^" line="90" column="74" />
+        <mark key="." line="90" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/config/config.yml" timestamp="1593643195606">
         <mark key="[" line="25" column="0" />
@@ -230,14 +232,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>print('getattr', item)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>print('getattr', item)</text>
       </register>
       <register name="/" type="4">
         <text>\s\s\s</text>
@@ -274,31 +276,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZmlnID0gQ29uZmlnKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChDb25maWcuX19hbm5vdGF0aW9uc19fKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWcuSkVOS0lOU19VUkwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCA9IFsnR0lUTEFCX0FQSV9UT0tFTicsICdKRU5LSU5TX0FQSV9UT0tFTicsICdKRU5LSU5TX1VTRVJOQU1FJ10K</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGNvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
