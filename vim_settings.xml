@@ -69,18 +69,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593718964459">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593721558049">
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="65" column="43" />
+        <mark key="." line="65" column="42" />
+        <mark key="^" line="65" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/__init__.py" timestamp="1593637916558">
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/__init__.py" timestamp="1593720443912">
         <mark key="[" line="49" column="8" />
-        <mark key="]" line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="49" column="14" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="49" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config.py" timestamp="1593640989908">
         <mark key="[" line="17" column="25" />
@@ -141,17 +141,11 @@
         <mark key="^" line="60" column="48" />
         <mark key="." line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/__init__.py" timestamp="1593717390416">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/health_check.py" timestamp="1593716183362">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/__init__.py" timestamp="1593720388683">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_create_app.py" timestamp="1593641468698">
         <mark key="[" line="12" column="74" />
@@ -159,12 +153,12 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593719635931">
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593721406088">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="90" column="69" />
-        <mark key="]" line="90" column="74" />
-        <mark key="^" line="90" column="74" />
-        <mark key="." line="90" column="73" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="28" />
+        <mark key="^" line="83" column="28" />
+        <mark key="." line="83" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/config/config.yml" timestamp="1593643195606">
         <mark key="[" line="25" column="0" />
@@ -232,14 +226,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>print('getattr', item)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWcua2V5cykK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>print('getattr', item)</text>
+        <text>Config</text>
       </register>
       <register name="/" type="4">
         <text>\s\s\s</text>
@@ -276,31 +270,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWcua2V5cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChDb25maWcuX19hbm5vdGF0aW9uc19fKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGNvbmZpZy5qZW5raW5zX3VybCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWcuX19hbm5vdGF0aW9uc19fKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkZWYgX19nZXRhdHRyaWJ1dGVfXyhzZWxmLCBpdGVtKToKICAgICMgICAgIHByaW50KCdnZXRhdHRyaWJ1dGUnLCBpdGVtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gW2F0dHIgZm9yIGF0dHIgaW4gZGlyKHNlbGYpIGlmCiAgICAgICAgICAgICAgICBub3QgY2FsbGFibGUoZ2V0YXR0cihzZWxmLCBhdHRyKSkgYW5kCiAgICAgICAgICAgICAgICBub3QgYXR0ci5zdGFydHN3aXRoKCJfXyIpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25maWcuSkVOS0lOU19VUkwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBwZXJfa2V5ID0ga2V5LnVwcGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
