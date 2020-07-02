@@ -101,12 +101,12 @@
         <mark key="^" line="121" column="96" />
         <mark key="." line="121" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_health_check.py" timestamp="1593723941572">
-        <mark key="'" line="241" column="0" />
-        <mark key="[" line="198" column="75" />
-        <mark key="]" line="198" column="73" />
-        <mark key="^" line="198" column="73" />
-        <mark key="." line="198" column="72" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_health_check.py" timestamp="1593725676574">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="196" column="73" />
+        <mark key="]" line="197" column="75" />
+        <mark key="." line="197" column="74" />
+        <mark key="^" line="197" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1593638719446">
         <mark key="[" line="112" column="42" />
@@ -232,8 +232,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcuY2xlYXIoKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -276,31 +276,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ193aXRob3V0X3NlY3JldHMgPSB7a2V5OiB2YWx1ZSBmb3Iga2V5LCB2YWx1ZSBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3B5LmRlZXBjb3B5KGNvbmZpZykuaXRlbXMoKSBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXkgbm90IGluIHNlY3JldHN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuY2xlYXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgZHNmbGtqc2Rma2wKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ193aXRob3V0X3NlY3JldHMgPSB7a2V5OiB2YWx1ZSBmb3Iga2V5LCB2YWx1ZSBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3B5LmRlZXBjb3B5KGNvbmZpZykuaXRlbXMoKSBpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXkgbm90IGluIHNlY3JldHN9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgSGkKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgZHNmbGtqc2Rma2wKICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXlzKQo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgSGkKICAgICIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXlzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuaGFzX3ZhbHVlKCdpbnZhbGlkX2tleScpCg==</text>
+        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuX19jb250YWluc19fKCdpbnZhbGlkX2tleScpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuaGFzX3ZhbHVlKCdpbnZhbGlkX2tleScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRhdHRyKGNvbmZpZywgJ2plbmtpbnNfdXJsJykK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuX19jb250YWluc19fKCdpbnZhbGlkX2tleScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRhdHRyKGNvbmZpZywgJ2plbmtpbnNfdXJsJykK</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
