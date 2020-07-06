@@ -93,6 +93,12 @@
         <mark key="^" line="45" column="28" />
         <mark key="." line="45" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/mailmon/mon/mail.py" timestamp="1594057249087">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="9" />
+        <mark key="^" line="53" column="9" />
+        <mark key="." line="53" column="8" />
+      </file>
       <file name="/Python Console" timestamp="1593716776464">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,7 +171,6 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1593727014808" />
       <file name="$USER_HOME$/Desktop/python-test/test.py" timestamp="1594052805889">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="18" />
