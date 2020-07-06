@@ -120,9 +120,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1593731164277">
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594048429315">
         <mark key="'" line="9" column="0" />
-        <mark key="^" line="102" column="33" />
+        <mark key="[" line="97" column="15" />
+        <mark key="]" line="97" column="22" />
+        <mark key="^" line="97" column="22" />
+        <mark key="." line="97" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1593728381005">
         <mark key="'" line="36" column="11" />
