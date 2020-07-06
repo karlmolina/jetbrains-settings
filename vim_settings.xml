@@ -71,83 +71,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/health_check.py" timestamp="1593727199000">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1594069242006">
+        <mark key="[" line="182" column="37" />
+        <mark key="]" line="182" column="37" />
+        <mark key="^" line="191" column="60" />
+        <mark key="." line="182" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/mailmon/mon/mail.py" timestamp="1594057249087">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="9" />
-        <mark key="^" line="53" column="9" />
-        <mark key="." line="53" column="8" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_merge_requests.py" timestamp="1594068822311">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1594067853472">
-        <mark key="[" line="158" column="45" />
-        <mark key="]" line="158" column="42" />
-        <mark key="^" line="158" column="42" />
-        <mark key="." line="158" column="41" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_job_builder.py" timestamp="1594069832780">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_merge_requests.py" timestamp="1594067217064">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="64" column="17" />
-        <mark key="^" line="64" column="17" />
-        <mark key="." line="64" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1594066662914">
+      <file name="/a.dummy" timestamp="1594070171335">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/python-test/test2.py" timestamp="1593731029359">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/__init__.py" timestamp="1594068833274">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594059896289">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" timestamp="1594069696756">
+        <mark key="[" line="238" column="30" />
+        <mark key="]" line="238" column="27" />
+        <mark key="^" line="238" column="27" />
+        <mark key="." line="238" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1594053043931">
-        <mark key="'" line="113" column="4" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1594068915067">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1594067588156">
-        <mark key="[" line="132" column="47" />
-        <mark key="]" line="132" column="54" />
-        <mark key="^" line="132" column="54" />
-        <mark key="." line="132" column="53" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_models/test_merge_request_webhook.py" timestamp="1594070287053">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_label_retriever.py" timestamp="1594066897721">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="34" />
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/__init__.py" timestamp="1594051879078">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/__init__.py" timestamp="1594051820088">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="50" column="4" />
-        <mark key="^" line="50" column="4" />
-        <mark key="." line="50" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/label_retriever.py" timestamp="1594066861023">
-        <mark key="[" line="23" column="74" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="72" />
-        <mark key="^" line="23" column="73" />
-      </file>
-      <file name="$USER_HOME$/Desktop/python-test/test.py" timestamp="1594052805889">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/webhook_model.py" timestamp="1594066588326">
         <mark key="^" line="11" column="23" />
@@ -158,11 +129,52 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594067923951">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594070291916">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_comment_writer.py" timestamp="1594069898613">
+        <mark key="[" line="43" column="83" />
+        <mark key="]" line="43" column="84" />
+        <mark key="^" line="43" column="84" />
+        <mark key="." line="43" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594069862292">
+        <mark key="[" line="107" column="46" />
+        <mark key="]" line="107" column="61" />
+        <mark key="^" line="107" column="61" />
+        <mark key="." line="107" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594069592943">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594059896289">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/gitlab_webhook_request_utils.py" timestamp="1594069677668">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_gitlab_webhook_request_utils.py" timestamp="1594070245551">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/label_retriever.py" timestamp="1594066861023">
+        <mark key="[" line="23" column="74" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="72" />
+        <mark key="^" line="23" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/README.md" timestamp="1594064321856">
         <mark key="[" line="17" column="0" />
@@ -212,20 +224,22 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+            
+        }</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEcml2ZXJNYW5hZ2VyLmNyZWF0ZURyaXZlcihwcm9jZXNzLmVudi5FTVRfQkFTRV9VUkwpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgJ3Byb2plY3RfbmFtZSc6ICdwcm9qZWN0X25hbWUnLAogICAgICAgICAgICAnaWQnOiAnbWVyZ2VfcmVxdWVzdF9pZCcsCiAgICAgICAgICAgICdjb21taXQnOiAnY29tbWl0X2lkJywKICAgICAgICAgICAgJ3VybCc6ICdtZXJnZV9yZXF1ZXN0X3VybCcKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -255,32 +269,34 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuY2hhbmdlcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuc3RhdGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIkJlZm9yZSBjb21taXQgaWQuIiIiCiAgICBiZWZvcmU6IHN0cgoKICAgICIiIkFmdGVyIGNvbW1pdCBpZC4iIiIKICAgIGFmdGVyOiBzdHIK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5nZXRfZGljdCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCA9IHsnZGF0YSc6IHsnbWVzc2FnZSc6ICdTdWNjZXNzJ319CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChleHBlY3RlZCwganNvbi5sb2FkcyhyZXN1bHQuZGF0YSkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgyMDAsIHJlc3VsdC5zdGF0dXNfY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfdGVzdF9jb25maWcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0YWdfcHJveHkubW9kZWxzLndlYmhvb2tfbW9kZWwgaW1wb3J0IFB1c2hXZWJob29rTW9kZWwK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5nZXRfZGljdCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0YWdfcHJveHkubW9kZWxzLndlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYuY2hhbmdlcyA9IE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
