@@ -82,13 +82,19 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594074095812">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_job_builder.py" timestamp="1594069832780">
         <mark key="[" line="27" column="53" />
         <mark key="]" line="27" column="54" />
         <mark key="^" line="27" column="54" />
         <mark key="." line="27" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1594070171335">
+      <file name="/a.dummy" timestamp="1594073569847">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/__init__.py" timestamp="1594068833274">
@@ -104,10 +110,11 @@
         <mark key="^" line="332" column="11" />
         <mark key="." line="332" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1594068915067">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1594073853194">
+        <mark key="[" line="152" column="25" />
+        <mark key="]" line="152" column="26" />
+        <mark key="." line="152" column="25" />
+        <mark key="^" line="152" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_models/test_merge_request_webhook.py" timestamp="1594071346848">
         <mark key="[" line="12" column="21" />
@@ -121,50 +128,48 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/webhook_model.py" timestamp="1594066588326">
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594074231172">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="52" />
+        <mark key="^" line="50" column="52" />
+        <mark key="." line="50" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook_model.py" timestamp="1594066644022">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_comment_writer.py" timestamp="1594073589731">
+        <mark key="[" line="36" column="76" />
+        <mark key="]" line="36" column="77" />
+        <mark key="^" line="36" column="77" />
+        <mark key="." line="36" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594072532741">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="22" />
-        <mark key="^" line="45" column="22" />
-        <mark key="." line="45" column="21" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594074425980">
+        <mark key="[" line="99" column="34" />
+        <mark key="]" line="99" column="30" />
+        <mark key="^" line="99" column="30" />
+        <mark key="." line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_comment_writer.py" timestamp="1594069898613">
-        <mark key="[" line="43" column="83" />
-        <mark key="]" line="43" column="84" />
-        <mark key="^" line="43" column="84" />
-        <mark key="." line="43" column="83" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594074278199">
+        <mark key="[" line="59" column="77" />
+        <mark key="]" line="59" column="76" />
+        <mark key="^" line="59" column="76" />
+        <mark key="." line="59" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594069862292">
-        <mark key="[" line="107" column="46" />
-        <mark key="]" line="107" column="61" />
-        <mark key="^" line="107" column="61" />
-        <mark key="." line="107" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594071145157">
-        <mark key="[" line="157" column="68" />
-        <mark key="]" line="157" column="65" />
-        <mark key="^" line="157" column="65" />
-        <mark key="." line="157" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594059896289">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="16" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/expected_strings/complete_job_comment_body.txt" timestamp="1594073829198" />
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/gitlab_webhook_request_utils.py" timestamp="1594070363742">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="23" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_job_results.py" timestamp="1594073658552">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_json/jenkins_job_results.json" timestamp="1594074371406">
+        <mark key="[" line="5" column="108" />
+        <mark key="]" line="5" column="105" />
+        <mark key="^" line="5" column="105" />
+        <mark key="." line="5" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_gitlab_webhook_request_utils.py" timestamp="1594070245551">
         <mark key="[" line="21" column="0" />
@@ -177,12 +182,6 @@
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="72" />
         <mark key="^" line="23" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/README.md" timestamp="1594064321856">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="413" column="107" />
-        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -231,13 +230,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
