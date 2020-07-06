@@ -81,12 +81,6 @@
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1593638719446">
-        <mark key="[" line="112" column="42" />
-        <mark key="]" line="112" column="43" />
-        <mark key="^" line="112" column="43" />
-        <mark key="." line="112" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_label_editor.py" timestamp="1593641520735">
         <mark key="[" line="45" column="39" />
         <mark key="]" line="45" column="28" />
@@ -126,19 +120,14 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594052838996">
-        <mark key="'" line="30" column="21" />
-        <mark key="[" line="61" column="34" />
-        <mark key="]" line="63" column="16" />
-        <mark key="^" line="63" column="16" />
-        <mark key="." line="63" column="15" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" timestamp="1594059896289">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" timestamp="1594053043931">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="67" column="53" />
-        <mark key="]" line="67" column="42" />
-        <mark key="^" line="67" column="42" />
-        <mark key="." line="67" column="41" />
+        <mark key="'" line="113" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/__init__.py" timestamp="1593723405795">
         <mark key="[" line="73" column="47" />
@@ -147,16 +136,16 @@
         <mark key="." line="73" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/__init__.py" timestamp="1594051879078">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="27" />
-        <mark key="." line="25" column="26" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/__init__.py" timestamp="1594051820088">
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="54" column="4" />
-        <mark key="^" line="54" column="4" />
-        <mark key="." line="54" column="3" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_health_check.py" timestamp="1593726844097">
         <mark key="'" line="252" column="0" />
@@ -182,6 +171,12 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/README.md" timestamp="1594060091746">
+        <mark key="[" line="430" column="49" />
+        <mark key="]" line="430" column="49" />
+        <mark key="^" line="430" column="107" />
+        <mark key="." line="430" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -222,13 +217,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>addFile</text>
@@ -265,31 +260,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBfdXBkYXRlX3dpdGhfZGljdChzZWxmLCBkaWN0aW9uYXJ5OiBEaWN0W3N0ciwgQW55XSkgLT4gTm9uZToKICAgICMgICAgICIiIgogICAgIyAgICAgVXBkYXRlcyBzdGF0aWMgY29uZmlnIHZhcmlhYmxlcyB3aXRoIGVhY2gga2V5IHZhbHVlIHBhaXIgaW4gdGhlCiAgICAjICAgICBkaWN0aW9uYXJ5LgogICAgIwogICAgIyAgICAgOnBhcmFtIGRpY3Rpb25hcnk6IERpY3Rpb25hcnkgdG8gdXBkYXRlIHdpdGguCiAgICAjICAgICA6cmV0dXJuOiBOb25lLgogICAgIyAgICAgIiIiCiAgICAjICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0aW9uYXJ5Lml0ZW1zKCk6CiAgICAjICAgICAgICAgaWYga2V5IG5vdCBpbiBzZWxmLl9rZXlzOgogICAgIyAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiSW52YWxpZCBjb25maWcga2V5ICd7a2V5fSciKQogICAgIwogICAgIyAgICAgICAgIHNldGF0dHIoc2VsZiwga2V5LCB2YWx1ZSkKICAgICMKICAgICMgZGVmIHVwZGF0ZShzZWxmLCBwYXRoOiBQYXRoKSAtPiBOb25lOgogICAgIyAgICAgIiIiCiAgICAjICAgICBVcGRhdGVzIHRoZSBjb25maWcgd2l0aCB0aGUgc3BlY2lmaWVkIHlhbWwgZmlsZS4KICAgICMKICAgICMgICAgIDpwYXJhbSBwYXRoOiBUaGUgcGF0aCB0byB0aGUgeWFtbCBmaWxlLgogICAgIyAgICAgOnJldHVybjogTm9uZS4KICAgICMgICAgICIiIgogICAgIyAgICAgbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pLmluZm8oZidMb2FkaW5nIGNvbmZpZyB7cGF0aH0nKQogICAgIyAgICAgd2l0aCBwYXRoLm9wZW4oKSBhcyBmaWxlOgogICAgIyAgICAgICAgIHlhbWxfZGljdCA9IHlhbWwuc2FmZV9sb2FkKGZpbGUpCiAgICAjCiAgICAjICAgICBzZWxmLl91cGRhdGVfd2l0aF9kaWN0KHlhbWxfZGljdCkKICAgICMKICAgICMgQHByb3BlcnR5CiAgICAjIGRlZiBfa2V5cyhzZWxmKToKICAgICMgICAgIHJldHVybiBsaXN0KHNlbGYuX19hbm5vdGF0aW9uc19fLmtleXMoKSkKICAgICMKICAgICMgZGVmIGdldF9kaWN0KHNlbGYpOgogICAgIyAgICAgbm90X3NlY3JldF9rZXlzID0gW2F0dHIgZm9yIGF0dHIgaW4gc2VsZi5fa2V5cyBpZgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgIGF0dHIgbm90IGluIF9zZWNyZXRfa2V5c10KICAgICMKICAgICMgICAgIGNvbmZpZ19hc19kaWN0ID0ge30KICAgICMKICAgICMgICAgIGZvciBrZXkgaW4gbm90X3NlY3JldF9rZXlzOgogICAgIyAgICAgICAgIGlmIHNlbGYuaGFzX3ZhbHVlKGtleSk6CiAgICAjICAgICAgICAgICAgIGNvbmZpZ19hc19kaWN0W2tleV0gPSBnZXRhdHRyKHNlbGYsIGtleSkKICAgICMgICAgICAgICBlbHNlOgogICAgIyAgICAgICAgICAgICBjb25maWdfYXNfZGljdFtrZXldID0gTm9uZQogICAgIwogICAgIyAgICAgcmV0dXJuIGNvbmZpZ19hc19kaWN0CiAgICAjCiAgICAjIGRlZiBoYXNfdmFsdWUoc2VsZiwga2V5OiBzdHIpIC0+IGJvb2w6CiAgICAjICAgICB0cnk6CiAgICAjICAgICAgICAgZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAjICAgICBleGNlcHQgQ29uZmlnRXJyb3I6CiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjCiAgICAjICAgICByZXR1cm4gVHJ1ZQogICAgIwogICAgIyBkZWYgX19nZXRhdHRyX18oc2VsZiwga2V5OiBzdHIpIC0+IEFueToKICAgICMgICAgIGlmIGtleSBpbiBzZWxmLl9rZXlzOgogICAgIyAgICAgICAgIHJhaXNlIENvbmZpZ0Vycm9yKGYiQ29uZmlnIGtleSAne2tleX0nIHdhcyBub3QgaW5pdGlhbGl6ZWQiKQogICAgIwogICAgIyAgICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoZiIne3R5cGUoc2VsZikuX19uYW1lX199JyBvYmplY3QgaGFzIG5vIGF0dHJpYnV0ZSAiCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICBmIid7a2V5fSciKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAjIGRlZiBfdXBkYXRlX3dpdGhfZGljdChzZWxmLCBkaWN0aW9uYXJ5OiBEaWN0W3N0ciwgQW55XSkgLT4gTm9uZToKICAgICMgICAgICIiIgogICAgIyAgICAgVXBkYXRlcyBzdGF0aWMgY29uZmlnIHZhcmlhYmxlcyB3aXRoIGVhY2gga2V5IHZhbHVlIHBhaXIgaW4gdGhlCiAgICAjICAgICBkaWN0aW9uYXJ5LgogICAgIwogICAgIyAgICAgOnBhcmFtIGRpY3Rpb25hcnk6IERpY3Rpb25hcnkgdG8gdXBkYXRlIHdpdGguCiAgICAjICAgICA6cmV0dXJuOiBOb25lLgogICAgIyAgICAgIiIiCiAgICAjICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0aW9uYXJ5Lml0ZW1zKCk6CiAgICAjICAgICAgICAgaWYga2V5IG5vdCBpbiBzZWxmLl9rZXlzOgogICAgIyAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiSW52YWxpZCBjb25maWcga2V5ICd7a2V5fSciKQogICAgIwogICAgIyAgICAgICAgIHNldGF0dHIoc2VsZiwga2V5LCB2YWx1ZSkKICAgICMKICAgICMgZGVmIHVwZGF0ZShzZWxmLCBwYXRoOiBQYXRoKSAtPiBOb25lOgogICAgIyAgICAgIiIiCiAgICAjICAgICBVcGRhdGVzIHRoZSBjb25maWcgd2l0aCB0aGUgc3BlY2lmaWVkIHlhbWwgZmlsZS4KICAgICMKICAgICMgICAgIDpwYXJhbSBwYXRoOiBUaGUgcGF0aCB0byB0aGUgeWFtbCBmaWxlLgogICAgIyAgICAgOnJldHVybjogTm9uZS4KICAgICMgICAgICIiIgogICAgIyAgICAgbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pLmluZm8oZidMb2FkaW5nIGNvbmZpZyB7cGF0aH0nKQogICAgIyAgICAgd2l0aCBwYXRoLm9wZW4oKSBhcyBmaWxlOgogICAgIyAgICAgICAgIHlhbWxfZGljdCA9IHlhbWwuc2FmZV9sb2FkKGZpbGUpCiAgICAjCiAgICAjICAgICBzZWxmLl91cGRhdGVfd2l0aF9kaWN0KHlhbWxfZGljdCkKICAgICMKICAgICMgQHByb3BlcnR5CiAgICAjIGRlZiBfa2V5cyhzZWxmKToKICAgICMgICAgIHJldHVybiBsaXN0KHNlbGYuX19hbm5vdGF0aW9uc19fLmtleXMoKSkKICAgICMKICAgICMgZGVmIGdldF9kaWN0KHNlbGYpOgogICAgIyAgICAgbm90X3NlY3JldF9rZXlzID0gW2F0dHIgZm9yIGF0dHIgaW4gc2VsZi5fa2V5cyBpZgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgIGF0dHIgbm90IGluIF9zZWNyZXRfa2V5c10KICAgICMKICAgICMgICAgIGNvbmZpZ19hc19kaWN0ID0ge30KICAgICMKICAgICMgICAgIGZvciBrZXkgaW4gbm90X3NlY3JldF9rZXlzOgogICAgIyAgICAgICAgIGlmIHNlbGYuaGFzX3ZhbHVlKGtleSk6CiAgICAjICAgICAgICAgICAgIGNvbmZpZ19hc19kaWN0W2tleV0gPSBnZXRhdHRyKHNlbGYsIGtleSkKICAgICMgICAgICAgICBlbHNlOgogICAgIyAgICAgICAgICAgICBjb25maWdfYXNfZGljdFtrZXldID0gTm9uZQogICAgIwogICAgIyAgICAgcmV0dXJuIGNvbmZpZ19hc19kaWN0CiAgICAjCiAgICAjIGRlZiBoYXNfdmFsdWUoc2VsZiwga2V5OiBzdHIpIC0+IGJvb2w6CiAgICAjICAgICB0cnk6CiAgICAjICAgICAgICAgZ2V0YXR0cihzZWxmLCBrZXkpCiAgICAjICAgICBleGNlcHQgQ29uZmlnRXJyb3I6CiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjCiAgICAjICAgICByZXR1cm4gVHJ1ZQogICAgIwogICAgIyBkZWYgX19nZXRhdHRyX18oc2VsZiwga2V5OiBzdHIpIC0+IEFueToKICAgICMgICAgIGlmIGtleSBpbiBzZWxmLl9rZXlzOgogICAgIyAgICAgICAgIHJhaXNlIENvbmZpZ0Vycm9yKGYiQ29uZmlnIGtleSAne2tleX0nIHdhcyBub3QgaW5pdGlhbGl6ZWQiKQogICAgIwogICAgIyAgICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoZiIne3R5cGUoc2VsZikuX19uYW1lX199JyBvYmplY3QgaGFzIG5vIGF0dHJpYnV0ZSAiCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICBmIid7a2V5fSciKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uZmlnID0gX0NvbmZpZy5wYXJzZV9maWxlKCdjb25maWcueW1sJywgY29udGVudF90eXBlPSd5YW1sJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdC5oZWxsby5rCg==</text>
+        <text encoding="base64">Y29uZmlnID0gX0NvbmZpZy5wYXJzZV9maWxlKCdjb25maWcueW1sJywgY29udGVudF90eXBlPSd5YW1sJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQodGVzdC5oZWxsbykK</text>
+        <text encoding="base64">dGVzdC5oZWxsby5rCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVsbG8gPSAic28gZ29vZCIK</text>
+        <text encoding="base64">cHJpbnQodGVzdC5oZWxsbykK</text>
       </register>
       <register name="8" type="2">
-        <text>print(test.say())</text>
+        <text encoding="base64">aGVsbG8gPSAic28gZ29vZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQodGVzdC5oZWxsbykK</text>
+        <text>print(test.say())</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
