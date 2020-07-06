@@ -140,11 +140,11 @@
         <mark key="^" line="36" column="77" />
         <mark key="." line="36" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594074425980">
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="99" column="30" />
-        <mark key="^" line="99" column="30" />
-        <mark key="." line="99" column="29" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594075433142">
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="35" />
+        <mark key="^" line="101" column="35" />
+        <mark key="." line="101" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594074278199">
         <mark key="[" line="59" column="77" />
@@ -159,11 +159,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_job_results.py" timestamp="1594073658552">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="56" />
-        <mark key="^" line="29" column="56" />
-        <mark key="." line="29" column="55" />
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_job_results.py" timestamp="1594075464231">
+        <mark key="[" line="35" column="49" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_json/jenkins_job_results.json" timestamp="1594074371406">
         <mark key="[" line="5" column="108" />
@@ -229,8 +229,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSB7J2RhdGEnOiB7J21lc3NhZ2UnOiAnU3VjY2Vzcyd9fQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZXhwZWN0ZWRfcmVzdWx0LCBqc29uLmxvYWRzKHJlc3VsdC5kYXRhKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDIwMCwgcmVzdWx0LnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -273,33 +273,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3Qub2JqZWN0X2F0dHJpYnV0ZXMucG9wKCdvbGRyZXYnLCBOCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSB7J2RhdGEnOiB7J21lc3NhZ2UnOiAnU3VjY2Vzcyd9fQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZXhwZWN0ZWRfcmVzdWx0LCBqc29uLmxvYWRzKHJlc3VsdC5kYXRhKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDIwMCwgcmVzdWx0LnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3Qub2JqZWN0X2F0dHJpYnV0ZXMucG9wKCdvbGRyZXYnLCBOCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnByb2plY3QK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gTWVyZ2VSZXF1ZXN0V2ViaG9vaygqKnsKICAgICAgICAgICAgJ3Byb2plY3QnOiB7CiAgICAgICAgICAgICAgICAncGF0aF93aXRoX25hbWVzcGFjZSc6ICdwcm9qZWN0X25hbWUnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdvYmplY3RfYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAgICdsYXN0X2NvbW1pdCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnY29tbWl0X2lkJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICdpaWQnOiAnbWVyZ2VfcmVxdWVzdF9pZCcsCiAgICAgICAgICAgICAgICAndXJsJzogJ21lcmdlX3JlcXVlc3RfdXJsJwogICAgICAgICAgICB9LAogICAgICAgIH0sIGNoYW5nZXM9e30sIGxhYmVscz1bXSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
             
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5nZXRfZGljdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
