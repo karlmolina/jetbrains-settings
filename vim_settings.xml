@@ -133,6 +133,12 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/blueprints/health_check.py" timestamp="1594141427957">
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="29" />
+        <mark key="^" line="52" column="29" />
+        <mark key="." line="52" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_comment_writer.py" timestamp="1594073589731">
         <mark key="[" line="36" column="76" />
         <mark key="]" line="36" column="77" />
@@ -175,12 +181,6 @@
         <mark key="]" line="26" column="9" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/label_retriever.py" timestamp="1594066861023">
-        <mark key="[" line="23" column="74" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="72" />
-        <mark key="^" line="23" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -228,14 +228,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoaScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>passed</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>passed</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
