@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".pylintrc" type="Ini" />
       <mapping pattern="run1" type="PLAIN_TEXT" />
       <mapping pattern="ipserver" type="PLAIN_TEXT" />
       <mapping ext="micro" type="PLAIN_TEXT" />
