@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'dm-vigil'" />
-    <option name="defaultScopeName" value="Project 'dm-vigil'" />
+    <option name="customScope" value="Project 'smoketest'" />
+    <option name="defaultScopeName" value="Project 'smoketest'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'dm-vigil'" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="SEARCH_SCOPE" value="Project 'smoketest'" />
+    <option name="FILE_MASK" value="*.js" />
   </component>
 </application>
