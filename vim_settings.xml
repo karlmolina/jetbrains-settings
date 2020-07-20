@@ -83,6 +83,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/users.js" timestamp="1595286646796" />
       <file name="/a.dummy" timestamp="1594073569847">
         <mark key="[" line="0" column="1" />
       </file>
@@ -97,12 +98,6 @@
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_models/test_merge_request_webhook.py" timestamp="1594071346848">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/move-group.js" timestamp="1595284526497" />
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594077566909">
@@ -129,17 +124,12 @@
         <mark key="^" line="97" column="83" />
         <mark key="." line="97" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/enterprise-management/locators/modals/manage-capabilities.js" timestamp="1595287964356" />
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594074278199">
         <mark key="[" line="59" column="77" />
         <mark key="]" line="59" column="76" />
         <mark key="^" line="59" column="76" />
         <mark key="." line="59" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/gitlab_webhook_request_utils.py" timestamp="1594070363742">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_blueprints/test_job_results.py" timestamp="1594075464231">
         <mark key="[" line="35" column="49" />
