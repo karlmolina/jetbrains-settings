@@ -77,12 +77,6 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/merge_request_handler.py" timestamp="1594072551229">
-        <mark key="[" line="191" column="31" />
-        <mark key="]" line="191" column="29" />
-        <mark key="^" line="191" column="29" />
-        <mark key="." line="191" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594077359530">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="28" />
@@ -101,8 +95,15 @@
         <mark key="^" line="97" column="83" />
         <mark key="." line="97" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/node_modules/dm-vigil/utils/DriverManager.js" timestamp="1596218743824" />
       <file name="/a.dummy" timestamp="1594073569847">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/test.js" timestamp="1596219147653">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/job_builder.py" timestamp="1594074278199">
         <mark key="[" line="59" column="77" />
@@ -110,12 +111,11 @@
         <mark key="^" line="59" column="76" />
         <mark key="." line="59" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" timestamp="1594072794566">
-        <mark key="'" line="233" column="50" />
-        <mark key="[" line="325" column="9" />
-        <mark key="]" line="332" column="11" />
-        <mark key="^" line="332" column="11" />
-        <mark key="." line="332" column="10" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1596218822934">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/DriverManager.js" timestamp="1596215895607">
         <mark key="[" line="29" column="9" />
@@ -140,11 +140,11 @@
         <mark key="^" line="5" column="105" />
         <mark key="." line="5" column="104" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1596215929812">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="42" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1596221765802">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594077566909">
         <mark key="[" line="56" column="8" />
@@ -198,20 +198,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J10g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J10g</text>
+        <text>DriverManager</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QgPSBNZXJnZVJlcXVlc3RXZWJob29rKCoqZ2V0X2pzb25fZmlsZSgnbWVyZ2VfcmVxdWVzdF93ZWJob29rLmpzb24nKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3Rkb3V0ID0gZXhlY1N5bmMoJ29wZW4gdm5jOi8vbG9jYWxob3N0OjU5MDAnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -242,33 +242,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoaScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBleGVjU3luYyB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSB7J2RhdGEnOiB7J21lc3NhZ2UnOiAnU3VjY2Vzcyd9fQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZXhwZWN0ZWRfcmVzdWx0LCBqc29uLmxvYWRzKHJlc3VsdC5kYXRhKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDIwMCwgcmVzdWx0LnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VicHJvY2Vzcy5ydW4oJ29wZW4gdm5jOi8vbG9jYWxob3N0OjU5MDAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3Qub2JqZWN0X2F0dHJpYnV0ZXMucG9wKCdvbGRyZXYnLCBOCg==</text>
+        <text encoding="base64">dmFyIFRBR1MgPSByZXF1aXJlKCdkbS12aWdpbC9kYXRhL3RhZ3MnKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnByb2plY3QK</text>
+        <text encoding="base64">dmFyIGxvZ2luVmlldyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2NsaWVudGFwcC92aWV3cy9sb2dpbicpLAogICAgdGFiSGVhZGVyVmlldyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2NsaWVudGFwcC92aWV3cy90YWItaGVhZGVyJyksCiAgICB1c2VycyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdXNlcnMnKSwKICAgIGFwcEluZm8gPSByZXF1aXJlKCdkbS12aWdpbC9kYXRhL2FwcC1pbmZvJyksCiAgICBsb2cgPSByZXF1aXJlKCdkbS12aWdpbC91dGlscy9sb2dnZXInKSwKICAgIERyaXZlck1hbmFnZXIgPSByZXF1aXJlKCdkbS12aWdpbC91dGlscy9Ecml2ZXJNYW5hZ2VyJyksCiAgICB7IHRhZ2dlciB9ID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvbGFiZWxpbmcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gTWVyZ2VSZXF1ZXN0V2ViaG9vaygqKnsKICAgICAgICAgICAgJ3Byb2plY3QnOiB7CiAgICAgICAgICAgICAgICAncGF0aF93aXRoX25hbWVzcGFjZSc6ICdwcm9qZWN0X25hbWUnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdvYmplY3RfYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAgICdsYXN0X2NvbW1pdCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnY29tbWl0X2lkJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICdpaWQnOiAnbWVyZ2VfcmVxdWVzdF9pZCcsCiAgICAgICAgICAgICAgICAndXJsJzogJ21lcmdlX3JlcXVlc3RfdXJsJwogICAgICAgICAgICB9LAogICAgICAgIH0sIGNoYW5nZXM9e30sIGxhYmVscz1bXSkK</text>
+        <text encoding="base64">ICAgIHRhZ2dlcignL2VuZC10by1lbmQvY2xpZW50LWFwcC1maXJzdC1hbGVydC1kYXJrLWhhcmRjb2RlZC5qcycsIFsKICAgIF0pLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-            
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">dmFyIGxvZ2luVmlldyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2NsaWVudGFwcC92aWV3cy9sb2dpbicpLAogICAgdGFiSGVhZGVyVmlldyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2NsaWVudGFwcC92aWV3cy90YWItaGVhZGVyJyksCiAgICB1c2VycyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdXNlcnMnKSwKICAgIGFwcEluZm8gPSByZXF1aXJlKCdkbS12aWdpbC9kYXRhL2FwcC1pbmZvJyksCiAgICBsb2cgPSByZXF1aXJlKCdkbS12aWdpbC91dGlscy9sb2dnZXInKSwKICAgIERyaXZlck1hbmFnZXIgPSByZXF1aXJlKCdkbS12aWdpbC91dGlscy9Ecml2ZXJNYW5hZ2VyJyksCiAgICB7IHRhZ2dlciB9ID0gcmVxdWlyZSgnZG0tdmlnaWwvdXRpbHMvbGFiZWxpbmcnKSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
