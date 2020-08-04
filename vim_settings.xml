@@ -77,11 +77,11 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596569152652">
-        <mark key="[" line="55" column="80" />
-        <mark key="]" line="55" column="80" />
-        <mark key="." line="55" column="79" />
-        <mark key="^" line="55" column="80" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596569250000">
+        <mark key="[" line="56" column="69" />
+        <mark key="]" line="56" column="69" />
+        <mark key="." line="56" column="69" />
+        <mark key="^" line="56" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594077359530">
         <mark key="[" line="13" column="28" />
@@ -157,6 +157,12 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1596569189935">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594077566909">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
@@ -209,14 +215,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTU5MDE1MzAzOQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>coiwnst</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
