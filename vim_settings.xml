@@ -77,11 +77,11 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596577887611">
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="56" column="76" />
-        <mark key="." line="56" column="75" />
-        <mark key="^" line="56" column="76" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596578712671">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594077359530">
         <mark key="[" line="13" column="28" />
@@ -219,13 +219,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>https://firstalert-test.dataminr.com</text>
+        <text>datatypes</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://firstalert-test.dataminr.com</text>
+        <text>datatypes</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
