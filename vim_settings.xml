@@ -71,13 +71,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596658727246">
-        <mark key="[" line="56" column="16" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596660042979">
+        <mark key="[" line="57" column="16" />
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596658094838">
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596659473673">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -93,12 +93,6 @@
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1596568044758">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1596653443474">
         <mark key="[" line="41" column="67" />
@@ -121,17 +115,14 @@
       <file name="$USER_HOME$/Documents/repos/client-app/.gitlab-ci.yml" timestamp="1596649248850">
         <mark key="[" line="162" column="141" />
       </file>
+      <file name="/Dummy.txt" timestamp="1596659817307">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test.js" timestamp="1596219147653">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1596218822934">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596658152197" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1596653619467">
