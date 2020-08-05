@@ -77,11 +77,10 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596578712671">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="71" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596646477452">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594077359530">
         <mark key="[" line="13" column="28" />
@@ -101,7 +100,6 @@
         <mark key="^" line="97" column="83" />
         <mark key="." line="97" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/first-alert/login.js" timestamp="1596570200917" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/test.js" timestamp="1596219147653">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -166,6 +164,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.js" timestamp="1596645350881" />
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594077566909">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
@@ -218,8 +217,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>datatypes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEVycm9yKCcnKQo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -262,31 +261,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignZmFpbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEVycm9yKCcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLmJhc2VVcmwgPSAndGVzdCcK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignZmFpbCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmJhc2VVcmwgPSAndGVzdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeyBsb2dpbkFuZFNldHVwTW9kdWxlIH0gPSByZXF1aXJlKCcuL3V0aWxzL3NldHVwJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJycpCg==</text>
+        <text encoding="base64">Y29uc3QgeyBsb2dpbkFuZFNldHVwTW9kdWxlIH0gPSByZXF1aXJlKCcuL3V0aWxzL3NldHVwJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text>loginAndRequireModule()</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdC5kZXNjcmliZQo=</text>
+        <text>loginAndRequireModule()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTU5MDE1MzAzOQo=</text>
+        <text encoding="base64">dGVzdC5kZXNjcmliZQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
