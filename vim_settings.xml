@@ -165,6 +165,9 @@
         <mark key="." line="23" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.js" timestamp="1596645350881" />
+      <file name="$USER_HOME$/Documents/repos/client-app/.gitlab-ci.yml" timestamp="1596649248850">
+        <mark key="[" line="162" column="141" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/merge_request_webhook.py" timestamp="1594077566909">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
