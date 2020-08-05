@@ -71,11 +71,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596650230074">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596658727246">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596658094838">
         <mark key="[" line="137" column="0" />
