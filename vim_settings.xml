@@ -77,10 +77,11 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596646477452">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596650230074">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/models/jenkins_request.py" timestamp="1594077359530">
         <mark key="[" line="13" column="28" />
@@ -88,12 +89,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_comment_writer.py" timestamp="1594073589731">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="36" column="77" />
-        <mark key="^" line="36" column="77" />
-        <mark key="." line="36" column="76" />
-      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/users.js" timestamp="1596649983180" />
       <file name="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/comment_writer.py" timestamp="1594077455580">
         <mark key="[" line="97" column="82" />
         <mark key="]" line="97" column="83" />
@@ -221,7 +217,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEVycm9yKCcnKQo=</text>
+        <text encoding="base64">Y29uc3QgZGF0YXR5cGVzID0gcmVxdWlyZSgnLi9kYXRhdHlwZXMvaW5kZXgnKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -233,7 +229,7 @@
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhc2VVcmwgJiYgIWRhdGF0eXBlcy5zdHJpbmdDb250YWluaW5nKGJhc2VVcmwsICdmaXJzdGFsZXJ0JykpIHsKICAgICAgICAgICAgICAgIGJhc2VVcmwgPSBiYXNlVXJsLnJlcGxhY2UoJy5kZXYuJywgJy1maXJzdGFsZXJ0LmRldi4nKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhc2VVcmwgJiYgIWJhc2VVcmwuaW5jbHVkZXMoJy1maXJzdGFsZXJ0LmRldi4nKSkgewogICAgICAgICAgICAgICAgYmFzZVVybCA9IGJhc2VVcmwucmVwbGFjZSgnLmRldi4nLCAnLWZpcnN0YWxlcnQuZGV2LicpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -264,31 +260,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEVycm9yKCcnKQo=</text>
+        <text encoding="base64">Y29uc3QgZGF0YXR5cGVzID0gcmVxdWlyZSgnLi9kYXRhdHlwZXMvaW5kZXgnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignZmFpbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlci5GSVJTVF9BTEVSVCkgewogICAgICAgICAgICBpZiAoYmFzZVVybCAmJiAhYmFzZVVybC5pbmNsdWRlcygnLWZpcnN0YWxlcnQuZGV2LicpKSB7CiAgICAgICAgICAgICAgICBiYXNlVXJsID0gYmFzZVVybC5yZXBsYWNlKCcuZGV2LicsICctZmlyc3RhbGVydC5kZXYuJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLmJhc2VVcmwgPSAndGVzdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEVycm9yKCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBsb2dpbkFuZFNldHVwTW9kdWxlIH0gPSByZXF1aXJlKCcuL3V0aWxzL3NldHVwJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignZmFpbCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmJhc2VVcmwgPSAndGVzdCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>loginAndRequireModule()</text>
+        <text encoding="base64">Y29uc3QgeyBsb2dpbkFuZFNldHVwTW9kdWxlIH0gPSByZXF1aXJlKCcuL3V0aWxzL3NldHVwJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC5kZXNjcmliZQo=</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
