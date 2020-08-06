@@ -77,6 +77,12 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/default-before-script.yml" timestamp="1596753204931">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="30" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596734249523">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="0" />
@@ -127,7 +133,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/shared.yml" timestamp="1596750944586">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/shared.yml" timestamp="1596753197499">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="12" />
@@ -190,13 +196,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
