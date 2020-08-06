@@ -71,17 +71,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1596667627193">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1596739891897">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596734249523">
-        <mark key="[" line="52" column="36" />
+        <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596659473673">
         <mark key="[" line="137" column="0" />
@@ -121,7 +120,6 @@
         <mark key="^" line="118" column="37" />
         <mark key="." line="118" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1596729983858" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/test-imports.js" timestamp="1596653360954">
         <mark key="[" line="53" column="16" />
         <mark key="]" line="55" column="8" />
@@ -187,20 +185,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZGF0YXR5cGVzID0gcmVxdWlyZSgnLi9kYXRhdHlwZXMvaW5kZXgnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>hub</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>datatypes.stringContaining(user.USERNAME, 'first_alert')</text>
+        <text>hub</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhlIHBhcmVudCdzIGZpbGUgYmVjYXVzZSBmb3Igc29tZSByZWFzb24gdGhlIHRlc3QncyBmaWxlIGlzIHdyb25nIHNvbWV0aW1lcy4K</text>
+        <text encoding="base64">dHJpZ2dlci1naG9zdDoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -231,31 +229,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZGF0YXR5cGVzID0gcmVxdWlyZSgnLi9kYXRhdHlwZXMvaW5kZXgnKTsK</text>
+        <text encoding="base64">ICAgIHN0cmF0ZWd5OiBkZXBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YXR5cGVzLnN0cmluZ0NvbnRhaW5pbmcodXNlci5VU0VSTkFNRSwgJ2ZpcnN0X2FsZXJ0JykpIHsKICAgICAgICAgICAgLy8gQWRkIGZpcnN0IGFsZXJ0IHRvIHVybCBpZiBpdCdzIGEgZmlyc3QgYWxlcnQgdXNlciBmb3IgZHluYW1pYyB1cmxzLgo=</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVmczoK</text>
+        <text encoding="base64">IyAgICAgICAgLSBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNrIG1vdmUgZ3JvdXAgYW5kIGNsaWNrIGNhbmNlCg==</text>
+        <text encoding="base64">IyAgICBvbmx5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZpbGUpIHsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2codGhpcy5maWxlcykKICAgICAgICAgICAgLy8gY29uc29sZS5sb2codGVzdC5maWxlKQogICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhlcnIpCiAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHRlc3QpCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgIHdoZW46IG1hbnVhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuZmlsZXNbdGVzdC5maWxlXSkgewogICAgICAgICAgICBjb25zb2xlLmxvZygncmVjb3JkIGR1cmF0aW9uJykKICAgICAgICAgICAgY29uc29sZS5sb2codGVzdC5maWxlKQogICAgICAgICAgICBjb25zb2xlLmxvZyh0ZXN0KQogICAgICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgZGF0YXR5cGVzID0gcmVxdWlyZSgnLi9kYXRhdHlwZXMvaW5kZXgnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YXR5cGVzLnN0cmluZ0NvbnRhaW5pbmcodXNlci5VU0VSTkFNRSwgJ2ZpcnN0X2FsZXJ0JykpIHsKICAgICAgICAgICAgLy8gQWRkIGZpcnN0IGFsZXJ0IHRvIHVybCBpZiBpdCdzIGEgZmlyc3QgYWxlcnQgdXNlciBmb3IgZHluYW1pYyB1cmxzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIShhcnJheVswXS50b3BpYyA9PT0gJ3RocmVhdHMgYW5kIHByZWNhdXRpb25zJykgfHwgIShhcnJheVswXS50b3BpYyA9PT0gJ2NhcnRlbHMgW3BzL25dJykgfHwgIShhcnJheVswXS50b3BpYyA9PT0gJ2V4dHJlbWlzdCBhbmQgcmViZWwgbWVzc2FnaW5nIFtwcy9uXScpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsaWNrIG1vdmUgZ3JvdXAgYW5kIGNsaWNrIGNhbmNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
