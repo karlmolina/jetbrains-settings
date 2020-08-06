@@ -71,11 +71,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1596665547035">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1596667627193">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1596660042979">
         <mark key="[" line="57" column="16" />
