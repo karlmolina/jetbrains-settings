@@ -103,9 +103,6 @@
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
         <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/default-before-script.yml" timestamp="1596754488731">
         <mark key="[" line="32" column="35" />
@@ -156,7 +153,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/data/users.js" timestamp="1596729945864" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/data/users.js" timestamp="1596836668388" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
