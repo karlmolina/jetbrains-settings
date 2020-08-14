@@ -71,44 +71,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1597250928787">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1597247793354">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596659473673">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/tab-header/open-tabs.js" timestamp="1596733508011" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1596653443474">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="41" column="68" />
-        <mark key="^" line="41" column="68" />
-        <mark key="." line="41" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1596754512611">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
-        <mark key="[" line="4" column="31" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1597426550130">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/default-before-script.yml" timestamp="1596754488731">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="41" />
         <mark key="." line="32" column="40" />
         <mark key="^" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1597247793354">
+        <mark key="[" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596659473673">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1596659817307">
         <mark key="[" line="0" column="0" />
@@ -123,17 +104,17 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1596653443474">
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="68" />
+        <mark key="^" line="41" column="68" />
+        <mark key="." line="41" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1596653619467">
         <mark key="[" line="117" column="43" />
         <mark key="]" line="118" column="37" />
         <mark key="^" line="118" column="37" />
         <mark key="." line="118" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/test-imports.js" timestamp="1596653360954">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="55" column="8" />
-        <mark key="^" line="55" column="8" />
-        <mark key="." line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1596754509382">
         <mark key="[" line="3" column="0" />
@@ -147,13 +128,21 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1596754512611">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/shared.yml" timestamp="1596753197499">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/data/users.js" timestamp="1596836668388" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
+        <mark key="[" line="4" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -196,6 +185,7 @@
       <jump line="20" column="67" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="236" column="9" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="233" column="50" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
+      <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
