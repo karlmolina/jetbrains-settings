@@ -80,9 +80,9 @@
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1597247793354">
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598640456285">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="45" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598642591467">
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="108" />
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="41" />
       </file>
@@ -94,7 +94,12 @@
       <file name="/JavaScript Console" timestamp="1598641481579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598637458072" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
         <mark key="[" line="4" column="31" />
       </file>
@@ -182,8 +187,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bigoKSA9PiBjb25zb2xlLmxvZygnMjgnKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://g-stage.dataminr.com/settings/powerstreams/new</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -194,8 +199,8 @@
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bigoKSA9PiBjb25zb2xlLmxvZygnMjgnKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>https://g-stage.dataminr.com/settings/powerstreams/new</text>
       </register>
       <register name="q" type="4">
         <keys>
