@@ -94,6 +94,18 @@
       <file name="/Dummy.txt" timestamp="1596659817307">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598636591229">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1596754516162">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -107,18 +119,6 @@
       <file name="/" timestamp="1597780813316">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1596653443474">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="41" column="68" />
-        <mark key="^" line="41" column="68" />
-        <mark key="." line="41" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1596653619467">
-        <mark key="[" line="117" column="43" />
-        <mark key="]" line="118" column="37" />
-        <mark key="^" line="118" column="37" />
-        <mark key="." line="118" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1596754509382">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -131,6 +131,8 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/package-lock.json" timestamp="1598637819276" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598637458072" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1596754512611">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -193,14 +195,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbGxvd19mYWlsdXJlOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>skip</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>skip</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
