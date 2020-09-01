@@ -109,6 +109,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/companies.js" timestamp="1598975700099" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1596754516162">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -134,7 +135,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598640094744">
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598975339728">
         <mark key="[" line="5" column="60" />
         <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="59" />
