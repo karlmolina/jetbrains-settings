@@ -91,17 +91,22 @@
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package-lock.json" timestamp="1598637819276" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1598638626767" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599069452453">
+        <mark key="'" line="41" column="52" />
+        <mark key="[" line="44" column="59" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="56" />
+        <mark key="^" line="44" column="57" />
+      </file>
       <file name="/JavaScript Console" timestamp="1598641481579">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1599064171081" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
-        <mark key="[" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
         <mark key="[" line="15" column="36" />
@@ -110,10 +115,8 @@
         <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/companies.js" timestamp="1598975700099" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1596754516162">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069534063">
+        <mark key="[" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1596814923261">
         <mark key="[" line="21" column="0" />
@@ -128,12 +131,6 @@
         <mark key="]" line="26" column="28" />
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/all-repos.yml" timestamp="1596754605151">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598975339728">
         <mark key="[" line="5" column="60" />
@@ -184,24 +181,25 @@
       <jump line="236" column="9" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="233" column="50" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
+      <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://g-stage.dataminr.com/settings/powerstreams/new</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmFjdGlvbnMoKS5kcmFnQW5kRHJvcChhLCBiKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">RHJhZyA=</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
-      <register name="0" type="4">
-        <text>https://g-stage.dataminr.com/settings/powerstreams/new</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmFjdGlvbnMoKS5kcmFnQW5kRHJvcChhLCBiKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -232,31 +230,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGxvd19mYWlsdXJlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZHJpdmVyLmFjdGlvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cmlnZ2VyOgogICAgc3RyYXRlZ3k6IGRlcGVuZAogIGFsbG93X2ZhaWx1cmU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWN0aW9uQ2hhaW5zKGRyaXZlcikuZHJhZ19hbmRfZHJvcChhLCBiKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmdldCgnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmdldCgnaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9uY3InKTsKICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAuZmluZEVsZW1lbnQoQnkubmFtZSgncScpKQogICAgICAgICAgICAgICAgLnNlbmRLZXlzKCd3ZWJkcml2ZXInLCBLZXkuUkVUVVJOKS50aGVuKCgpID0+IGNvbnNvbGUubG9nKCcxJykpOwogICAgICAgICAgICBjb25zb2xlLmxvZygyKQogICAgICAgICAgICBydW4oYXN5bmMgKCkgPT4gewogICAgICAgICAgICAgICAgYXdhaXQgc2xlZXAoMTAwMCk7CiAgICAgICAgICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGF4aW9zLmdldCgnaHR0cDovL3Bva2VhcGkuY28vYXBpL3YyL3Bva2Vtb24vJykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEucmVzdWx0cykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDIuNSl9KQogICAgICAgICAgICBkcml2ZXIud2FpdChhc3luYyBkcml2ZXIgPT4gdW50aWwudGl0bGVJcygnd2ViZHJpdmVyIC0gR29vZ2xlIFNlYXJjaCcpLmZuKGRyaXZlciksIDEwMDApLnRoZW4oKCkgPT4gY29uc29sZS5sb2coMykpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJpZ2dlci1lbXQ6CiAgZXh0ZW5kczogLnRyaWdnZXIKICB0cmlnZ2VyOgogICAgcHJvamVjdDogdGVzdC10ZWFtL2VudGVycHJpc2UtbWFuYWdlbWVudC10ZXN0aW5nCgp0cmlnZ2VyLXNtb2tldGVzdDoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vc21va2V0ZXN0Cgp0cmlnZ2VyLWh1YjoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vaHViLXRlc3RpbmcK</text>
+        <text encoding="base64">ICBhbGxvd19mYWlsdXJlOiB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJpZ2dlci1naG9zdDoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZ2hvc3QtdGVzdGluZwoKdHJpZ2dlci1hZG1pbjoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vYWRtaW4tdGVzdGluZwo=</text>
+        <text encoding="base64">ICB0cmlnZ2VyOgogICAgc3RyYXRlZ3k6IGRlcGVuZAogIGFsbG93X2ZhaWx1cmU6IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIG5wbSBpbnN0YWxsCiAgICAtIGlmIFsgLW4gIiRETV9WSUdJTF9CUkFOQ0giIF07IHRoZW4gbnBtIGluc3RhbGwgImdpdCtzc2g6Ly9naXRAZ2l0LmRhdGFtaW5yLmNvbTp0ZXN0LXRlYW0vZG0tdmlnaWwjJERNX1ZJR0lMX0JSQU5DSCI7IGZpCj09PT09PT0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
