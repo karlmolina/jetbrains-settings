@@ -71,12 +71,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1597426550130">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
         <mark key="[" line="26" column="55" />
         <mark key="]" line="26" column="108" />
@@ -86,6 +80,7 @@
       <file name="/fragment.js" timestamp="1598641623533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/threshold-streams.js" timestamp="1599147380474" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/package-lock.json" timestamp="1598637819276" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1598638626767" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
