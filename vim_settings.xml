@@ -71,6 +71,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
         <mark key="[" line="26" column="55" />
         <mark key="]" line="26" column="108" />
@@ -80,45 +86,26 @@
       <file name="/fragment.js" timestamp="1598641623533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/threshold-streams.js" timestamp="1599147380474" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package-lock.json" timestamp="1598637819276" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1598638626767" />
-      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
-        <mark key="'" line="20" column="52" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1599237335076">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/test-testing/test/promise-manager-test.js" timestamp="1599064171081" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/package.json" timestamp="1599172884504" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/companies.js" timestamp="1598975700099" />
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1599670936816" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/first-alert/settings/topics/basic.js" timestamp="1599670880226" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/settings/power-stream-builder.js" timestamp="1598641291031">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598975339728">
         <mark key="[" line="5" column="60" />
@@ -131,6 +118,15 @@
         <mark key="]" line="48" column="0" />
         <mark key="^" line="50" column="45" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1599237335076">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="18" />
       </file>
     </filemarks>
     <jumps>
