@@ -71,6 +71,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/sidebar.js" timestamp="1599672647176" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="35" />
@@ -100,6 +101,7 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1599672575086" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="14" column="0" />
