@@ -72,12 +72,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/sidebar.js" timestamp="1599672647176" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1598637871533">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
         <mark key="[" line="26" column="55" />
         <mark key="]" line="26" column="108" />
@@ -87,6 +81,7 @@
       <file name="/fragment.js" timestamp="1598641623533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/data/users.js" timestamp="1599778610136" />
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="23" />
