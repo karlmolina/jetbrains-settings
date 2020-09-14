@@ -25,9 +25,10 @@
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="88" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
+    <option name="SOFT_MARGINS" value="88" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="WRAP_ON_TYPING" value="1" />
