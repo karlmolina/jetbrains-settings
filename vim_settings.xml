@@ -74,80 +74,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1597426550130">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="4" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/sidebar.js" timestamp="1599672647176" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="108" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/default-before-script.yml" timestamp="1596754488731">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1597247793354">
-        <mark key="[" line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1596659473673">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596659817307">
+      <file name="/fragment.js" timestamp="1598641623533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/mock-driver.yml" timestamp="1596754516162">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/data/users.js" timestamp="1599778610136" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1596814923261">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1599686348228" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/DriverManager.js" timestamp="1599686489539" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/hub/locators/accounts.js" timestamp="1599863973206" />
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/first-alert/settings/topics/basic.js" timestamp="1599670880226" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1599672575086" />
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="/" timestamp="1597780813316">
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598975339728">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop-ghost.js" timestamp="1599078412010">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/branding.js" timestamp="1596653443474">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="41" column="68" />
-        <mark key="^" line="41" column="68" />
-        <mark key="." line="41" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" timestamp="1596653619467">
-        <mark key="[" line="117" column="43" />
-        <mark key="]" line="118" column="37" />
-        <mark key="^" line="118" column="37" />
-        <mark key="." line="118" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1596754509382">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/all-repos.yml" timestamp="1596754605151">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1596754512611">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/shared.yml" timestamp="1596753197499">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/.gitlab-ci.yml" timestamp="1596814108888">
-        <mark key="[" line="4" column="31" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -192,24 +167,25 @@
       <jump line="236" column="9" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="233" column="50" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
+      <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbGxvd19mYWlsdXJlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>ghost_ods</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbnBtIGluc3RhbGwKICAgIC0gaWYgWyAtbiAiJERNX1ZJR0lMX0JSQU5DSCIgXTsgdGhlbiBucG0gaW5zdGFsbCAiZ2l0K3NzaDovL2dpdEBnaXQuZGF0YW1pbnIuY29tOnRlc3QtdGVhbS9kbS12aWdpbCMkRE1fVklHSUxfQlJBTkNIIjsgZmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmZpbmRFbGVtZW50KEJ5LmlkKCd1c2VybmFtZScpKS5zZW5kS2V5cygnZ2hvc3Rfb2RzJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -240,31 +216,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbGxvd19mYWlsdXJlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cmlnZ2VyOgogICAgc3RyYXRlZ3k6IGRlcGVuZAogIGFsbG93X2ZhaWx1cmU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pbml0aWFsaXplCiAgICAgICAgICAgIC8vIHN0ZGVyciBpcyBzZW50IHRvIHN0ZG91dCBvZiBwYXJlbnQgcHJvY2VzcwogICAgICAgICAgICAvLyB5b3UgY2FuIHNldCBvcHRpb25zLnN0ZGlvIGlmIHlvdSB3YW50IGl0IHRvIGdvIGVsc2V3aGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBleGVjU3luYyB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJpZ2dlci1lbXQ6CiAgZXh0ZW5kczogLnRyaWdnZXIKICB0cmlnZ2VyOgogICAgcHJvamVjdDogdGVzdC10ZWFtL2VudGVycHJpc2UtbWFuYWdlbWVudC10ZXN0aW5nCgp0cmlnZ2VyLXNtb2tldGVzdDoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vc21va2V0ZXN0Cgp0cmlnZ2VyLWh1YjoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vaHViLXRlc3RpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJpZ2dlci1naG9zdDoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZ2hvc3QtdGVzdGluZwoKdHJpZ2dlci1hZG1pbjoKICBleHRlbmRzOiAudHJpZ2dlcgogIHRyaWdnZXI6CiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vYWRtaW4tdGVzdGluZwo=</text>
+        <text encoding="base64">dmFyIG5ld1Bhc3N3b3JkOwp2YXIgdXNlcjsKdmFyIHVzZXJuYW1lID0gRGF0ZS5ub3coKTsKdmFyIHRvZGF5ID0gbmV3IERhdGUoKTsKCmZ1bmN0aW9uIHNsZWVwKG1zKSB7CgogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gc2V0VGltZW91dCgoKSA9PiB7cmVzb2x2ZSgpOyBjb25zb2xlLmxvZyhgc2xlcHQgJHttc30gbXNgKX0sIG1zKSk7Cn0KCmZ1bmN0aW9uIHJ1bihmdW4pIHsKICAgIGRyaXZlci5zbGVlcCgwKS50aGVuKGZ1bik7Cn0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIG5wbSBpbnN0YWxsCiAgICAtIGlmIFsgLW4gIiRETV9WSUdJTF9CUkFOQ0giIF07IHRoZW4gbnBtIGluc3RhbGwgImdpdCtzc2g6Ly9naXRAZ2l0LmRhdGFtaW5yLmNvbTp0ZXN0LXRlYW0vZG0tdmlnaWwjJERNX1ZJR0lMX0JSQU5DSCI7IGZpCj09PT09PT0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYiA9IGRyaXZlci5maW5kRWxlbWVudChCeS5pZCgnZHJvcHBhYmxlJykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIG5wbSBpbnN0YWxsCiAgICAtIGlmIFsgLW4gIiRETV9WSUdJTF9CUkFOQ0giIF07IHRoZW4gbnBtIGluc3RhbGwgImdpdCtzc2g6Ly9naXRAZ2l0LmRhdGFtaW5yLmNvbTp0ZXN0LXRlYW0vZG0tdmlnaWwjJERNX1ZJR0lMX0JSQU5DSCI7IGZpCj09PT09PT0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYW5hZ2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
