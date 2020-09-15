@@ -74,7 +74,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/sidebar.js" timestamp="1599672647176" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
         <mark key="[" line="26" column="55" />
         <mark key="]" line="26" column="108" />
@@ -84,18 +83,12 @@
       <file name="/fragment.js" timestamp="1598641623533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/data/users.js" timestamp="1599778610136" />
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1599686348228" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/DriverManager.js" timestamp="1599686489539" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/hub/locators/accounts.js" timestamp="1599863973206" />
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/first-alert/settings/topics/basic.js" timestamp="1599670880226" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1599672575086" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="14" column="0" />
@@ -118,7 +111,7 @@
       <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1598642587148">
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1600203004949">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="17" />
@@ -257,7 +250,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
