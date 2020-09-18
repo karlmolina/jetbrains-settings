@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="log" value="log = logging.getLogger(__name__)" description="get logger with __name__" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="import logging&#10;log = logging.getLogger(__name__)" description="get logger with __name__" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
       <option name="Python_Class" value="false" />
