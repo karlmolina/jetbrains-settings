@@ -74,15 +74,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/basic.js" timestamp="1598649064847">
-        <mark key="[" line="26" column="55" />
-        <mark key="]" line="26" column="108" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="41" />
-      </file>
-      <file name="/fragment.js" timestamp="1598641623533">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/locators/v2-alerts-panel.js" timestamp="1600276203088" />
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
