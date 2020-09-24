@@ -91,12 +91,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings/power-stream-builder.js" timestamp="1598975339728">
-        <mark key="[" line="5" column="60" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop-ghost.js" timestamp="1599078412010">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -106,12 +100,15 @@
       <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1600812740073" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1600961168497" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1600800413539">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/linked-alerts.js" timestamp="1600961170983">
+        <mark key="[" line="66" column="15" />
       </file>
     </filemarks>
     <jumps>
