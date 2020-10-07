@@ -77,16 +77,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/locators/v2-alerts-panel.js" timestamp="1600276203088" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/hub/views/content.js" timestamp="1602089552744" />
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/v2-alerts-panel.js" timestamp="1600276027862" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1600275904572" />
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/clientapp/views/tab-header.js" timestamp="1600276800649" />
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="14" column="0" />
@@ -103,7 +100,7 @@
       <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1600961168497" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/hub/locators/content.js" timestamp="1602088888135" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1600800413539">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
