@@ -77,13 +77,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/utils/app/elements.js" timestamp="1602111783987" />
-      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="14" column="0" />
@@ -100,12 +93,19 @@
       <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/data/users.js" timestamp="1600800413539">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/hub/locators/modals/add-edit-user-account-modal.js" timestamp="1602281748323" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/linked-alerts.js" timestamp="1600961170983">
         <mark key="[" line="66" column="15" />
       </file>
