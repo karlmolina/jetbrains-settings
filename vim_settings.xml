@@ -80,6 +80,13 @@
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user-copy-profile.js" timestamp="1602711256208">
         <mark key="[" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1602871163536">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="23" />
@@ -90,6 +97,13 @@
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1602870923451" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/emd-admins/standard-new-admin.js" timestamp="1602869339801">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
         <mark key="'" line="20" column="52" />
@@ -169,12 +183,13 @@
       <jump line="233" column="50" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
       <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
       <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpblZpZXcuQ29udGVudCgpLkFsbF9Mb2NhdGlvbnMuY2hlY2tSb3dWYWx1ZSgnbG9jYXRpb24gaWQnLCAnRHJvbmUgQnVsayBVcGxvYWQgTG9jYXRpb24gLSAwMDAxJywgJ2xvY2F0aW9uIGlkJywgJ0Ryb25lIEJ1bGsgVXBsb2FkIExvY2F0aW9uIC0gMDAwMScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -217,31 +232,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGUgPT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdENoZWNrQm94KGxvY2F0b3IsIHN0YXRlLCBlcnJvck1lc3NhZ2UpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGUgPT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdENoZWNrQm94KGxvY2F0b3IsIHN0YXRlLCBlcnJvck1lc3NhZ2UpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pbml0aWFsaXplCiAgICAgICAgICAgIC8vIHN0ZGVyciBpcyBzZW50IHRvIHN0ZG91dCBvZiBwYXJlbnQgcHJvY2VzcwogICAgICAgICAgICAvLyB5b3UgY2FuIHNldCBvcHRpb25zLnN0ZGlvIGlmIHlvdSB3YW50IGl0IHRvIGdvIGVsc2V3aGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pbml0aWFsaXplCiAgICAgICAgICAgIC8vIHN0ZGVyciBpcyBzZW50IHRvIHN0ZG91dCBvZiBwYXJlbnQgcHJvY2VzcwogICAgICAgICAgICAvLyB5b3UgY2FuIHNldCBvcHRpb25zLnN0ZGlvIGlmIHlvdSB3YW50IGl0IHRvIGdvIGVsc2V3aGVyZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBleGVjU3luYyB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgeyBleGVjU3luYyB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIG5ld1Bhc3N3b3JkOwp2YXIgdXNlcjsKdmFyIHVzZXJuYW1lID0gRGF0ZS5ub3coKTsKdmFyIHRvZGF5ID0gbmV3IERhdGUoKTsKCmZ1bmN0aW9uIHNsZWVwKG1zKSB7CgogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gc2V0VGltZW91dCgoKSA9PiB7cmVzb2x2ZSgpOyBjb25zb2xlLmxvZyhgc2xlcHQgJHttc30gbXNgKX0sIG1zKSk7Cn0KCmZ1bmN0aW9uIHJ1bihmdW4pIHsKICAgIGRyaXZlci5zbGVlcCgwKS50aGVuKGZ1bik7Cn0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
