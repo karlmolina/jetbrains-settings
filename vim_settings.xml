@@ -80,12 +80,12 @@
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user-copy-profile.js" timestamp="1602711256208">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1602880531563">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1602880681682">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="19" column="6" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/repos/test-testing/package.json" timestamp="1599069598560">
         <mark key="[" line="14" column="22" />
@@ -136,6 +136,7 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1602882857843" />
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/linked-alerts.js" timestamp="1600961170983">
         <mark key="[" line="66" column="15" />
       </file>
@@ -188,8 +189,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBleGNlcHQ6IFttZXJnZV9yZXF1ZXN0c10K</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -232,31 +233,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICBleGNlcHQ6IFttZXJnZV9yZXF1ZXN0c10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gd2hlbjogb25fc3VjY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gd2hlbjogb25fc3VjY2Vzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGUgPT09IHVuZGVmaW5lZCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdENoZWNrQm94KGxvY2F0b3IsIHN0YXRlLCBlcnJvck1lc3NhZ2UpIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pbml0aWFsaXplCiAgICAgICAgICAgIC8vIHN0ZGVyciBpcyBzZW50IHRvIHN0ZG91dCBvZiBwYXJlbnQgcHJvY2VzcwogICAgICAgICAgICAvLyB5b3UgY2FuIHNldCBvcHRpb25zLnN0ZGlvIGlmIHlvdSB3YW50IGl0IHRvIGdvIGVsc2V3aGVyZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGUgPT09IHVuZGVmaW5lZCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlbGVjdENoZWNrQm94KGxvY2F0b3IsIHN0YXRlLCBlcnJvck1lc3NhZ2UpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyCiAgICAgICAgICAgICAgICAubWFuYWdlKCkKICAgICAgICAgICAgICAgIC53aW5kb3coKQogICAgICAgICAgICAgICAgLnNldFNpemUoMTQwMCwgMTMwMCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9pbml0aWFsaXplCiAgICAgICAgICAgIC8vIHN0ZGVyciBpcyBzZW50IHRvIHN0ZG91dCBvZiBwYXJlbnQgcHJvY2VzcwogICAgICAgICAgICAvLyB5b3UgY2FuIHNldCBvcHRpb25zLnN0ZGlvIGlmIHlvdSB3YW50IGl0IHRvIGdvIGVsc2V3aGVyZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyBleGVjU3luYyB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
