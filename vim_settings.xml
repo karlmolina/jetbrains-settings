@@ -80,10 +80,10 @@
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user-copy-profile.js" timestamp="1602711256208">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1602880681682">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1603140861708">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="23" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="8" />
       </file>
@@ -191,7 +191,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBleGNlcHQ6IFttZXJnZV9yZXF1ZXN0c10K</text>
+        <text encoding="base64">aW1hZ2U6IG5vZGU6MTIK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -203,7 +203,7 @@
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpblZpZXcuQ29udGVudCgpLkFsbF9Mb2NhdGlvbnMuY2hlY2tSb3dWYWx1ZSgnbG9jYXRpb24gaWQnLCAnRHJvbmUgQnVsayBVcGxvYWQgTG9jYXRpb24gLSAwMDAxJywgJ2xvY2F0aW9uIGlkJywgJ0Ryb25lIEJ1bGsgVXBsb2FkIExvY2F0aW9uIC0gMDAwMScpOwo=</text>
+        <text encoding="base64">aW1hZ2U6IG5vZGU6MTIK</text>
       </register>
       <register name="q" type="4">
         <keys>
