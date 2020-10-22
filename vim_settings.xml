@@ -93,7 +93,13 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603309038063" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603326794720">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="25" />
+        <mark key="." line="207" column="24" />
+        <mark key="^" line="207" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.json" timestamp="1603309058221">
         <mark key="[" line="335" column="0" />
         <mark key="]" line="335" column="0" />
@@ -107,13 +113,6 @@
         <mark key="." line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/edit-single-user-admin.js" timestamp="1603320590348" />
-      <file name="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" timestamp="1599081401069">
-        <mark key="'" line="20" column="52" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1599237335076">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,6 +132,12 @@
         <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603317305837" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1603327088242">
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+        <mark key="^" line="68" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/finance/linked-alerts.js" timestamp="1600961170983">
         <mark key="[" line="66" column="15" />
       </file>
@@ -181,24 +186,25 @@
       <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
       <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
+      <jump line="0" column="9" filename="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>../../</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>../../</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1hZ2U6IG5vZGU6MTIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvV29ya2luZ0RpcmVjdG9yeSA9ICcuLi8uLi8uLi8nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -229,31 +235,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB0YWdzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiRU1UX1JFR1JFU1NJT04iOiB7ICJuYW1lIjogIkVNVF9SRUdSRVNTSU9OIiwgImRlc2NyaXB0aW9uIjogIlJ1bnMgYWxsIHRlc3RzIC0gT25seSB1c2UgZm9yIG1ham9yIGNoYW5nZXMgcGxlYXNlISIKICB9LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZXM6CiAgICAgIC0gZGF0YS90YWdzLmpzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBleGNlcHQ6IFttZXJnZV9yZXF1ZXN0c10K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gd2hlbjogb25fc3VjY2Vzcwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2codGFncyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Zm9yIChjb25zdCB0YWcgb2YgT2JqZWN0LmtleXModGFncykpIHsKICAgIHRhZy5uYW1lOwp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yICgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAiRU1UX1JFR1JFU1NJT04iOiB7ICJuYW1lIjogIkVNVF9SRUdSRVNTSU9OIiwgImRlc2NyaXB0aW9uIjogIlJ1bnMgYWxsIHRlc3RzIC0gT25seSB1c2UgZm9yIG1ham9yIGNoYW5nZXMgcGxlYXNlISIKICB9LAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGUgPT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">ICAgIGNoYW5nZXM6CiAgICAgIC0gZGF0YS90YWdzLmpzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdENoZWNrQm94KGxvY2F0b3IsIHN0YXRlLCBlcnJvck1lc3NhZ2UpIHsK</text>
+        <text encoding="base64">ICBleGNlcHQ6IFttZXJnZV9yZXF1ZXN0c10K</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
