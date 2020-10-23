@@ -1,0 +1,10 @@
+<application>
+  <component name="PowerModeII">
+    <option name="colorAlpha" value="139" />
+    <option name="flameLife" value="1000" />
+    <option name="isCaretAction" value="true" />
+    <option name="maxFlameSize" value="500" />
+    <option name="shakeRange" value="10" />
+    <option name="sparkLife" value="2000" />
+  </component>
+</application>
