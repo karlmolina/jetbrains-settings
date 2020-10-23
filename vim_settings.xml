@@ -89,9 +89,19 @@
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/data/tags.js" timestamp="1603327656537">
         <mark key="[" line="208" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/clientapp/views/login.js" timestamp="1603314721904" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/bulk-delete-user.js" timestamp="1603381575110">
+        <mark key="[" line="11" column="92" />
+        <mark key="]" line="11" column="91" />
+        <mark key="^" line="11" column="91" />
+        <mark key="." line="11" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
         <mark key="'" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.json" timestamp="1603309058221">
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="0" />
+        <mark key="." line="335" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/emd-admins/standard-new-admin.js" timestamp="1602869339801">
         <mark key="[" line="34" column="19" />
@@ -126,21 +136,7 @@
         <mark key="." line="67" column="38" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/bulk-delete-user.js" timestamp="1603381575110">
-        <mark key="[" line="11" column="92" />
-        <mark key="]" line="11" column="91" />
-        <mark key="^" line="11" column="91" />
-        <mark key="." line="11" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/utils/app/checks.js" timestamp="1603299273288" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.json" timestamp="1603309058221">
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="335" column="0" />
-        <mark key="." line="335" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/content/add-single-location.js" timestamp="1603320797288" />
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/edit-single-user-admin.js" timestamp="1603320590348" />
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603317305837" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603489931655" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
