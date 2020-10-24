@@ -1,7 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
+    <option name="tabsHeight" value="20" />
     <option name="accentColor" value="79cb60" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="490c1f4e:17557f9158d:-8000" />
