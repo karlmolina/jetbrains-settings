@@ -98,7 +98,7 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/external/views/mailosaur.js" timestamp="1603491327723" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/data/users.js" timestamp="1603903577681" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
         <mark key="'" line="0" column="9" />
       </file>
@@ -140,7 +140,7 @@
         <mark key="." line="67" column="38" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603494062740" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603904592443" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -276,7 +276,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
