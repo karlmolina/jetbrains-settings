@@ -130,8 +130,8 @@
         <mark key="^" line="22" column="107" />
         <mark key="." line="22" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1605911607829">
-        <mark key="[" line="5" column="28" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1605913054153">
+        <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="26" />
@@ -142,11 +142,11 @@
         <mark key="." line="67" column="38" />
         <mark key="^" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1605911306952">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1605913048547">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="45" />
+        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -199,7 +199,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIC0gU0VfT1BUUz0tZW5hYmxlUGFzc1Rocm91Z2ggZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIubWFuYWdlKCkud2luZG93KCkubWF4aW1pemUoKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -242,31 +242,86 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIC0gU0VfT1BUUz0tZW5hYmxlUGFzc1Rocm91Z2ggZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIubWFuYWdlKCkud2luZG93KCkubWF4aW1pemUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnNsZWVwdGhyb3cgbmV3IEVycm9yKCdzZXQgc2l6ZSBzdWNjZXNzJyk7Cg==</text>
+      <register name="3" type="4">
+        <text>mainView.Accounts().selectAddUserAccounts('single user account');
+            mainView.addEditUserAccountModal().setEmail(`${username}.kjcwwc2v@mailosaur.io`);
+            mainView.addEditUserAccountModal().setFirstName('Selenium');
+            mainView.addEditUserAccountModal().setLastName('Automated');
+            mainView.addEditUserAccountModal().setPosition('Automated Drone');
+            mainView.addEditUserAccountModal().setMobilePhone('4064064006');
+            mainView.addEditUserAccountModal().selectTimezone('-6:00 GMT America/Costa_Rica');
+            mainView.addEditUserAccountModal().selectRole('standard');
+            mainView.addEditUserAccountModal().clickAddButton();
+        });
+        test.it('Validate newly created user', function () {
+            mainView.Accounts().setSearchField('Selenium Automated', false);
+            mainView.Accounts().clickSearchButton();
+            mainView.Accounts().clickRowByName('Last Name', 'Automated');
+        });
+        test.it('Validate newly created user', function () {
+            mainView.userDetails().checkSendActivationEmailExists(false);
+            mainView.userDetails().checkHeaderName('Selenium Automated');
+            // mainView.userDetails().checkCreatedDate(); //TODO under construction
+            mainView.userDetails().checkEmail(`${username}.kjcwwc2v@mailosaur.io`);
+            mainView.userDetails().checkFirstName('Selenium');
+            mainView.userDetails().checkLastName('Automated');
+            mainView.userDetails().checkRole('standard', true);
+            mainView.userDetails().checkPosition('Automated Drone');
+            mainView.userDetails().checkMobilePhone('4064064006');
+            mainView.userDetails().checkTimezone('America/Costa_Rica');
+        });
+    });
+    test.describe('Open email and reset password', function () {
+        test.it('Open email and reset password', async function () {
+            user = { USERNAME: username, PASSWORD: '', VERTICAL: 'corp', mailosaur: { username, mailboxId: 'kjcwwc2v', apiKey: '9bo9GAmOuf1YiSw' } };
+
+            const mailosaurView = new MailosaurView(user);
+            const email = await mailosaurView.openEmailByText('Your Dataminr Pulse account is now active');
+            email.checkImageExistsByAlt('Dataminr Pulse Logo');
+            // const link = email.getLinkByText('ACTIVATE ACCOUNT');
+            // temporary fix to hardcode link, remove with QA-2271 / EA-877
+            const link = email.getLinks();
+            util.openWindowAndSwitch(link[0].href);
+        });
+
+        test.it('Reset password', function () {
+            loginView.setNewPasswordFields('1BmqGPz#');
+            loginView.clickSubmitButton(true);
+            loginView.acceptTOSIfPresent();
+            loginView.acceptAuthorizedUserIfPresent();
+        });
+        test.it('Return to hub', function () {
+            util.closeWindowAndSwitch();
+        });
+    });
+    test.describe('Delete user in hub', function () {
+        test.it('Return to hub and delete user', function () {
+            mainView.userDetails().clickManageUserAccount();
+            mainView.userDetails().selectManageUserAccountDropdown('Delete user account');
+            mainView.deleteUsersModal().clickDeleteButton();</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZmEubWZhQnlwYXNzKCk7Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gU0VfT1BUUz0tZW5hYmxlUGFzc1Rocm91Z2ggZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3NldCBzaXplIHN1Y2Nlc3MnKTsK</text>
+        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBTRV9PUFRTPS1lbmFibGVQYXNzVGhyb3VnaCBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnNsZWVwdGhyb3cgbmV3IEVycm9yKCdzZXQgc2l6ZSBzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZmEubWZhQnlwYXNzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>ddd</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3NldCBzaXplIHN1Y2Nlc3MnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkcml2ZXIubWFuYWdlKCkud2luZG93KCkuc2V0UmVjdCh7IHdpZHRoOiA2NDAsIGhlaWdodDogNDgwIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgLSBTRV9PUFRTPS1lbmFibGVQYXNzVGhyb3VnaCBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
