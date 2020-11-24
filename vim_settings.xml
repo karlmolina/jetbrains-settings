@@ -80,8 +80,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1606155501151">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/new-users/single-new-user-copy-profile.js" timestamp="1602711256208">
+        <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1603306263398">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/data/tags.js" timestamp="1603327656537">
+        <mark key="[" line="208" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/bulk-delete-user.js" timestamp="1603381575110">
         <mark key="[" line="11" column="92" />
@@ -89,48 +98,49 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitignore" timestamp="1606155854642">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1606236299696">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1606155532526">
-        <mark key="[" line="768" column="12" />
-        <mark key="]" line="768" column="12" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="768" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1605916824279">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/utils/test-utils/selenium-webdriver.js" timestamp="1605916718240">
-        <mark key="[" line="6" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1605916672895">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
-      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/data/users.js" timestamp="1603903577681" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/grid.yaml" timestamp="1605910844909">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.json" timestamp="1603309058221">
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="0" />
+        <mark key="." line="335" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/emd-admins/standard-new-admin.js" timestamp="1602869339801">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/content/add-bulk-locations-restricted.js" timestamp="1602800928265">
+        <mark key="[" line="126" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/generateLabels.js" timestamp="1603327381566">
+        <mark key="[" line="68" column="59" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+        <mark key="." line="68" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/labeling.js" timestamp="1603327606645">
+        <mark key="[" line="22" column="84" />
+        <mark key="]" line="22" column="107" />
+        <mark key="^" line="22" column="107" />
+        <mark key="." line="22" column="106" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/create-new-group.js" timestamp="1602711245825">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/generateLabels.js" timestamp="1603327088242">
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="38" />
+        <mark key="." line="67" column="38" />
+        <mark key="^" line="67" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/accounts/add-single-user.js" timestamp="1603904592443" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -181,20 +191,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2e3571d833e8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2codGFncy5DQV9BTEVSVF9ERVRBSUwubmFtZSkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2e3571d833e8</text>
+        <text>../../</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkcml2ZXIgPSBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCk7CiAgICAgICAgZHJpdmVyLm1hbmFnZSgpLndpbmRvdygpLnNldFJlY3Qoe3dpZHRoOiA2NDAsIGhlaWdodDogNDgwfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvV29ya2luZ0RpcmVjdG9yeSA9ICcuLi8uLi8uLi8nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -225,86 +235,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codGFncy5DQV9BTEVSVF9ERVRBSUwubmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text>package-lock.json</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB0YWdzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnZG0tdmlnaWwvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIubWFuYWdlKCkud2luZG93KCkubWF4aW1pemUoKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2codGFncyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Zm9yIChjb25zdCB0YWcgb2YgT2JqZWN0LmtleXModGFncykpIHsKICAgIHRhZy5uYW1lOwp9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>mainView.Accounts().selectAddUserAccounts('single user account');
-            mainView.addEditUserAccountModal().setEmail(`${username}.kjcwwc2v@mailosaur.io`);
-            mainView.addEditUserAccountModal().setFirstName('Selenium');
-            mainView.addEditUserAccountModal().setLastName('Automated');
-            mainView.addEditUserAccountModal().setPosition('Automated Drone');
-            mainView.addEditUserAccountModal().setMobilePhone('4064064006');
-            mainView.addEditUserAccountModal().selectTimezone('-6:00 GMT America/Costa_Rica');
-            mainView.addEditUserAccountModal().selectRole('standard');
-            mainView.addEditUserAccountModal().clickAddButton();
-        });
-        test.it('Validate newly created user', function () {
-            mainView.Accounts().setSearchField('Selenium Automated', false);
-            mainView.Accounts().clickSearchButton();
-            mainView.Accounts().clickRowByName('Last Name', 'Automated');
-        });
-        test.it('Validate newly created user', function () {
-            mainView.userDetails().checkSendActivationEmailExists(false);
-            mainView.userDetails().checkHeaderName('Selenium Automated');
-            // mainView.userDetails().checkCreatedDate(); //TODO under construction
-            mainView.userDetails().checkEmail(`${username}.kjcwwc2v@mailosaur.io`);
-            mainView.userDetails().checkFirstName('Selenium');
-            mainView.userDetails().checkLastName('Automated');
-            mainView.userDetails().checkRole('standard', true);
-            mainView.userDetails().checkPosition('Automated Drone');
-            mainView.userDetails().checkMobilePhone('4064064006');
-            mainView.userDetails().checkTimezone('America/Costa_Rica');
-        });
-    });
-    test.describe('Open email and reset password', function () {
-        test.it('Open email and reset password', async function () {
-            user = { USERNAME: username, PASSWORD: '', VERTICAL: 'corp', mailosaur: { username, mailboxId: 'kjcwwc2v', apiKey: '9bo9GAmOuf1YiSw' } };
-
-            const mailosaurView = new MailosaurView(user);
-            const email = await mailosaurView.openEmailByText('Your Dataminr Pulse account is now active');
-            email.checkImageExistsByAlt('Dataminr Pulse Logo');
-            // const link = email.getLinkByText('ACTIVATE ACCOUNT');
-            // temporary fix to hardcode link, remove with QA-2271 / EA-877
-            const link = email.getLinks();
-            util.openWindowAndSwitch(link[0].href);
-        });
-
-        test.it('Reset password', function () {
-            loginView.setNewPasswordFields('1BmqGPz#');
-            loginView.clickSubmitButton(true);
-            loginView.acceptTOSIfPresent();
-            loginView.acceptAuthorizedUserIfPresent();
-        });
-        test.it('Return to hub', function () {
-            util.closeWindowAndSwitch();
-        });
-    });
-    test.describe('Delete user in hub', function () {
-        test.it('Return to hub and delete user', function () {
-            mainView.userDetails().clickManageUserAccount();
-            mainView.userDetails().selectManageUserAccountDropdown('Delete user account');
-            mainView.deleteUsersModal().clickDeleteButton();</text>
+      <register name="6" type="2">
+        <text encoding="base64">Zm9yICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgIC0gU0VfT1BUUz0tZW5hYmxlUGFzc1Rocm91Z2ggZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoK</text>
+        <text encoding="base64">ICAiRU1UX1JFR1JFU1NJT04iOiB7ICJuYW1lIjogIkVNVF9SRUdSRVNTSU9OIiwgImRlc2NyaXB0aW9uIjogIlJ1bnMgYWxsIHRlc3RzIC0gT25seSB1c2UgZm9yIG1ham9yIGNoYW5nZXMgcGxlYXNlISIKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLnNsZWVwdGhyb3cgbmV3IEVycm9yKCdzZXQgc2l6ZSBzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZXM6CiAgICAgIC0gZGF0YS90YWdzLmpzCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
@@ -321,7 +276,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
