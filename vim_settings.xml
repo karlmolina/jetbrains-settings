@@ -117,8 +117,12 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1606958642404">
         <mark key="'" line="0" column="9" />
+        <mark key="[" line="219" column="74" />
+        <mark key="]" line="219" column="74" />
+        <mark key="^" line="219" column="74" />
+        <mark key="." line="219" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/grid.yaml" timestamp="1605910844909">
         <mark key="[" line="8" column="19" />
@@ -232,14 +236,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFncy5DQV9BTEVSVF9ERVRBSUwubmFtZSkK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>../../</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
