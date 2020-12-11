@@ -86,13 +86,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="210" column="74" />
-        <mark key="]" line="210" column="74" />
-        <mark key="^" line="210" column="74" />
-        <mark key="." line="210" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1606155532526">
         <mark key="[" line="768" column="12" />
         <mark key="]" line="768" column="12" />
@@ -105,7 +98,8 @@
       <file name="/Dummy.txt" timestamp="1606155501151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/copy-stream.js" timestamp="1607706597277" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/locators/settings.js" timestamp="1607709257425" />
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/news/settings/power-streams/copy-stream.js" timestamp="1607708749364" />
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/bulk-delete-user.js" timestamp="1603381575110">
         <mark key="[" line="11" column="92" />
         <mark key="]" line="11" column="91" />
