@@ -101,11 +101,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1611097125556">
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="78" column="68" />
-        <mark key="." line="78" column="67" />
-        <mark key="^" line="78" column="68" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1611097964256">
+        <mark key="'" line="73" column="41" />
+        <mark key="[" line="73" column="32" />
+        <mark key="]" line="73" column="33" />
+        <mark key="." line="73" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1605916672895">
         <mark key="[" line="0" column="20" />
@@ -204,18 +204,19 @@
       <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
       <jump line="0" column="9" filename="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" />
+      <jump line="74" column="41" filename="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
@@ -252,31 +253,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGhpcy5zZXRQYXNzd29yZEZpZWxkKHVzZXIuUEFTU1dPUkQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMikgewogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSB1c2VyLlBBU1NXT1JEOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3N1Y2Nlc3NmdWwnKQo=</text>
+        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnc2VsZW5pdW0td2ViZHJpdmVyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VjY2VzcyA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0ICA9IHVzZXIuUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RyeSBsb2dpbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMikgewogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSB1c2VyLlBBU1NXT1JEOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0cnlMb2dpbiA9IGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3N1Y2Nlc3NmdWwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
