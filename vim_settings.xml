@@ -80,6 +80,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/default-before-script.yml" timestamp="1611607576513" />
       <file name="/Dummy.txt" timestamp="1606155501151">
         <mark key="[" line="0" column="0" />
       </file>
