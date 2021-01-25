@@ -83,9 +83,6 @@
       <file name="/Dummy.txt" timestamp="1606155501151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/data/tags.js" timestamp="1603327656537">
-        <mark key="[" line="208" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/account-management/dataminr-users/bulk-delete-user.js" timestamp="1603381575110">
         <mark key="[" line="11" column="92" />
         <mark key="]" line="11" column="91" />
@@ -104,18 +101,17 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1611097964256">
+        <mark key="'" line="73" column="41" />
+        <mark key="[" line="73" column="32" />
+        <mark key="]" line="73" column="33" />
+        <mark key="." line="73" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1605916672895">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" timestamp="1603381485981">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="210" column="74" />
-        <mark key="]" line="210" column="74" />
-        <mark key="^" line="210" column="74" />
-        <mark key="." line="210" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/grid.yaml" timestamp="1605910844909">
         <mark key="[" line="8" column="19" />
@@ -129,17 +125,15 @@
         <mark key="^" line="172" column="22" />
         <mark key="." line="172" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1607707379873">
+        <mark key="[" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/selenium-webdriver/lib/promise.js" timestamp="1611091325616" />
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/emt/emt-admin-content.js" timestamp="1607647187367">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="19" />
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/node_modules/dm-vigil/utils/labeling.js" timestamp="1603327606645">
-        <mark key="[" line="22" column="84" />
-        <mark key="]" line="22" column="107" />
-        <mark key="^" line="22" column="107" />
-        <mark key="." line="22" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1606236299696">
         <mark key="[" line="5" column="11" />
@@ -147,6 +141,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/node_modules/selenium-webdriver/remote/index.js" timestamp="1611091350858" />
       <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1606155532526">
         <mark key="[" line="768" column="12" />
         <mark key="]" line="768" column="12" />
@@ -162,6 +157,7 @@
       <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/utils/test-utils/selenium-webdriver.js" timestamp="1605916718240">
         <mark key="[" line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/data/users.js" timestamp="1611093384485" />
     </filemarks>
     <jumps>
       <jump line="65" column="22" filename="$USER_HOME$/Documents/repos/dm-vigil/data/app-info.json" />
@@ -208,24 +204,25 @@
       <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
       <jump line="0" column="9" filename="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" />
+      <jump line="74" column="41" filename="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFncy5DQV9BTEVSVF9ERVRBSUwubmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>../../</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvV29ya2luZ0RpcmVjdG9yeSA9ICcuLi8uLi8uLi8nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRHJpdmVyTWFuYWdlci5nZXRFeGlzdGluZ0RyaXZlcigpLndhaXQoMCkudGhlbihmdW5jdGlvbigpIHtjb25zb2xlLmxvZygnaGVsbG8nKX0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,31 +253,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFncy5DQV9BTEVSVF9ERVRBSUwubmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB0YWdzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGhpcy5zZXRQYXNzd29yZEZpZWxkKHVzZXIuUEFTU1dPUkQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGFncyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnc2VsZW5pdW0td2ViZHJpdmVyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIChjb25zdCB0YWcgb2YgT2JqZWN0LmtleXModGFncykpIHsKICAgIHRhZy5uYW1lOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0ICA9IHVzZXIuUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiRU1UX1JFR1JFU1NJT04iOiB7ICJuYW1lIjogIkVNVF9SRUdSRVNTSU9OIiwgImRlc2NyaXB0aW9uIjogIlJ1bnMgYWxsIHRlc3RzIC0gT25seSB1c2UgZm9yIG1ham9yIGNoYW5nZXMgcGxlYXNlISIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMikgewogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSB1c2VyLlBBU1NXT1JEOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZXM6CiAgICAgIC0gZGF0YS90YWdzLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3N1Y2Nlc3NmdWwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
