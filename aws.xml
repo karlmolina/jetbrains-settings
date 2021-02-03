@@ -14,4 +14,17 @@
       </list>
     </option>
   </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:ap-northeast-1:686020074689:function:biscuit">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="karlmolina" />
+            </UpdateConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
