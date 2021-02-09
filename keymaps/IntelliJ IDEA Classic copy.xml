@@ -26,6 +26,8 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -75,6 +77,12 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta i" />
