@@ -1,5 +1,7 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
-  <action id="$Redo" />
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -26,6 +28,9 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine" />
