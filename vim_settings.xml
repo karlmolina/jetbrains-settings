@@ -131,6 +131,9 @@
         <mark key="^" line="172" column="22" />
         <mark key="." line="172" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/pas/dashboard/apply-watchlist-toggle-map.js" timestamp="1614806314126">
+        <mark key="'" line="31" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1607707379873">
         <mark key="[" line="24" column="14" />
       </file>
@@ -213,6 +216,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
       <jump line="0" column="9" filename="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" />
       <jump line="74" column="41" filename="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" />
+      <jump line="31" column="17" filename="$USER_HOME$/Documents/repos/ca-testing/tests/pas/dashboard/apply-watchlist-toggle-map.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
