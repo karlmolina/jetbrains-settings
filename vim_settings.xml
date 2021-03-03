@@ -83,6 +83,12 @@
       <file name="/Dummy.txt" timestamp="1606155501151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1614811413120">
+        <mark key="[" line="58" column="63" />
+        <mark key="]" line="58" column="39" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="58" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/fe-build/README.MD" timestamp="1612818495366">
         <mark key="[" line="125" column="31" />
       </file>
@@ -107,23 +113,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1614799196370">
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1614810773733">
         <mark key="'" line="68" column="41" />
         <mark key="[" line="68" column="32" />
         <mark key="]" line="68" column="33" />
         <mark key="." line="68" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/test-imports.js" timestamp="1605916672895">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/grid.yaml" timestamp="1605910844909">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1606930143172">
         <mark key="[" line="169" column="0" />
@@ -133,6 +127,12 @@
       </file>
       <file name="$USER_HOME$/Documents/repos/ca-testing/tests/pas/dashboard/apply-watchlist-toggle-map.js" timestamp="1614806314126">
         <mark key="'" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1614811241847">
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1607707379873">
         <mark key="[" line="24" column="14" />
@@ -221,20 +221,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>retries</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAub3B0aW9uKCctbSwgLS1yZXRyaWVzIFtyZXRyaWVzXScsICdtYXggcmV0cmllcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHJpdmVyTWFuYWdlci5jcmVhdGVEcml2ZXIoaW5mby5VUkwuUFVMU0VfU1RBR0UgfHwgYmFzZVVybCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -265,31 +265,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGhpcy5zZXRQYXNzd29yZEZpZWxkKHVzZXIuUEFTU1dPUkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGhpcy5zZXRQYXNzd29yZEZpZWxkKHVzZXIuUEFTU1dPUkQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnc2VsZW5pdW0td2ViZHJpdmVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0ICA9IHVzZXIuUEFTU1dPUkQ7Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnc2VsZW5pdW0td2ViZHJpdmVyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0ICA9IHVzZXIuUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMikgewogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSB1c2VyLlBBU1NXT1JEOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
