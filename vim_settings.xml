@@ -6,11 +6,17 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>config</entry>
+        <entry>s</entry>
+        <entry>\s\s\s</entry>
+        <entry>quirks</entry>
+        <entry>Quirks</entry>
+      </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -45,98 +51,123 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" timestamp="1588113955402">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/admin-testing/.gitlab-ci.yml" timestamp="1588185204591">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/tests/settings-library/alert-filters/copy/keyword.js" timestamp="1588177602593">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/test-imports.js" timestamp="1588177594786">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="42" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/.gitignore" timestamp="1588265263991">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/admin-testing/Gruntfile.js" timestamp="1588179557527">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/eslint-job.yml" timestamp="1588113898626">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/test-imports.js" timestamp="1588177863072">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="51" />
-        <mark key="^" line="24" column="51" />
-        <mark key="." line="24" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/tests/tracked-alerts/email/gov/1-endorse.js" timestamp="1588177915616">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="80" />
-        <mark key="^" line="11" column="80" />
-        <mark key="." line="11" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/Gruntfile.js" timestamp="1588109723357">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="94" column="5" />
-        <mark key="." line="91" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" timestamp="1588178398940">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/package.json" timestamp="1588119435724">
-        <mark key="[" line="29" column="89" />
-        <mark key="]" line="29" column="66" />
-        <mark key="^" line="29" column="66" />
-        <mark key="." line="29" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" timestamp="1588265140513" />
-      <file name="$USER_HOME$/Documents/repos/dm-vigil/.shared-gitlab-ci/generate-labels.yml" timestamp="1588113892743">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/ghost-testing/Gruntfile.js" timestamp="1588109743899">
+      <file name="/Dummy.txt" timestamp="1606155501151">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/hub-testing/Gruntfile.js" timestamp="1588265337661">
-        <mark key="[" line="122" column="5" />
-        <mark key="]" line="127" column="5" />
-        <mark key="^" line="127" column="5" />
-        <mark key="." line="127" column="4" />
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/setup.js" timestamp="1614811413120">
+        <mark key="[" line="58" column="63" />
+        <mark key="]" line="58" column="39" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="58" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/fe-build/README.MD" timestamp="1612818495366">
+        <mark key="[" line="125" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/Gruntfile.js" timestamp="1614799272540">
+        <mark key="[" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/package.json" timestamp="1607534630362">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="86" />
+        <mark key="^" line="14" column="86" />
+        <mark key="." line="14" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/.gitignore" timestamp="1606155854642">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/fe-build/package.json" timestamp="1612818517814">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" timestamp="1614810773733">
+        <mark key="'" line="68" column="41" />
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="68" column="33" />
+        <mark key="." line="68" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" timestamp="1614896981800">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="115" column="9" />
+        <mark key="^" line="172" column="22" />
+        <mark key="." line="172" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/pas/dashboard/apply-watchlist-toggle-map.js" timestamp="1614806314126">
+        <mark key="'" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/utils/setup.js" timestamp="1614811241847">
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1607707379873">
+        <mark key="[" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/smoketest/tests/emt/emt-admin-content.js" timestamp="1607647187367">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1606236299696">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/criteria-modal.js" timestamp="1606155532526">
+        <mark key="[" line="768" column="12" />
+        <mark key="]" line="768" column="12" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="768" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/hub-testing/node_modules/dm-vigil/utils/test-utils/selenium-webdriver.js" timestamp="1605916718240">
+        <mark key="[" line="6" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/fe-build/bin/rundeck-cli" timestamp="1612817998470">
+        <mark key="[" line="521" column="50" />
+        <mark key="]" line="550" column="0" />
+        <mark key="." line="550" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/fe-build/CHANGELOG.md" timestamp="1612817904500">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -150,21 +181,60 @@
       <jump line="16" column="37" filename="$USER_HOME$/Documents/repos/hub-testing/tests/hub/bulk-update-roles.js" />
       <jump line="146" column="12" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
       <jump line="678" column="0" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/clientapp/views/rules-components.js" />
+      <jump line="34" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/admin/flows/new-user.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/Documents/repos/hub-testing/tests/hub/add-single-user.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/repos/ghost-testing/tests/government/crosspost-verified-user.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/test/run-mock-driver.js" />
+      <jump line="326" column="27" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" />
+      <jump line="489" column="51" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/app/elements.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/repos/ca-testing/node_modules/dm-vigil/grunt/shared-grunt-file.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/grunt/shared-grunt-file.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/repos/enterprise-management-testing/.gitlab-ci.yml" />
+      <jump line="166" column="20" filename="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" />
+      <jump line="140" column="30" filename="$USER_HOME$/Documents/repos/ghost-testing/node_modules/mocha-multi-reporters/lib/MultiReporters.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
+      <jump line="44" column="28" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
+      <jump line="125" column="52" filename="$USER_HOME$/Documents/repos/dm-vigil/utils/test-utils/custom-xunit-reporter.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/repos/smoketest/tests/emd/my-account-site.js" />
+      <jump line="39" column="12" filename="$USER_HOME$/Documents/repos/smoketest/tests/emd/my-account-site.js" />
+      <jump line="68" column="31" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/repos/tag-proxy/config/__init__.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" />
+      <jump line="116" column="30" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" />
+      <jump line="120" column="4" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_config/test_config.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/repos/tag-proxy/README.md" />
+      <jump line="17" column="16" filename="$USER_HOME$/Documents/repos/tag-proxy/README.md" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/repos/tag-proxy/README.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/repos/tag-proxy/tag_proxy/label_retriever.py" />
+      <jump line="99" column="1" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
+      <jump line="20" column="67" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
+      <jump line="236" column="9" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
+      <jump line="233" column="50" filename="$USER_HOME$/Documents/repos/tag-proxy/test/test_tag_proxy/test_merge_request_handler.py" />
+      <jump line="22" column="2" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
+      <jump line="39" column="52" filename="$USER_HOME$/Documents/repos/test-testing/test/drag-and-drop.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/repos/dm-vigil/.gitlab-ci.yml" />
+      <jump line="0" column="9" filename="$USER_HOME$/Documents/repos/dm-vigil/data/tags.js" />
+      <jump line="74" column="41" filename="$USER_HOME$/Documents/repos/dm-vigil/clientapp/views/login.js" />
+      <jump line="31" column="17" filename="$USER_HOME$/Documents/repos/ca-testing/tests/pas/dashboard/apply-watchlist-toggle-map.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eslint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvY2Vzcy5lbnYuQlVJTERfVVJMKSB7CiAgICAgICAgICAgIGplbmtpbnNDb25zb2xlVXJsID0gWyc8IVtDREFUQVsnLCAnQnVpbGQgQ29uc29sZSBPdXRwdXQ6ICcsIHByb2Nlc3MuZW52LkJVSUxEX1VSTCwgJ2NvbnNvbGVGdWxsJywgJ11dPlxuXG4nXS5qb2luKCcnKTsKICAgICAgICAgICAgc3lzdGVtT3V0ID0gdGFnKCdzeXN0ZW0tb3V0Jywge30sIGplbmtpbnNDb25zb2xlVXJsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eslint</text>
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>Quirks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGZpbGU6IC5zaGFyZWQtZ2l0bGFiLWNpL2VzbGludC1qb2IueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvY2Vzcy5lbnYuQlVJTERfVVJMKSB7CiAgICAgICAgICAgIGplbmtpbnNDb25zb2xlVXJsID0gWyc8IVtDREFUQVsnLCAnQnVpbGQgQ29uc29sZSBPdXRwdXQ6ICcsIHByb2Nlc3MuZW52LkJVSUxEX1VSTCwgJ2NvbnNvbGVGdWxsJywgJ11dPlxuXG4nXS5qb2luKCcnKTsKICAgICAgICAgICAgc3lzdGVtT3V0ID0gdGFnKCdzeXN0ZW0tb3V0Jywge30sIGplbmtpbnNDb25zb2xlVXJsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -195,40 +265,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyB0YWdnZXIgfSA9IHJlcXVpcmUoJ2RtLXZpZ2lsL3V0aWxzL2xhYmVsaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFncy5FTURfRURJVF9DUklUX0xJU1QgPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdGFncyA9IHJlcXVpcmUoJ2RtLXZpZ2lsL2RhdGEvdGFncycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLSBmaWxlOiAuc2hhcmVkLWdpdGxhYi1jaS9nZW5lcmF0ZS1sYWJlbHMueW1sCiAgICBwcm9qZWN0OiB0ZXN0LXRlYW0vZG0tdmlnaWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdGhpcy5zZXRQYXNzd29yZEZpZWxkKHVzZXIuUEFTU1dPUkQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlZjogZ2VuZXJhdGUtbGFiZWxzLWNpLWpvYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2ViZHJpdmVyID0gcmVxdWlyZSgnc2VsZW5pdW0td2ViZHJpdmVyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0UmVnZXggfSBmcm9tICdkbS12aWdpbC91dGlscy9sYWJlbGluZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0ICA9IHVzZXIuUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIHN1Y2Nlc3MgY2hlY2sgd2FzIG91dHNpZGUgdGhlIGNvbnRyb2wgZmxvdywgdGhlIHByZXZpb3VzIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC5hZnRlcihmdW5jdGlvbiAoKSB7CiAgICBEcml2ZXJNYW5hZ2VyLmdldEV4aXN0aW5nRHJpdmVyKCkucXVpdCgpOwp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gJ3dyb25nJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m .-2</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Quirks</last-search>
+      <last-offset />
+      <last-pattern>Quirks</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>

@@ -1,16 +1,19 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
   <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="CheckinProject" />
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
+  <action id="ChooseRunConfiguration" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -26,8 +29,10 @@
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -38,6 +43,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Exit" />
   <action id="ExternalSystem.EditRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
@@ -51,9 +57,15 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta m" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoFile" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -70,12 +82,21 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="RecentChanges" />
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
@@ -87,6 +108,10 @@
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Uml.ShowDiff" />
