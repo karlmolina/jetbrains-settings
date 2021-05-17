@@ -25,55 +25,55 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">YWx0IHByZXNzZWQgSw==</text>
+        <text>alt pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">YWx0IHByZXNzZWQgSg==</text>
+        <text>alt pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -137,13 +137,15 @@
       <file name="$USER_HOME$/Documents/repos/ghost-testing/node_modules/dm-vigil/ghost/views/main.js" timestamp="1607707379873">
         <mark key="[" line="24" column="14" />
       </file>
+      <file name="filetypes.xml" timestamp="1620423220713">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/smoketest/tests/emt/emt-admin-content.js" timestamp="1607647187367">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="19" />
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/ca-testing/tests/government/rbac/first-alert-standard-emd/alert-user-detail.js" timestamp="1618341432088" />
       <file name="$USER_HOME$/Documents/repos/hub-testing/docker-compose.yml" timestamp="1606236299696">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -307,7 +309,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
