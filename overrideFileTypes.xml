@@ -1,0 +1,8 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Documents/repos/alert-customization/infra/alert-customization-streams/prod/config/application.conf" value="HOCON" />
+    <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/main/resources/application.conf" />
+    <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/test/resources/application.conf" />
+    <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/test/resources/local.application.conf" />
+  </component>
+</application>

@@ -1,9 +1,33 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="akka.stream.scaladsl" />
+    <EXCLUDED_PACKAGE NAME="com.dataminr.skybar.ganglia.ConfigModule" />
+    <EXCLUDED_PACKAGE NAME="com.esotericsoftware.kryo.serializers.FieldSerializer.Bind" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.name.Named" />
+    <EXCLUDED_PACKAGE NAME="com.sun.jersey.spi.inject.Inject" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForClassTypes.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.inject" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.inject.name.Named" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert" />
+    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.AssertTrue" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="LINE_SPACING" value="1.0" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py; *.groovy; *.java, *.scala" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />

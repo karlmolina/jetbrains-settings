@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="alerting-alert-customization-streams-test-65" id="029b68e4-2896-43ed-95d9-e65535217aae" port="22" nameFormat="DESCRIPTIVE" username="kmolina" />
+    </configs>
+  </component>
+</application>
