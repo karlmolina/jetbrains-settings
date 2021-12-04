@@ -5,16 +5,33 @@
   <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PyMissingTypeHintsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+  <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_onlyWhenTypesAreKnown" value="false" />
   </inspection_tool>
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="17">
           <item index="0" class="java.lang.String" itemvalue="gitlab" />
+          <item index="1" class="java.lang.String" itemvalue="pydantic" />
+          <item index="2" class="java.lang.String" itemvalue="chromedriver-autoinstaller" />
+          <item index="3" class="java.lang.String" itemvalue="mypy" />
+          <item index="4" class="java.lang.String" itemvalue="pylint" />
+          <item index="5" class="java.lang.String" itemvalue="PyYAML" />
+          <item index="6" class="java.lang.String" itemvalue="black" />
+          <item index="7" class="java.lang.String" itemvalue="pre-commit" />
+          <item index="8" class="java.lang.String" itemvalue="seleniumbase" />
+          <item index="9" class="java.lang.String" itemvalue="pydocstyle" />
+          <item index="10" class="java.lang.String" itemvalue="flake8" />
+          <item index="11" class="java.lang.String" itemvalue="docker" />
+          <item index="12" class="java.lang.String" itemvalue="mailosaur" />
+          <item index="13" class="java.lang.String" itemvalue="pyenchant" />
+          <item index="14" class="java.lang.String" itemvalue="pytest" />
+          <item index="15" class="java.lang.String" itemvalue="pytest-html" />
+          <item index="16" class="java.lang.String" itemvalue="Appium-Python-Client" />
         </list>
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="Pylint" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>

@@ -1,0 +1,21 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueTo" value="255" />
+    <option name="colorAlpha" value="255" />
+    <option name="customBamImageFolder" value="$USER_HOME$/Documents/repos/dm-patrol" />
+    <option name="customFlameImageFolder" value="$USER_HOME$/Downloads/testimages" />
+    <option name="enabled" value="false" />
+    <option name="flameLife" value="1000" />
+    <option name="frameRate" value="24" />
+    <option name="gravityFactor" value="78.15" />
+    <option name="isCaretAction" value="true" />
+    <option name="maxFlameSize" value="500" />
+    <option name="redFrom" value="0" />
+    <option name="shakeRange" value="10" />
+    <option name="soundsFolder" value="$USER_HOME$/Documents/repos/dm-patrol" />
+    <option name="sparkCount" value="30" />
+    <option name="sparkLife" value="3033" />
+    <option name="sparkSize" value="7" />
+    <option name="sparkVelocityFactor" value="19.13" />
+  </component>
+</application>
