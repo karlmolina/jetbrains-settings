@@ -40,12 +40,12 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Exit" />
   <action id="ExternalSystem.EditRunConfiguration">
@@ -77,12 +77,8 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
