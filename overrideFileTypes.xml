@@ -4,5 +4,6 @@
     <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/main/resources/application.conf" />
     <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/test/resources/application.conf" />
     <file url="file://$USER_HOME$/Documents/repos/marinara/marinara-server/src/test/resources/local.application.conf" />
+    <file url="file://$USER_HOME$/Documents/repos/watchlist-matching/watchlist-matching-indexer/src/main/resources/application.conf" value="HOCON" />
   </component>
 </application>
