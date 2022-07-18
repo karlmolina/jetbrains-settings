@@ -66,9 +66,7 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
+  <action id="Generate" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
@@ -114,6 +112,10 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Uml.ShowDiff" />
