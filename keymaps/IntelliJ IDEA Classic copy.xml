@@ -40,11 +40,13 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="meta k" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Exit" />
@@ -64,7 +66,9 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="Generate" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
@@ -80,9 +84,6 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -110,17 +111,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Uml.ShowDiff" />
@@ -131,12 +124,6 @@
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
-  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
