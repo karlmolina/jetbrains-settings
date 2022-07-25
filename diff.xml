@@ -58,13 +58,11 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="DuplicateInspectionPresentation">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="SHOW_WHITESPACES" value="true" />
