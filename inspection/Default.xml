@@ -1,6 +1,16 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="_" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
   <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -11,7 +21,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="17">
+        <list size="20">
           <item index="0" class="java.lang.String" itemvalue="gitlab" />
           <item index="1" class="java.lang.String" itemvalue="pydantic" />
           <item index="2" class="java.lang.String" itemvalue="chromedriver-autoinstaller" />
@@ -29,6 +39,9 @@
           <item index="14" class="java.lang.String" itemvalue="pytest" />
           <item index="15" class="java.lang.String" itemvalue="pytest-html" />
           <item index="16" class="java.lang.String" itemvalue="Appium-Python-Client" />
+          <item index="17" class="java.lang.String" itemvalue="selenium" />
+          <item index="18" class="java.lang.String" itemvalue="numpy" />
+          <item index="19" class="java.lang.String" itemvalue="Flask" />
         </list>
       </value>
     </option>
