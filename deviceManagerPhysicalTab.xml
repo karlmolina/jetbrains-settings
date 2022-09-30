@@ -12,6 +12,18 @@
         <target value="Android API 33" />
         <api value="33" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="08041JEC204325" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-30T16:14:44.022314Z" />
+        <name value="Google Pixel 4a" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
