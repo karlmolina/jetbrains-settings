@@ -78,7 +78,9 @@
   <action id="Generate" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
