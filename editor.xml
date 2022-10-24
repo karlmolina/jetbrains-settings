@@ -10,7 +10,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py; *.json" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
