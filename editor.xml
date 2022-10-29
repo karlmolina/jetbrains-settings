@@ -5,12 +5,17 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="android.graphics.Color" />
+    <EXCLUDED_PACKAGE NAME="android.inputmethodservice.Keyboard.Row" />
     <EXCLUDED_PACKAGE NAME="android.widget.Button" />
+    <EXCLUDED_PACKAGE NAME="androidx.compose.ui.graphics.BlendMode.Companion.Color" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.input.pointer.PointerIconDefaults.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.Role.Companion.Button" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.text.input.KeyboardType.Companion.Text" />
+    <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
+    <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
     <EXCLUDED_PACKAGE NAME="org.w3c.dom.Text" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
