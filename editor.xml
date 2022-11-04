@@ -17,9 +17,13 @@
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.text.input.KeyboardType.Companion.Text" />
+    <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
+    <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
+    <EXCLUDED_PACKAGE NAME="java.util.concurrent.Flow" />
     <EXCLUDED_PACKAGE NAME="java.util.prefs.Preferences" />
+    <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.Flow" />
     <EXCLUDED_PACKAGE NAME="org.w3c.dom.Text" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
