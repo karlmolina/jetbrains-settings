@@ -7,9 +7,14 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="android.graphics.Color" />
     <EXCLUDED_PACKAGE NAME="android.graphics.drawable.Icon" />
+    <EXCLUDED_PACKAGE NAME="android.graphics.fonts.FontStyle" />
+    <EXCLUDED_PACKAGE NAME="android.graphics.fonts.FontStyle" />
     <EXCLUDED_PACKAGE NAME="android.inputmethodservice.Keyboard.Row" />
     <EXCLUDED_PACKAGE NAME="android.media.Image" />
+    <EXCLUDED_PACKAGE NAME="android.text.Layout.Alignment" />
+    <EXCLUDED_PACKAGE NAME="android.text.Layout.Alignment" />
     <EXCLUDED_PACKAGE NAME="android.widget.Button" />
+    <EXCLUDED_PACKAGE NAME="android.widget.GridLayout.Alignment" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.graphics.BlendMode.Companion.Color" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.input.pointer.PointerIconDefaults.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.Role.Companion.Button" />
@@ -17,6 +22,7 @@
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.SemanticsProperties.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.text.input.KeyboardType.Companion.Text" />
+    <EXCLUDED_PACKAGE NAME="androidx.compose.ui.text.style.LineHeightStyle.Alignment" />
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
@@ -24,6 +30,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.concurrent.Flow" />
     <EXCLUDED_PACKAGE NAME="java.util.prefs.Preferences" />
     <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.Flow" />
+    <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.JdkConstants.FontStyle" />
     <EXCLUDED_PACKAGE NAME="org.w3c.dom.Text" />
   </component>
   <component name="CodeVisionSettings">
