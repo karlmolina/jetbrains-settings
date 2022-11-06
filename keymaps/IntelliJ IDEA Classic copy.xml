@@ -44,7 +44,6 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="meta j" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate" />
@@ -125,6 +124,9 @@
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
