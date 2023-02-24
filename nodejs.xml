@@ -1,6 +1,19 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v13.1.0/bin/node" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.13.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.13.0/bin/node">
+      <version-cache version="18.13.0" last-modified="1672958405000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.3/bin/node">
+      <version-cache version="14.17.3" last-modified="1625496234000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v13.14.0/bin/node">
+      <version-cache version="13.14.0" last-modified="1588191975000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v13.1.0/bin/node">
+      <version-cache version="13.1.0" last-modified="1572973761000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.13.0/bin/node">
+      <version-cache version="12.13.0" last-modified="1571643958000" />
+    </local-interpreter>
   </component>
 </application>
