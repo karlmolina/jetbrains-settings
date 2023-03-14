@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="localhost" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
+        <option value="failed" />
+        <option value="http" />
         <option value="localhost" />
         <option value="ok" />
         <option value="package:mine System.out" />
