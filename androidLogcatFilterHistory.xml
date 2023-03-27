@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="okhttp" />
         <option value="failed" />
         <option value="http" />
@@ -11,7 +11,6 @@
         <option value="package:mine System.out" />
         <option value="package:mine" />
         <option value="package:edu.montana.ipal" />
-        <option value="package:mine " />
         <option value="package:mine seek" />
         <option value="package:mine sys" />
       </list>
