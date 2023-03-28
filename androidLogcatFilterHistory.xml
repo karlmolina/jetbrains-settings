@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="password re" />
     <option name="nonFavorites">
       <list>
+        <option value="password re" />
         <option value="result" />
         <option value="failed sinc" />
         <option value="package:mine " />
