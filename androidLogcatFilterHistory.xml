@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="authquick" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="fail" />
         <option value="authquick" />
         <option value="password re" />
         <option value="result" />
         <option value="failed sinc" />
-        <option value="package:mine " />
         <option value="authquickstart" />
         <option value="signed out" />
         <option value="http" />
