@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
-        <option value="http" />
         <option value="package:mine " />
+        <option value="min" />
+        <option value="http" />
         <option value="fail" />
         <option value="authquick" />
         <option value="password re" />
