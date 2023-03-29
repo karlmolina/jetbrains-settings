@@ -16,6 +16,7 @@
     <EXCLUDED_PACKAGE NAME="android.widget.Button" />
     <EXCLUDED_PACKAGE NAME="android.widget.GridLayout.Alignment" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.graphics.BlendMode.Companion.Color" />
+    <EXCLUDED_PACKAGE NAME="androidx.compose.ui.graphics.BlendMode.Companion.Screen" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.input.pointer.PointerIconDefaults.Text" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.Role.Companion.Button" />
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.semantics.Role.Companion.Image" />
@@ -26,6 +27,7 @@
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="aws.sdk.kotlin.services.cognitoidentityprovider.model" />
+    <EXCLUDED_PACKAGE NAME="com.amplifyframework.core" />
     <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.util.concurrent.Flow" />
