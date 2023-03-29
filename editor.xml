@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="aws.sdk.kotlin.services.cognitoidentityprovider.model" />
     <EXCLUDED_PACKAGE NAME="com.amplifyframework.core" />
+    <EXCLUDED_PACKAGE NAME="com.google.android.exoplayer2.util.Log" />
     <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.util.concurrent.Flow" />
