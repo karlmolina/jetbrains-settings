@@ -1,12 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine -message:ripple" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -message:ripple" />
+        <option value="package:mine -message:" />
+        <option value="package:mine -" />
         <option value="package:mine " />
+        <option value="min" />
+        <option value="http" />
+        <option value="fail" />
+        <option value="authquick" />
+        <option value="password re" />
+        <option value="result" />
+        <option value="failed sinc" />
+        <option value="authquickstart" />
+        <option value="signed out" />
+        <option value="okhttp" />
+        <option value="failed" />
+        <option value="localhost" />
+        <option value="ok" />
         <option value="package:mine System.out" />
         <option value="package:mine" />
-        <option value="package:mine seek" />
-        <option value="package:mine sys" />
+        <option value="package:edu.montana.ipal" />
       </list>
     </option>
   </component>
