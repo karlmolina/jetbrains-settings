@@ -24,6 +24,13 @@
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
