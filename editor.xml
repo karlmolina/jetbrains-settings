@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
@@ -58,6 +59,7 @@
     <option name="TOOLTIPS_DELAY_MS" value="200" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
