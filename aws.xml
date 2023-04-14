@@ -6,10 +6,9 @@
     <option name="value">
       <list>
         <ExecutableState>
-          <option name="autoResolved" value="true" />
           <option name="executablePath" value="/usr/local/bin/sam" />
           <option name="id" value="samCli" />
-          <option name="lastKnownFileTime" value="1673973520506" />
+          <option name="lastKnownFileTime" value="1681339654826" />
         </ExecutableState>
       </list>
     </option>
