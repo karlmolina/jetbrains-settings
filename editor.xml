@@ -35,6 +35,8 @@
     <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
     <EXCLUDED_PACKAGE NAME="java.util.concurrent.Flow" />
     <EXCLUDED_PACKAGE NAME="java.util.prefs.Preferences" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
     <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.Flow" />
     <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.JdkConstants.FontStyle" />
     <EXCLUDED_PACKAGE NAME="org.w3c.dom.Text" />
@@ -65,7 +67,7 @@
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old.java.enums" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
