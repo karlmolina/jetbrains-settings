@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="androidx.compose.ui.text.style.LineHeightStyle.Alignment" />
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
     <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.helper.widget.Flow" />
+    <EXCLUDED_PACKAGE NAME="androidx.constraintlayout.solver.widgets.Flow" />
     <EXCLUDED_PACKAGE NAME="aws.sdk.kotlin.services.cognitoidentityprovider.model" />
     <EXCLUDED_PACKAGE NAME="com.amplifyframework.core" />
     <EXCLUDED_PACKAGE NAME="com.google.android.exoplayer2.util.Log" />
@@ -37,6 +38,9 @@
     <EXCLUDED_PACKAGE NAME="java.util.prefs.Preferences" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
+    <EXCLUDED_PACKAGE NAME="kotlinx.coroutines.DefaultExecutor.delay" />
+    <EXCLUDED_PACKAGE NAME="kotlinx.coroutines.DefaultExecutor.delay" />
+    <EXCLUDED_PACKAGE NAME="org.bouncycastle.util.test.SimpleTest.runTest" />
     <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.Flow" />
     <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.JdkConstants.FontStyle" />
     <EXCLUDED_PACKAGE NAME="org.w3c.dom.Text" />
