@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value=" -message:ripple" />
+        <option value=" -message:ripple http" />
         <option value="package:mine -message:ripple" />
         <option value="package:mine -message:" />
         <option value="package:mine -" />
@@ -22,7 +23,6 @@
         <option value="localhost" />
         <option value="ok" />
         <option value="package:mine System.out" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
