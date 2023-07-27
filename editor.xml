@@ -55,6 +55,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py; *.kt; *.java; *.ts" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="false" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="100" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
