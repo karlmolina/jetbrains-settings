@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!pnpm-lock.yaml" />
     <mask>.py</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
@@ -12,5 +13,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>!*.java</mask>
+    <mask>!pnpm-lock.yaml</mask>
   </component>
 </application>
