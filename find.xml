@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!pnpm-lock.yaml,!LICENSE.txt,!*lock*,!Dockerfile,!*.svg" />
+    <option name="FILE_MASK" value="!pnpm-lock.yaml,!LICENSE.txt,!*lock*,!Dockerfile,!*.svg,*.php" />
     <mask>.py</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
@@ -16,7 +16,7 @@
     <mask>!pnpm-lock.yaml</mask>
     <mask>!pnpm-lock.yaml,!LICENCE.txt</mask>
     <mask>!pnpm-lock.yaml,!LICENSE.txt,!*lock*</mask>
-    <mask>!pnpm-lock.yaml,!LICENSE.txt,!*lock*,!Dockerfile,!*.svg,*.php</mask>
     <mask>!pnpm-lock.yaml,!LICENSE.txt,!*lock*,!Dockerfile,!*.svg</mask>
+    <mask>!pnpm-lock.yaml,!LICENSE.txt,!*lock*,!Dockerfile,!*.svg,*.php</mask>
   </component>
 </application>
